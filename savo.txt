@@ -1,0 +1,25 @@
+Kangasniemi Aaa - 066 KE 16. _ Elokuu 09.00 | Kunnantalo, Otto Mannisen tie 2, Kangasniemi
+Juva Aaa - 066 TO 17. __ Elokuu 09.00_| Kunnanvirasto, Juvantie 13, Juva
+Mantyharju Aaa - 066 Tl 22. _ Elokuu 09.00_| Seurakuntakeskus, Kompantie 6, Mantyharju
+Pertunmaa Aaa - 066 KE 23. _ Elokuu 09.00 _| Kunnanvirasto, Pertuntie 14, Pertunmaa
+Hirvensalmi Aaa - 066 KE 23. _ Elokuu 09.00 _| Kunnanvirasto, Pertuntie 14, Pertunmaa
+Puumala Aaa - 066 Tl 29. __Elokuu 09.00 _| Kunnan virastotalo, Keskustie 14, Puumala
+Sulkava Aaa - 066 Tl 29. _Elokuu 09.00 | Kunnan virastotalo, Keskustie 14, Puumala
+Rantasalmi Aaa - 066 KE 30. _Elokuu 09.00_| Kunnanvirasto, Poikkitie 2, Rantasalmi
+Savonlinna Aaa - Kaj MA 9. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Kak - Lun Tl 10. _ Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Luo - Poh KE 11.__ Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Poi - Suh TO 12. __ Lokakuu 09.00 _| Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Sui - O66 PE 13. Lokakuu 09.00_| Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Enonkoski Aaa - 066 PE 13.___ Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Pieksamaki Aaa - Lam Tl 17. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
+Pieksamaki Lan - Ris KE 18. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
+Pieksamaki Rit - 066 TO 19. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
+Mikkeli Aaa - Hor KE 1. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Hos - Koi TO 2. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Koj - Lii PE 3. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Lij - Nyl MA 6. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Nym - Red Tl 7. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Ree - Toi KE 8. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Toj - O66 TO 9. Marraskuu__09.00_ | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Erikseen maaratyt | PE 15. Joulukuu 09.00 | Ravintola Pitopadan alakerta, Rak. 2, Marssitie 16, Mikkeli
