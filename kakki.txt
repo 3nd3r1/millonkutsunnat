@@ -1,0 +1,30 @@
+Taipalsaari Aaa - 006 Tl 15._| Elokuu 08.45 | Taipalsaaren kunnantalo, Kelloméentie 1, 54920 Taipalsaari
+Savitaipale | Aaa- 086 KE_| 16. | Elokwu 08.45 | Savitaipaleen liikuntatalo, Jonni Myyran tie 1, 54800 Savitaipale
+Luumaki Aaa - 086 to | 17. | Elokw 08.45 | Luumaen kunnantalo Linnalantie 33, 54500 Taavetti
+Lemi Aaa - 006 To | 17. | Elokw 08.45 | Luumden kunnantalo Linnalantie 33, 54500 Taavetti
+Ruokolahti Aaa - 066 Tl 22. Elokuu 08.45 | STEP-koulutus Ruokolahti, Opistontie 21, 56100 Ruokolahti
+Parikkala Aaa - 006 KE_| 23. | Elokuu 08.45 | Parikkalan kunnantalo Harjulinna, Harjukuja 6, 59100 Parikkala
+Rautjarvi Aaa - 006 To | 24. | Elokwu 08.45 | Rautjarven kunnantalo, Simpeleentie 12, 56800 Simpele
+Imatra Aaa - Myl KE 13._| Syyskuu 08.45 | Kulttuuritalo Virta ,Virastokatu 1, 55100 Imatra
+Imatra Mym - 066 To | 14. | syyskuu | 08.45 | Kulttuuritalo Virta Virastokatu 1, 55100 Imatra
+Lappeenranta | Aaa -lis MA _| 25. | Syyskuu | 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
+Lappeenranta | lit- Lan Tr_| 26. | Syyskuu | 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
+Lappeenranta | Lao-Paa keE_| 27. | Syyskuu__| 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
+Lappeenranta | Pab - Sor To | 28. | syyskuu | 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
+Lappeenranta | Sos - 006 PE_| 29. | Syyskuu__| 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
+Hamina Aaa - Kul MA_|_9. | Lokakuy | 08.45 | Vehkalahti-talo, Ruissalontie 8, 49410 Hamina
+Hamina Kuj - 006 ti_| 10. | Lokakuy | 08.45 | Vehkalahti-talo, Ruissalontie 8, 49410 Hamina
+Miehikkala | Aaa- 000 KE | 14. | Lokakuu | 08.45 | Miehikkalan koulu, Keskustie 9, 49700 Miehikkala
+Virotahti Aaa - 006 KE | 14. | Lokakuy | 08.45 | Miehikkalan koulu, Keskustie 9, 49700 Miehikkala
+Pyhtaa Aaa - 006 To | 12. | Lokakuu | 08.45 | Huutjarven koulu, Huutjarventie 56, 49210 Huutjarvi
+Kotka Aaa - Jan ti_| 17. | Lokakuu_| 08.45 | Yhteisbtalo MESSI, Kirkkokatu 22, 48100 Kotka
+Kotka Jao - Nil KE | 18. | Lokakuu | 08.45 | Yhteisétalo MESSI, Kirkkokatu 22, 48100 Kotka
+Kotka Nij- Sut To _| 19. | Lokakuu | 08.45 | Yhteisotalo MESSI, Kirkkokatu 22, 48100 Kotka
+Kotka Suu - 066 PE 20. Lokakuu 08.45 | Yhteisétalo MESSI, Kirkkokatu 22, 48100 Kotka
+Kouvola Aaa -Ilm Tl 14. Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola lin- Kun ke | 15. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola Kuo - Myn TO 16. Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola Myo - Raj MA_| 20. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola Rak - Tam Ti_| 21. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola Tan - 086 KE_| 22. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
+Kouvola Erikseen maaratyt TO 14. Joulukuu 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola

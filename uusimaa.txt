@@ -1,0 +1,73 @@
+Loviisa – Lapinjärvi AAA – ÖÖÖ 15.08.2023 ti 08:50 Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa
+Porvoo AAA – JÅF 16.08.2023 ke 08:50 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo JÅG – PAA 17.08.2023 to 08:50 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo PAB – ÖÖÖ 18.08.2023 pe 08:50 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Siuntio – Inkoo AAA – ÖÖÖ 22.08.2023 ti 08:50 Fennia Arena, Aleksis Kiven tie 7, Siuntio
+Hanko AAA – ÖÖÖ 23.08.2023 ke 08:50 Kaupungintalon juhlatilat, Vuorikatu 1, Hanko
+Raasepori AAA – KUP 24.08.2023 to 08:50 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Raasepori KUQ – ÖÖÖ 25.08.2023 pe 08:50 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Hyvinkää AAA – LAA 28.08.2023 ma 08:50 Seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää LAB – RAA 29.08.2023 ti 08:50 Seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää RAB – ÖÖÖ 30.08.2023 ke 08:50 Seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Tuusula AAA – LAA 31.08.2023 to 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Tuusula LAB – SAA 01.09.2023 pe 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Tuusula SAB – ÖÖÖ 04.09.2023 ma 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Järvenpää AAA – MÄL 05.09.2023 ti 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Järvenpää MÄM – ÖÖÖ 06.09.2023 ke 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Kerava AAA – LEH 07.09.2023 to 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Kerava LEI – ÖÖÖ 08.09.2023 pe 08:50 Puolustusvoimien Kurssikeskus, Rantatie 66, Tuusula
+Pukkila – Myrskylä AAA – ÖÖÖ 12.09.2023 ti 08:50 Pukkilan Nuorisoseurantalo, Veteraanitie 9, Pukkila
+Karkkila AAA – ÖÖÖ 14.09.2023 to 08:50 Työväentalo Karkkila, Vihdintie 2, Karkkila
+Mäntsälä AAA – LII 27.09.2023 ke 08:50 Kunnantalo, Heikinkuja 4, Mäntsälä
+Mäntsälä LIJ – ÖÖÖ 28.09.2023 to 08:50 Kunnantalo, Heikinkuja 4, Mäntsälä
+Vihti AAA – LUO 29.09.2023 pe 08:50 Vihdin Seurakuntatalo, Niuhulanraitti 6, Vihti
+Vihti LUP – ÖÖÖ 02.10.2023 ma 08:50 Vihdin Seurakuntatalo, Niuhulanraitti 6, Vihti
+Lohja AAA – LAI 03.10.2023 ti 08:50 Laurentius-talo, Kirkkokatu 6, Lohja
+Lohja LAJ – RÄI 04.10.2023 ke 08:50 Laurentius-talo, Kirkkokatu 6, Lohja
+Lohja RÄJ – ÖÖÖ 05.10.2023 to 08:50 Laurentius-talo, Kirkkokatu 6, Lohja
+Askola – Pornainen AAA – ÖÖÖ 06.10.2023 pe 08:50 Askola-Areena, Linnakoskentie 61, Askola
+Sipoo AAA – LUN 09.10.2023 ma 08:50 Kirkonkylän seurakuntatalo, Iso Kylätie 1, Sipoo
+Sipoo LUO – ÖÖÖ 10.10.2023 ti 08:50 Kirkonkylän seurakuntatalo, Iso Kylätie 1, Sipoo
+Kirkkonummi AAA – MEN 11.10.2023 ke 08:50 Kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi MEO – ÖÖÖ 12.10.2023 to 08:50 Kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi - ruotsinkieliset AAA – ÖÖÖ 13.10.2023 pe 08:50 Kunnantalo, Ervastintie 2, Kirkkonummi
+Nurmijärvi AAA – KUL 16.10.2023 ma 08:50 Seurakuntakeskus, Kirstaantie 5-7, Nurmijärvi
+Nurmijärvi KUM – PEL 17.10.2023 ti 08:50 Seurakuntakeskus, Kirstaantie 5-7, Nurmijärvi
+Nurmijärvi PEM – ÖÖÖ 18.10.2023 ke 08:50 Seurakuntakeskus, Kirstaantie 5-7, Nurmijärvi
+Kauniainen AAA – ÖÖÖ 19.10.2023 to 08:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo - ruotsinkieliset AAA – ÖÖÖ 20.10.2023 pe 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo AAA – ERV 23.10.2023 ma 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo ERW – HÄM 24.10.2023 ti 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo HÄN – KIR 25.10.2023 ke 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo KIS – LEM 26.10.2023 to 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo LEN – MYY 27.10.2023 pe 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo MYZ – POK 30.10.2023 ma 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo POL – SAR 31.10.2023 ti 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo SAS – TUB 01.11.2023 ke 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo TUC – ÖÖÖ 02.11.2023 to 07:50 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Vantaa AAA – ENS 03.11.2023 pe 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa ENT – HUY 06.11.2023 ma 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa HUZ – KIU 07.11.2023 ti 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa KIV – LII 08.11.2023 ke 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa LIJ – NEV 09.11.2023 to 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa NEW – RAA 10.11.2023 pe 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa RAB – SÖD 13.11.2023 ma 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa SÖE – WEI 14.11.2023 ti 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa WEJ – ÖÖÖ 15.11.2023 ke 07:50 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Helsinki – ruotsinkieliset AAA – MAK 16.11.2023 to 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki – ruotsinkieliset MAL – ÖÖÖ 17.11.2023 pe 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki AAA – BAI 20.11.2023 ma 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki BAJ – FON 21.11.2023 ti 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki FOO – HIM 22.11.2023 ke 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki HIN – JÄR 23.11.2023 to 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki JÄS – KOR 24.11.2023 pe 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki KOS – LEP 27.11.2023 ma 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki LEQ – MIC 28.11.2023 ti 07:30 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki MID – NSH 29.11.2023 ke 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki NSI – PUG 30.11.2023 to 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki PUH – SAK 01.12.2023 pe 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki SAL – SUN 04.12.2023 ma 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki SUO – VES 05.12.2023 ti 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki VET – YRJ 07.12.2023 to 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki YRK – ÖÖÖ 08.12.2023 pe 07:50 Karjalatalo, Käpylänkuja 1, Helsinki
+UUSIMAA ERIKSEEN MÄÄRÄTYT 15.12.2023 pe 07:50 Uudenmaan aluetoimisto, Lirokuja 4, Helsinki

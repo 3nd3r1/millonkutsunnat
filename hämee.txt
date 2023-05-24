@@ -1,0 +1,37 @@
+Kärkölä Aaa -Ööö TI 15. elokuuta klo 09.00 Kunnantalo, Virkatie 1, Järvelä
+Padasjoki Aaa -Ööö KE 16. elokuuta klo 10.00 Kuntala, Kellosalmenlie 20, Padasjoki
+Asikkala Aaa-Ööö TO 17. elokuuta klo 09.00 Asikkalan nuorisotilat, Asikkalanlie 12, Vääksy
+Hartola Aaa -Ööö KE 23. elokuuta klo 09.00 Teatteritalo, Väihkvlänlie 1, Svsmä
+Sysmä Aaa-Ööö KE 23. elokuuta klo 09.00 Teatteritalo, Väihkyläntie 1, Sysmä
+Hattula Aaa - Ööö TO 24. elokuuta klo 09.00 Juteinitalo, Kauppatie 3, Parola
+Ypäjä Aaa -Ööö TI 29. elokuuta klo 10.00 Kunnanvirasto, Perttulantie 20, Ypäjä
+Forssa Aaa-Oks KE 30. elokuuta klo 09.00 Kaupungintalo, Turuntie 18, Forssa
+Forssa Okt-Ööö TO 31. elokuuta klo 09.00 Kaupungintalo, Turuntie 18, Forssa
+Riihimäki Aaa - Kor TI 26. syyskuuta klo 09.00 Urheilutalo, Pohiolankatu 6, Riihimäki
+Riihimäki Kos-Pii KE 27. syyskuuta klo 09.00 Urheilutalo, Pohiolankatu 6, Riihimäki
+Riihimäki Pii -Ööö TO 28. syyskuuta klo 09.00 Urheilutalo, Pohiolankatu 6, Riihimäki
+Jokioinen Aaa -Ööö TI 3. lokakuuta klo 09.00 Kunnantalo, Keskuskatu 29, Jokioinen
+Tammela Aaa-Ööö KE 4. lokakuuta klo 09.00 Kunnantalo, Hakkapeliitantie 2, Tammela
+Humppila Aaa-Ööö TO 5. lokakuuta klo 10.00 Kunnantalo, Kisakuja 2, Humppila
+Heinola Aaa-Mat KE 11. lokakuuta klo 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Heinola Mau-Ööö TO 12. lokakuuta klo 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Hollola Aaa - Kov TI 17. lokakuuta klo 09.00 Virastotalo, Virastotie 3, Hollola
+Hollola Kow-Pel KE 18. lokakuuta klo 09.00 Virastotalo, Virastolie 3, Hollola
+Hollola Pem-Ööö TO 19. lokakuuta klo 09.00 Virastotalo, Virastotie 3, Hollola
+Loppi Aaa -Ööö KE 25. lokakuuta klo 09.00 Kunnantalo, Yhdystie 5, Loppi
+Hausjärvi Aaa -Ööö TO 26. lokakuuta klo 09.00 Kunnanvirasto, Keskustie 2-4, Oitti
+Hämeenlinna Aaa-Kaa MA 30. lokakuuta klo 09.00 Hämeen linna, Kustaa III :n katu 6, Hämeenlinna
+Hämeenlinna Kab- Loh TI 31 . lokakuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hämeenlinna
+Hämeenlinna Loi - Rin KE 1. marraskuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hämeenlinna
+Hämeenlinna Rio-Ööö TO 2. marraskuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hämeenlinna
+Janakkala Aaa- Leh KE 8. marraskuuta klo 09.00 Turengin liikuntahalli, Koulutie 2 A, Turenki
+Janakkala Lei - Ööö TO 9. marraskuuta klo 09.00 Turengin liikuntahalli, Koulutie 2 A, Turenki
+Lahti Aaa- Huu MA 13. marraskuuta klo 09.00 FellmanniCamous, Kirkkokatu 27, Lahti
+Lahti Huv-Kup TI 14. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Kuq-Oja KE 15. marraskuuta klo 09.00 FellmanniCamous, Kirkkokatu 27, Lahti
+Lahti Ojb-Sik TO 16. marraskuuta klo 09.00 FellmanniCamous, Kirkkokatu 27, Lahti
+Lahti Sil -Ööö PE 17. marraskuuta klo 09.00 FellmanniCamous, Kirkkokatu 27, Lahti
+Orimattila Aaa-Lam TI 21 marraskuuta klo 09.00 Jvmvlinna, Urheilutie 9, Orimattila
+Orimattila Lan -Ööö KE 22. marraskuuta klo 09.00 Jymylinna, Urheilutie 9, Orimattila
+Iitti Aaa -Ööö TO 23. marraskuuta klo 09.00 Ravilinna, Veteraanitie 2, Kausala
+Lahti Erikseen määrätyt TO 14. joulukuuta klo 09.00 Hämeen aluetoimisto, Kirkkokatu 12, Lahti

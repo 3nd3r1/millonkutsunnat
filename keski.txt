@@ -1,0 +1,49 @@
+Konnevesi A-O Tl 15. Elokuu 09.00 | Kunnantalo, Kauppatie 25, Konnevesi
+Uurainen AO KE 16. Elokuu 09.00 | Seurakuntatalo, Topintie 1, Uurainen
+Pihtipudas A-O Tl 22. Elokuu 10.00 | Kunnantalo, Keskustie 9, Pihtipudas
+Kinnula A-O Tl 22. Elokuu 10.00 | Kunnantalo, Keskustie 9, Pihtipudas
+Viitasaari AO KE 23. Elokuu 09.00 | Nuorisotalo, Koulukuja 8, Viitasaari
+Karstula AO To 24. Elokuu 09.00 | Kunnantalo Himmeli, Virastotie 4, Karstula
+Kivijarvi AO To 24. Elokuu 09.00 | Kunnantalo Himmeli, Virastotie 4, Karstula
+Kyyiarvi AO To 24. Elokuu 09.00 _| Kunnantalo Himmeli, Virastotie 4, Karstula
+Saarijarvi AO PE 25. Elokuu 09.00 | Seurakuntatalo, Urheilutie 5, Saarijarvi
+Kannonkoski AO PE 25. Elokuu 09.00 | Seurakuntatalo, Urheilutie 5, Saarijarvi
+Laukaa Ads Tl 29. Elokuu 09.00 _| Seurakuntatalo, Saravedentie 4, Laukaa
+Laukaa K-M Tl 29. Elokuu 12.00 | Seurakuntatalo, Saravedentie 4, Laukaa
+Laukaa N-S KE 30. Elokuu 09.00 | Seurakuntatalo, Saravedentie 4, Laukaa
+Laukaa T-0 KE 30. Elokuu 12.00 _| Seurakuntatalo, Saravedentie 4, Laukaa
+Keuruu AO Tl 26. Syyskuu 09.00 | Seurakuntakeskus, Kippavuorentie 16, Keuruu
+Petajavesi AO KE 27. Syyskuu 09.00 | Kulttuurikeskus, Miilutie 4, Petajavesi
+Multia AO KE 27. Syyskuu 09.00 | Kulttuurikeskus, Miilutie 4, Petajavesi
+Toivakka AO To | 28. | Syyskuu | 09.00 | Seurakuntakoti, Salomonintie 8, Toivakka
+Aanekoski Ad TI 3, Lokakuu | 09.00 | Kaupungintalo, Hallintokatu 4, Aanekoski
+Aanekoski KM TI 3. Lokakuu | 12.00 | Kaupungintalo, Hallintokatu 4, Adnekoski
+Aanekoski N-R KE 4. Lokakuu 09.00 | Kaupungintalo, Hallintokatu 4, Aanekoski
+‘Aanekoski S-6 KE 4. Lokakuu | 12.00 | Kaupungintalo, Hallintokatu 4, Aanekoski
+Muurame A-O TO 5. Lokakuu 09.00 | Kulttuurikeskus, Nisulantie 1, Muurame
+Jamsa AL Tl 10. Lokakuu 09.00 | Seurakuntakeskus, Koskentie 30 C, Jamsa
+Jamsa M-O KE W Lokakuu 09.00 | Seurakuntakeskus, Koskentie 30 C, Jamsa
+Joutsa AO TO 12. Lokakuu 09.00 | Seurakuntakoti, Jousitie 42 A, Joutsa
+Luhanka A-O TO 12. Lokakuu 09.00 | Seurakuntakoti, Jousitie 42 A, Joutsa
+Hankasalmi AO PE 13. Lokakuu 09.00 | Seurakuntatalo, Pappilantie 4, Hankasalmi
+Jyvaskyla Aaa-Aut MA 30. Lokakuu 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Auu-Han MA 30. Lokakuu 12.00_| Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Hao-Hil Tl 31 Lokakuu 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Him-lis Tl 31 Lokakuu 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla lit-Jar KE 1. Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Jas-Kiv KE 1 Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Kiw-Kor TO 2 Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Kos-Lap TO 2. | Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Lag-Lih PE 3.__| Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Li-Mar PE 3._| Marraskuu | 12,00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Mas-Mat MA 6. Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Mau-Ojo MA 6. Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Ojp-Pen Ti 7._| Marraskuu | 09.00 | Kristillinen opisto, Suikulantie 28, Jyvaskyla
+Jyvaskyla Peo-Raj TI 7._| Marraskuu | 12.00 | Kristillinen opisto, Suikulantie 28, Jyvaskyla
+Jyvaskyla Rak-Roo KE 8. Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Rop-Sch KE 8._| Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Sci-Soh TO 9. Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla ‘Soi-Tuo TO 9. | Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Tup-Vik PE 10. | Marraskuu | 09.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla Vil-066 PE 10. | Marraskuu | 12.00 | Kristillinen opisto, Sulkulantie 28, Jyvaskyla
+Jyvaskyla erikseen maaratyt PE | 15. | Joulukuu | 09.00 | Keski-Suomen aluetoimisto, Asekatu 3D, Jyvaskyla
