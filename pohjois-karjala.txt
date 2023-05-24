@@ -1,0 +1,23 @@
+Kitee Aaa-O66 TI 15.elokuuta klo 09:00 Kulttuurikeskus Ilmarinen, Koulutie 3 E
+Tohmajarvi_| Aaa-O66 KE 16.elokuuta klo 09:00 Sivistyskeskus Ahjo, Kirkkotie 10 A
+llomantsi Aaa-066 TO 17.elokuuta klo 09:00 Kunnantalo, Soihtulantie 7
+Lieksa Aaa-066 TI 29.elokuuta klo 09:00 Brahea Kampus, Kuhmonkatu 30.
+Nurmes Aaa-O66 KE 30.elokuuta klo 09:00 Nurmes-talo, Kétsintie 2
+Juuka Aaa-O66 TO 31.elokuuta klo 09:00 Kunnantalo, Poikolantie 1
+Heinavesi Aaa-O66 TI 5.syyskuuta klo 09:00 Kunnantalo, Kermarannantie 7
+Polvijarvi Aaa-O66 KE 6. syyskuuta klo 09:00 Polvijarven ylakoulu, Polvijarventie 6
+Outokumpu | Aaa-O66 TO 7. syyskuuta klo 09:00 Outokummun teollisuuskyla, Kuvernédérinkatu 1
+Raakkyla Aaa-066 PE 8. syyskuuta klo 09:00 Kunnantalo, Kinnulantie 1
+Liperi Aaa-066 TI 24. lokakuuta klo 09:00 Liperin koulu, Koulutie 1
+Kontiolahti__| Aaa-Mak KE 25. lokakuuta klo 09:00 Kontiolahden koulu, Keskuskatu 11
+Kontiolahti__| Mal-Os6 TO 26. lokakuuta klo 09:00 Kontiolahden koulu, Keskuskatu 11
+Joensuu Aaa-Huk MA 30.lokakuuta klo 09:00 Nepenmaen koulu, Karpankatu 7
+Joensuu Hul-Kak MA 30.lokakuuta klo 12:00 Nepenmaen koulu, Karpankatu 7
+Joensuu Kal-Kos TI31.lokakuuta klo 09:00 Nepenméaen koulu, Karpankatu 7
+Joensuu Kot-Lav TI 31.lokakuuta klo 12:00 Nepenméaen koulu, Karpankatu 7
+Joensuu Law-Mut KE 1.marraskuuta klo 09:00 Nepenméen koulu, Karpankatu 7
+Joensuu Muu-Pes KE 1.marraskuuta klo 12:00 Nepenméen koulu, Karpankatu 7
+Joensuu Pet-Sak TO 2.marraskuuta klo 09:00 Nepenméaen koulu, Karpankatu 7
+Joensuu Sal-Tim TO 2.marraskuuta klo 12:00 Nepenmaen koulu, Karpankatu 7
+Joensuu Ti-O66 PE 3.marraskuuta klo 09:00 Nepenméden koulu, Karpankatu 7
+Joensuu Erikseen maaratyt | PE 15. joulukuuta klo 09:00 Valtion virastotalo, Torikatu 36 B

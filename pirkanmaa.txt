@@ -1,0 +1,91 @@
+AKAA
+HÄMEENKYRÖ
+IKAALINEN
+JUUPAJOKI
+KANGASALA A-L
+KANGASALA M-Ö
+KIHNIÖ
+KUHMOINEN
+LEMPÄÄLÄ A-L
+LEMPÄÄLÄ M-Ö
+MÄNTTÄ-VILPPULA
+NOKIA A-M
+NOKIA N-Ö
+ORIVESI
+PARKANO
+PIRKKALA A-L
+PIRKKALA M-Ö
+PUNKALAIDUN
+PÄLKÄNE A-L
+PÄLKÄNE M-Ö
+RUOVESI
+SASTAMALA A-L
+SASTAMALA M-Ö
+TAMPERE A-C
+TAMPERE D-Has
+TAMPERE Hat-llv
+TAMPERE llw-Kat
+TAMPERE Kau - Kov
+TAMPERE Kow-Le i
+TAMPERE Lei -M ii
+TAMPERE Mii - Ni i
+TAMPERE Nij-Peu
+TAMPERE Pev-Roo
+TAMPERE Rop-Sin
+TAMPERE Sio-Tuk
+TAMPERE Tui-Vei
+TAMPERE Veu-Ööö
+URJALA
+VALKEAKOSKI
+VESILAHTI
+VIRRAT
+YLÖJÄRVI Aaa-J
+YLÖJÄRVI K-Lie
+YLÖJÄRVI Lif- Ra u
+YLÖJÄRVI Rav-Ööö
+To 26. Lo kakuuta 09 .00 To ij alan m on ito imi ha lli, Köyvärintie 3, Akaa
+To 31. Elokuuta 09 .00 Ammatt i- instituutti Iisak ki , Taitokuja 3, Hämeenkyrö
+Ke 30 . Elokuuta 09.00 Käsi- ja taideteo llisuusopp il. , Eino Salmelaisenk. 20, Ikaalinen
+Ke 11 . Lokakuuta 10.00 Juupaioen kou lukesk us , Koulutie 1, Korkeakoski
+To 12. Lokakuuta 09.00 Pitkäjärve n koulu, Vat ialantie 4 , Kangasa la
+To 12. Lokakuuta 12.00 Pitkäjärven kou lu, Vat ial an t ie 4, Kangasala
+Ti 29. Elokuuta 10.00 Puumilan Taitotalo , Ku r un t ie 1-3, Ki hn iö
+To 14. Syyskuuta 10.00 Kuhmoisten yhtenä isk ou lu, Länkipohjantie 64 , Kuhmoinen
+Ti 10. Lokakuuta 09.00 Hakkarin koulu , Ahertajantie 2, Lempäälä
+Ti 10. Lokakuuta 12.00 Hakkarin koulu , Aherta jantie 2, Lempäälä
+Ti 22. Elokuuta 09 .00 Mäntän Klubi , Tehtaankatu 33, Mänttä-Vilppula
+Ti 24 . Lokakuuta 09.00 Ke rhola , Souranderintie 13, Nokia
+Ti 24. Lokakuuta 12.00 Kerhola , Souranderintie 13, Nokia
+To 28 . Syyskuuta 09.00 Ka upungintalo, Keskustie 23, Orivesi
+Ti 29. Elokuuta 09.00 Ammatti -i nstituutti Iisakki, Sepänkatu 4, Parkano
+To 24. Elokuuta 09.00 Nuolialan kou lu, kouluportinkuja 3, Pirkkala
+To 24. Elokuuta 12 .00 Nuolialan koulu, kouluportinkuja 3, Pirkkala
+To 14. Syyskuuta 10.00 Kunnanvirasto , Vesilahdentie 5, Punkalaidun
+Pe 25. Elokuuta 09 .00 Kunnantalo, Keskustie 1, Pälkäne
+Pe 25 . Elokuuta 11 .30 Kunnantalo, Keskustie 1, Pälkäne
+Ke 16. Elokuuta 09.00 Ruoveden Pirkkojen Urheilutalo, Pirkantie 4, Ruovesi
+Ti 12 . Syyskuuta 09.00 Vammalan ammattikoulu , Ratakatu 36, Sastamala
+Ti 12. Syyskuuta 12.00 Vammalan ammattikoulu , Ratakatu 36, Sastamala
+Ti 14. Marraskuuta 09.00 TREDU , Sammonkatu 45, Tampere
+Ti 14. Marraskuuta 12.00 TREDU , Sammonkatu 45, Tampere
+Ke 15. Marraskuuta 09.00 TREDU , Sammonkatu 45, Tampere
+Ke 15. Marraskuuta 12.00 TREDU , Sammonkatu 45, Tampere
+To 16. Marraskuuta 09 .00 TREDU , Sammonkatu 45, Tampere
+To 16. Marraskuuta 12.00 TREDU , Sammonkatu 45 , Tampere
+Pe 17. Marraskuuta 09.00 TREDU, Sammonkatu 45, Tampere
+Pe 17. Marraskuuta 12 .00 TREDU , Sammonkatu 45, Tampere
+Ma 20. Marraskuuta 09.00 TREDU , Sammonkatu 45, Tampere
+Ma 20. Marraskuuta 12.00 TREDU , Sammonkatu 45, Tampere
+Ti 21 . Marraskuuta 09.00 TREDU , Sammonkatu 45, Tampere
+Ti 21 . Marraskuuta 12.00 TREDU , Sammonkatu 45 , Tampere
+Ke 22. Marraskuuta 09.00 TREDU , Sammonkatu 45 , Tampere
+Ke 22. Marraskuuta 12.00 TREDU , Sammonkatu 45, Tampere
+Ti 15. Elokuuta 09.00 Urjalankylän Kou lumaa, Kantalantie 19 a, Urialankvlä
+To 17. Elokuuta 09.00 Hämeen Ammattikorkeakoulu , Lotila ntie 16, Valkeakos ki
+Ke 25. Lokakuuta 09.00 Ves ilahden yläaste, Kou lutie 2, Ves ilahti
+Ke 23 . Elokuuta 09.00 Virastotalo , Virtaintie 26, Virrat
+Ti 26 . Syyskuuta 09 .00 Kaupunginta lo, Ku runtie 14, Ylöjärvi
+Ti 26. Syyskuuta 12.00 Kaupung intalo, Ku runtie 14, Ylöjärvi
+Ke 27. Syysk uu ta 09.00 Ka up un gintalo, Kuruntie 14, Ylöjärvi
+Ke 27. Syyskuuta 12.00 Kaupungintalo, Kuruntie 14, Ylöjärvi
+Pe 15. Joulukuu 09.00 Pirkanmaan aluetoimisto, Tekniikankatu 1 E-s ii pi, Tampere
