@@ -12,7 +12,7 @@ Lappeenranta | lit- Lan Tr_| 26. | Syyskuu | 08.45 | Lappeenrannan Urheilutalo P
 Lappeenranta | Lao-Paa keE_| 27. | Syyskuu__| 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
 Lappeenranta | Pab - Sor To | 28. | syyskuu | 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
 Lappeenranta | Sos - 006 PE_| 29. | Syyskuu__| 08.45 | Lappeenrannan Urheilutalo Pohjolankatu 29, 53100 LPR
-Hamina Aaa - Kul MA_|_9. | Lokakuy | 08.45 | Vehkalahti-talo, Ruissalontie 8, 49410 Hamina
+Hamina Aaa - Kul MA 9. | Lokakuy | 08.45 | Vehkalahti-talo, Ruissalontie 8, 49410 Hamina
 Hamina Kuj - 006 ti_| 10. | Lokakuy | 08.45 | Vehkalahti-talo, Ruissalontie 8, 49410 Hamina
 Miehikkala | Aaa- 000 KE | 14. | Lokakuu | 08.45 | Miehikkalan koulu, Keskustie 9, 49700 Miehikkala
 Virotahti Aaa - 006 KE | 14. | Lokakuy | 08.45 | Miehikkalan koulu, Keskustie 9, 49700 Miehikkala
@@ -27,4 +27,3 @@ Kouvola Kuo - Myn TO 16. Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45
 Kouvola Myo - Raj MA_| 20. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
 Kouvola Rak - Tam Ti_| 21. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
 Kouvola Tan - 086 KE_| 22. | Marraskuu | 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola
-Kouvola Erikseen maaratyt TO 14. Joulukuu 08.45 | Kouvola-talo, Varuskuntakatu 11, 45100 Kouvola

@@ -1,3 +1,5 @@
+import re
+
 def reader(file):
     print("")
     print(file)
@@ -21,35 +23,31 @@ def reader(file):
                     aika += data[j] + " "
                     print(aika)
                     j += 1
-                sijainti = ' '.join(data[j:])
+                sijainti = ' '.join(data[j:]).replace("\n","")
                 ans[i-45] = (ans[i-45][0], ans[i-45][1], aika, sijainti)
         else:
             for line in f:
+                line = line.replace("|","").replace("- ","-").replace(" -","-").replace(" - ","-").replace("_","").replace("  "," ")
                 data = line.split(" ")
                 paikka = data[0]
-                aakkoset = data[1]
+                aakkoset = re.sub(r"\d\d\d", "ööö", data[1])
 
-                i = 0
-                if "-" not in aakkoset or aakkoset[-1] == "-":
-                    i = 1
-                    aakkoset += data[2]
-
-                if aakkoset[-1] == "-":
-                    i = 2
-                    aakkoset += data[3]
-
-                aika = ' '.join(data[i+2:i+7])
-                sijainti = ' '.join(data[i+7:])
+                if file in ("kakki.txt", "keski.txt"):
+                    aika = ' '.join(data[2:6])
+                    sijainti = ' '.join(data[6:]).replace("\n","")
+                else:
+                    aika = ' '.join(data[2:7])
+                    sijainti = ' '.join(data[7:]).replace("\n","")
 
                 ans.append((paikka, aakkoset, aika, sijainti))
             
         print(ans)
 
 
-# reader("hämee.txt")
-reader("pirkanmaa.txt")
+#reader("hämee.txt")
+#reader("pirkanmaa.txt")
 # reader("kakki.txt")
-# reader("keski.txt")
+reader("keski.txt")
 # reader("lappi.txt")
 # reader("lounas.txt")
 # reader("pohjanmaa.txt")
