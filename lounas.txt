@@ -5,11 +5,11 @@ Kaarina Lab-Moi KE 16. Elokuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
 Kaarina Moj-Raj TO 17. Elokuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
 Kaarina Rak-Tam TO 17. Elokuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
 Kaarina Tan-Ö PE 18. Elokuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
-Parainen, suomenkieliset A-Nie TI 22. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
-Parainen, suomenkieliset Nif-Ö TI 22. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
-Parainen, ruotsinkieliset A-Kje KE 23. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
-Parainen, ruotsinkieliset Kjf-Ö KE 23. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
-Ahvenanmaa, kaikki kunnat A-Ö PE 25. Elokuu 10.00 Valtion virastotalo, Torggatan 16, Maarianhamina
+Parainen,suomenkieliset A-Nie TI 22. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen,suomenkieliset Nif-Ö TI 22. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen,ruotsinkieliset A-Kje KE 23. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen,ruotsinkieliset Kjf-Ö KE 23. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
+Ahvenanmaa A-Ö PE 25. Elokuu 10.00 Valtion virastotalo, Torggatan 16, Maarianhamina
 Pori A-Hem TI 29. Elokuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
 Pori Hen-Kop TI 29. Elokuu 12.00 Nuorisotalo, Isolinnankatu 12, Pori
 Pori Koq-Lev KE 30. Elokuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
@@ -85,23 +85,22 @@ Lieto A-Jan TI 28. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
 Lieto Jao-Lon TI 28. Marraskuu 12.00 Kaupungintalo, Kirkkotie 13, Lieto
 Lieto Loo-Sou KE 29. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
 Lieto Sov-Ö KE 29. Marraskuu 12.00 Kaupungintalo, Kirkkotie 13, Lieto
-Koski TL A-Ö TO 30. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
+Koski_TL A-Ö TO 30. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
 Marttila A-Ö TO 30. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
-Turku, ruotsinkieliset A-Ö PE 1. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut A-Auv MA 4. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Auw-Fah MA 4. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Fai-Hel TI 5. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Hem-Jam TI 5. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Jan-Ken TO 7. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Keo-Kur TO 7. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Kus-Leh PE 8. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Lei-Max PE 8. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut May-Nen MA 11. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Neo-Pak MA 11. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Pal-Rat TI 12. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Rau-Sai TI 12. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Saj-Sto KE 13. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Stp-Tin KE 13. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Tio-Vei TO 14. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Turku, suomenkieliset ja muut Vej-Ö TO 14. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
-Erikseen käsketyt A-Ö PE 15. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku,ruotsinkieliset A-Ö PE 1. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku A-Auv MA 4. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Auw-Fah MA 4. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Fai-Hel TI 5. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Hem-Jam TI 5. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Jan-Ken TO 7. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Keo-Kur TO 7. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Kus-Leh PE 8. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Lei-Max PE 8. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku May-Nen MA 11. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Neo-Pak MA 11. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Pal-Rat TI 12. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Rau-Sai TI 12. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Saj-Sto KE 13. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Stp-Tin KE 13. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Tio-Vei TO 14. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku Vej-Ö TO 14. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku

@@ -1,7 +1,8 @@
 Utsjoki Aaa - Ööö TI 15. Elokuu 10.00 Kunnanvirasto, Luossatie 1, Utsjoki
 Inari Aaa - Ööö KE 16. Elokuu 10.00 Kunnanvirasto, Piiskuntie 2, Ivalo
 Sodankylä Aaa - Ööö TO 17. Elokuu 10.00 Kunnanvirasto, Jäämerentie 1, Sodankylä
-Pelkosenniemi ja Savukoski Aaa - Ööö PE 18. Elokuu 10.00 Seurakuntatalo, Kirkkotie 10, Pelkosenniemi
+Pelkosenniemi Aaa - Ööö PE 18. Elokuu 10.00 Seurakuntatalo, Kirkkotie 10, Pelkosenniemi
+Savukoski Aaa - Ööö PE 18. Elokuu 10.00 Seurakuntatalo, Kirkkotie 10, Pelkosenniemi
 Tervola Aaa - Ööö TI 22. Elokuu 10.00 Kunnanvirasto, Keskustie 81, Tervola
 Pello Aaa - Ööö KE 23. Elokuu 10.00 Kunnanvirasto, Kunnantie 4, Pello
 Ranua Aaa - Ööö TO 24. Elokuu 10.00 Seurakuntatalo, Pappilantie 11, Ranua
@@ -24,4 +25,3 @@ Keminmaa Aaa - Ööö TI 14. Marraskuu 10.00 Keminmaan kirjastonuorisotalo, Väy
 Kemi Aaa – Myl KE 15. Marraskuu 10.00 Kemin seurakuntakeskus, Kirkkopuistokatu 11, Kemi
 Kemi Mym – Ööö TO 16. Marraskuu 10.00 Kemin seurakuntakeskus, Kirkkopuistokatu 11, Kemi
 Simo Aaa - Ööö PE 17. Marraskuu 09.00 Kunnanvirasto, Ratatie 6, Simo
-Rovaniemi Erikseen määrätyt PE 15. Joulukuu 10.00 Rovaniemen varuskunta, Someroharju

@@ -1,15 +1,15 @@
 Kaustinen ti 22 Elokuu 09:00 Kunnan virastotalo, Kappelintie 13
-Halsua, Veteli ke 23 Elokuu 09:00 Seurakuntatalo, Perhontie 24, Halsua
+Halsua,Veteli ke 23 Elokuu 09:00 Seurakuntatalo, Perhontie 24, Halsua
 Perho ke 23 Elokuu 14:00 Seurakuntatalo, Sahintie 3
 Kannus to 24 Elokuu 09:00 Kaupunginvirasto, Asematie 1
-Lestijärvi, Toholampi pe 25 Elokuu 09:00 Hirvikosken kurssik, Tornikoskentie 50, Toholampi
+Lestijärvi,Toholampi pe 25 Elokuu 09:00 Hirvikosken kurssik, Tornikoskentie 50, Toholampi
 Kokkola A - KII ti 26 Syyskuu 09:00 Ammattiopisto, Närvilänkatu 8
 Kokkola KIJ - PER ke 27 Syyskuu 09:00 Ammattiopisto, Närvilänkatu 8
 Kokkola PES - Ö to 28 Syyskuu 09:00 Ammattiopisto, Närvilänkatu 8
-Kokkola ruotsiksi pe 29 Syyskuu 09:00 Ammattiopisto, Närvilänkatu 8
+Kokkola,ruotsiksi pe 29 Syyskuu 09:00 Ammattiopisto, Närvilänkatu 8
 Laihia ti 15 Elokuu 09:00 Seurakuntatalo, Kirkkotie 3
-Mustasaari ruotsiksi ma 28 Elokuu 09:00 Aikuisopisto, Koulutie 1
-Mustasaari suomeksi ti 29 Elokuu 09:00 Aikuisopisto, Koulutie 1
+Mustasaari,ruotsiksi ma 28 Elokuu 09:00 Aikuisopisto, Koulutie 1
+Mustasaari,suomeksi ti 29 Elokuu 09:00 Aikuisopisto, Koulutie 1
 Uusikaarlepyy ti 10 Lokakuu 09:00 Kaupungintalo, Topeliuksenpuistikko 7
 Pedersöre A - J ke 11 Lokakuu 09:00 Kunnantalo, Skrufvilankatu 2, Pännäinen
 Pedersöre K - Ö to 12 Lokakuu 09:00 Kunnantalo, Skrufvilankatu 2, Pännäinen
@@ -17,15 +17,14 @@ Kruunupyy pe 13 Lokakuu 09:00 Kunnantalo, Säbråntie 2
 Vaasa A - KIE ti 24 Lokakuu 09:00 Palosaaren seurakuntatalo, Kapteenink. 14-16
 Vaasa KIF - PES ke 25 Lokakuu 09:00 Palosaaren seurakuntatalo, Kapteenink. 14-16
 Vaasa PET - Ö to 26 Lokakuu 09:00 Palosaaren seurakuntatalo, Kapteenink. 14-16
-Vaasa ruotsiksi pe 27 Lokakuu 09:00 Palosaaren seurakuntatalo, Kapteenink. 14-16
-Närpiö, Kaskinen ti 31 Lokakuu 09:00 Kaupungintalo, Kirkkotie 2, Närpiö
+Vaasa,ruotsiksi pe 27 Lokakuu 09:00 Palosaaren seurakuntatalo, Kapteenink. 14-16
+Närpiö,Kaskinen ti 31 Lokakuu 09:00 Kaupungintalo, Kirkkotie 2, Närpiö
 Kristiinankaupunki ke 1 Marraskuu 09:00 Kaupungintalo, Aitakatu 1
-Pietarsaari ruotsiksi ti 7 Marraskuu 09:00 Tupakkamakasiini, Jaakonkatu 9
-Pietarsaari suomeksi ke 8 Marraskuu 09:00 Tupakkamakasiini, Jaakonkatu 9
+Pietarsaari,ruotsiksi ti 7 Marraskuu 09:00 Tupakkamakasiini, Jaakonkatu 9
+Pietarsaari,suomeksi ke 8 Marraskuu 09:00 Tupakkamakasiini, Jaakonkatu 9
 Luoto to 9 Marraskuu 09:00 Holm fritidsgård, Pohjoinen Luodontie 70
 Vöyri pe 8 Joulukuu 09:00 Norvalla Folkhälsan, Vöråvägen 305 - 307
-Korsnäs, Maalahti ke 13 Joulukuu 09:00 Korsnäsgården, Vikingvägen 9, Korsnäs
-Vaasa erikseen käsketyt pe 15 Joulukuu 09:00 Valtion virastotalo, Wolffintie 35B
+Korsnäs,Maalahti ke 13 Joulukuu 09:00 Korsnäsgården, Vikingvägen 9, Korsnäs
 Kauhava pe 18 Elokuu 09:00 Seurakuntakoti, Kirkkotie 3 B
 Lapua ti 12 Syyskuu 09:00 Vanha Paukku, Kauppakatu 23
 Ilmajoki to 14 Syyskuu 09:00 Etelä-Pohjanmaan opisto, Opistontie 111
@@ -33,8 +32,8 @@ Seinäjoki A - KET ti 19 Syyskuu 09:00 Frami B-talo, Kampusranta 9B
 Seinäjoki KEU - LET ke 20 Syyskuu 09:00 Frami B-talo, Kampusranta 9B
 Seinäjoki LEU - RAI to 21 Syyskuu 09:00 Frami B-talo, Kampusranta 9B
 Seinäjoki RAJ - Ö pe 22 Syyskuu 09:00 Frami B-talo, Kampusranta 9B
-Lappajärvi, Evijärvi pe 10 Marraskuu 09:00 Valtion virastotalo, Kärnäntie 11, Lappajärvi
-Alajärvi, Vimpeli ti 14 Marraskuu 09:00 Seurakuntatalo, Alvar Aallontie 3, Alajärvi
+Lappajärvi,Evijärvi pe 10 Marraskuu 09:00 Valtion virastotalo, Kärnäntie 11, Lappajärvi
+Alajärvi,Vimpeli ti 14 Marraskuu 09:00 Seurakuntatalo, Alvar Aallontie 3, Alajärvi
 Ähtäri ke 15 Marraskuu 09:00 Pirkanlinna, Lukiontie 3
 Soini ke 15 Marraskuu 09:00 Seurakuntatalo, Karstulantie 2
 Kuortane ke 15 Marraskuu 14:00 Kunnantalo, Keskustie 52
@@ -42,5 +41,5 @@ Alavus to 16 Marraskuu 09:00 Kokoustila (Hotelli Onnentähti), Onnentie 7
 Kurikka ti 28 Marraskuu 09:00 Seurakuntakeskus, Kurikantie 21
 Kauhajoki ke 29 Marraskuu 09:00 Seurakuntakeskus, Kyntäjäntie 3
 Teuva to 30 Marraskuu 09:00 Kulttuuritalo Orrela, Porvarintie 51
-Karijoki, Isojoki to 30 Marraskuu 09:00 Kunnanvirasto, Kristiinantie 3, Karijoki
+Karijoki,Isojoki to 30 Marraskuu 09:00 Kunnanvirasto, Kristiinantie 3, Karijoki
 Isokyrö ti 12 Joulukuu 09:00 Kunnanvirasto, Pohjankyröntie 136

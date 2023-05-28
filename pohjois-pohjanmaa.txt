@@ -1,8 +1,8 @@
-KUHMO- Aaa-O66. Tl 15 ELOKUU 09.00 | Kuhmo-Talo, Koulukatu 1
-SOTKAMO. Aaa-Kam KE 16 ELOKUU 09.00 Snowpolis, Kidekuja 2
+KUHMO Aaa-O66. Tl 15 ELOKUU 09.00 | Kuhmo-Talo, Koulukatu 1
+SOTKAMO Aaa-Kam KE 16 ELOKUU 09.00 Snowpolis, Kidekuja 2
 SOTKAMO Kan-O00 TO 17 ELOKUU 09.00 | Snowpolis, Kidekuja 2
-PALTAMO ‘Aaa-006 PE 18 ELOKUU 09.00 | Seurakuntakeskus, Puolangantie 14
-MUHOS Aaa-006 MA 21 ELOKUU (09.00 | Seurakuntatalo, Kirkkotie 32
+PALTAMO Aaa-006 PE 18 ELOKUU 09.00 | Seurakuntakeskus, Puolangantie 14
+MUHOS Aaa-006 MA 21 ELOKUU 09.00 | Seurakuntatalo, Kirkkotie 32
 KAJAANI Aaa-Koi Tl 22 ELOKUU 09.00 | Linnantauksen seurakuntakeskus, Kaplastie 2
 KAJAANI Koj-Pel KE 23 ELOKUU 09.00 | Linnantauksen seurakuntakeskus, Kaplastie 2
 KAJAANI Pem-066 TO 24 ELOKUU 09.00 _| Linnantauksen seurakuntakeskus, Kaplastie 2
@@ -10,29 +10,29 @@ UTAJARVI Aaa-O66. PE 25 ELOKUU 09.00 | Seurakuntatalo, Pappilantie 2
 VAALA Aaa-006 PE 25 ELOKUU 09.00 _| Kunnan Virastotalo, Vaalantie 14
 RISTWARVI Aaa-066 Tl 29 ELOKUU 09.00 _| Monitoimikeskus Virtaala, Koulutie 4
 HYRYNSALMI ‘Aaa-O00 TI 29 ELOKUU 09.00 | Monitoimikeskus Virtaala, Koulutie 4, Ristiarvi
-‘SUOMUSSALMI ‘Aaa-O00 KE 30 ELOKUU 09.00 | Ammansaaren seurakuntatalo, Kirkkokuja 1
+SUOMUSSALMI ‘Aaa-O00 KE 30 ELOKUU 09.00 | Ammansaaren seurakuntatalo, Kirkkokuja 1
 PUOLANKA Aaa-066 TO 31 ELOKUU 09.00 | Monitoimitalo, Ouluntie 16
 KUUSAMO- Aaa-Kak Tl 5 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 1
 KUUSAMO Kal-Pol KE 6 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 1
 KUUSAMO Pom-066 TO 7 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 1
 TAIVALKOSKI Aaa-066 PE 8 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 7
 KALAJOKI Aaa-Lyl Tl 12 SYYSKUU 09.00 | Seurakuntakoti, Seurakuntatie 1
-KALAJOK! Lym-Rau KE 13 SYYSKUU 09.00 | Seurakuntakoti, Seurakuntatie 1
+KALAJOKI Lym-Rau KE 13 SYYSKUU 09.00 | Seurakuntakoti, Seurakuntatie 1
 KALAJOKI Rav-000 TO 14 SYYSKUU | 09.00 | Seurakuntakoti, Seurakuntatie 1
-PYHAJOKI ‘Aaa-006 PE 15 SYYSKUU | 09.00 | Kunnantalo, Kuntatie 1
-SIIKALATVA ‘Aaa-005 MA 25 SYYSKUU 09.00 | Seurakuntatalo, Pulkkilantie 11
+PYHAJOKI Aaa-006 PE 15 SYYSKUU | 09.00 | Kunnantalo, Kuntatie 1
+SIIKALATVA Aaa-005 MA 25 SYYSKUU 09.00 | Seurakuntatalo, Pulkkilantie 11
 REISJARVI Aaa-006 Tl 26 SYYSKUU | 09.00 | Seurakuntatalo, Rantatie 13
-HAAPAJARVI ‘Aaa-006 KE 27 SYYSKUU 09.00 | Seurakuntatalo, Ronkaalankuja 3
+HAAPAJARVI Aaa-006 KE 27 SYYSKUU 09.00 | Seurakuntatalo, Ronkaalankuja 3
 PYHANTA Aaa-006 TO 28 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 4
 KARSAMAKI Aaa-066 TO 28 SYYSKUU 09.00 | Seurakuntatalo, Kirkkotie 4, Pyhanta
-NIVALA ‘Aaa-Mak Tl 3 LOKAKUU 09.00 | Seurakuntatalo, Vapaudentie 3
+NIVALA Aaa-Mak Tl 3 LOKAKUU 09.00 | Seurakuntatalo, Vapaudentie 3
 NIVALA Mal-O86 KE 4 LOKAKUU 09.00 | Seurakuntatalo, Vapaudentie 3
 PYHAJARVI Aaa-066 TO 5 LOKAKUU 09.00 | Seurakuntakeskus, Oikotie 6
 HAAPAVESI Aaa-066 PE 6 LOKAKUU 09.00 Seurakuntatalo, Tahtelankuja 5
 SIIKAJOKI Aaa-066 Tl 10 LOKAKUU 09.00 _| Komppalinna, Jaakontie 1
 RAAHE Aaa-Nis KE 1 LOKAKUU 09.00 | Tapahtumatalo Raahe, Kirkkokatu 28
 RAAHE Nit-066 To 12 LOKAKUU 09.00 | Tapahtumatalo Raahe, Kirkkokatu 28
-YLIVIESKA ‘Aaa-Mal Tl 17 LOKAKUU | 09.00 | Kulttuurikeskus Akustikka, Koulukatu 2
+YLIVIESKA Aaa-Mal Tl 17 LOKAKUU | 09.00 | Kulttuurikeskus Akustikka, Koulukatu 2
 YLIVIESKA Mam-006 KE 18 LOKAKUU 09.00 | Kulttuurikeskus Akustiikka, Koulukatu 2
 SIEVI Aaa-066 TO 19 LOKAKUU 09.00 | Seurakuntakoti, Haikolantie 44
 OULAINEN Aaa-Mot TO 19 LOKAKUU 09:00 | Seurakuntatalo, Oulaistenkatu 59
@@ -45,7 +45,7 @@ LIMINKA Ket-Pal Tl 31 LOKAKUU. 09.00 Seurakuntatalo, Pappilantie 6
 LIMINKA Pam-O66 KE 1 MARRASKUU | 09.00 Seurakuntatalo, Pappilantie 6
 PUDASJARVI Aaa-000 TO 2 MARRASKUU | 09.00 _| Seurakuntakeskus, Varsitie 12
 II Aaa-066 PE 3 MARRASKUU | 09.00 _| Seurakuntatalo, Puistotie 3
-KEMPELE ‘Aaa-Nar TI 7 MARRASKUU | 09.00 _| Kokkokankaan seurakuntakeskus, Kissaojantie 12
+KEMPELE Aaa-Nar TI 7 MARRASKUU | 09.00 _| Kokkokankaan seurakuntakeskus, Kissaojantie 12
 KEMPELE Nas-066 KE 8 MARRASKUU | 09.00 _|_Kokkokankaan seurakuntakeskus, Kissaojantie 12
 TYRNAVA Aaa-006 TO 9 MARRASKUU_| 09.00_| Seurakuntatalo, Mankilantie 1
 OULU Aaa-Ham MA 13 | MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
@@ -57,7 +57,5 @@ OULU Mas-Oht MA_| 20 | MARRASKUU | 09.00 | Oulun Rauhanyhdistys, Professorintie 
 OULU Ohu-Pal TI 21 MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
 OULU Pam-Sik KE 22 | MARRASKUU | 09.00 | Oulun Rauhanyhdistys, Professorintie 7
 OULU Sil-Tor TO 23 MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
-OULU Tos-O066 PE 24 MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
+OULU Tos-O06 PE 24 MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
 HAILUOTO Aaa-065 PE 24 | MARRASKUU | 09.00 _| Oulun Rauhanyhdistys, Professorintie 7
-ERIKSEEN Pohjois-Pohjanmaan ja Kainuun aluetoimisto,
-MAARATYT Aaa-000 PE 15 JOULUKUU__| 09.00 _| Hiukanreitti 40, OULU

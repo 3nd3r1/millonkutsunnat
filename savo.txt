@@ -15,11 +15,10 @@ Enonkoski Aaa - 066 PE 13.___ Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 2
 Pieksamaki Aaa - Lam Tl 17. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
 Pieksamaki Lan - Ris KE 18. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
 Pieksamaki Rit - 066 TO 19. _ Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksamaki
-Mikkeli Aaa - Hor KE 1. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Hos - Koi TO 2. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Koj - Lii PE 3. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Lij - Nyl MA 6. Marraskuu__09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Nym - Red Tl 7. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Ree - Toi KE 8. Marraskuu__09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Toj - O66 TO 9. Marraskuu__09.00_ | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
-Mikkeli Erikseen maaratyt | PE 15. Joulukuu 09.00 | Ravintola Pitopadan alakerta, Rak. 2, Marssitie 16, Mikkeli
+Mikkeli Aaa - Hor KE 1. Marraskuu_ 09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Hos - Koi TO 2. Marraskuu__ 09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Koj - Lii PE 3. Marraskuu__ 09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Lij - Nyl MA 6. Marraskuu__ 09.00 | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Nym - Red Tl 7. Marraskuu__ 09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Ree - Toi KE 8. Marraskuu__ 09.00_| Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli
+Mikkeli Toj - O66 TO 9. Marraskuu__ 09.00_ | Jalkavakimuseo, Jaakarinkatu 6-8, Mikkeli

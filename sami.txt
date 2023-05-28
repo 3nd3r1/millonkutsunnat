@@ -1,7 +1,8 @@
 Ohcejohka Aaa - Ööö DI 15. Borge-mánnu 10.00 Gielddadállu, Luossatie 1, Ohcejohka
 Anár Aaa - Ööö GA 16. Borge-mánnu 10.00 Gielddadállu, Piiskuntie 2, Avvil
 Soađegilli Aaa - Ööö DU 17. Borge-mánnu 10.00 Gielddadállu, Jäämerentie 1, Soađegilli
-Pelkosenniemi ja Suovvaguoika Aaa - Ööö BE 18. Borge-mánnu 10.00 Searvegoddedállu, Kirkkotie 10, Pelkosenniemi
+Pelkosenniemi Aaa - Ööö BE 18. Borge-mánnu 10.00 Searvegoddedállu, Kirkkotie 10, Pelkosenniemi
+Suovvaguoika Aaa - Ööö BE 18. Borge-mánnu 10.00 Searvegoddedállu, Kirkkotie 10, Pelkosenniemi
 Tervola Aaa - Ööö DI 22. Borge-mánnu 10.00 Gielddadállu, Keskustie 81, Tervola
 Pello Aaa - Ööö GA 23. Borge-mánnu 10.00 Searvegoddedállu, Lapintie 3, Pello
 Ranua Aaa - Ööö DU 24. Borge-mánnu 10.00 Searvegoddedállu, Pappilantie 11, Ranua
@@ -24,4 +25,3 @@ Keminmaa Aaa - Ööö DI 14. Skábma-mánnu 10.00 Keminmaa girjerádjonuoraiddá
 Giepma Aaa – Myl GA 15. Skábma-mánnu 10.00 Giema searvegoddeguovddáš, Kirkkopuistokatu 11,
 Giepma Mym – Ööö DU 16. Skábma-mánnu 10.00 Giema searvegoddeguovddáš, Kirkkopuistokatu 11,
 Simo Aaa - Ööö BE 17. Skábma-mánnu 09.00 Gielddadállu, Ratatie 6, Simo
-Roavvenjárga Sierra mearriduvvon BE 15. Juovla-mánnu 10.00 Roavvenjárgga garnisovdna, Someroharju
