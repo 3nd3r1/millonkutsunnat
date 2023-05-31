@@ -37,6 +37,8 @@ const Form = () => {
 		if (!kunta || sukunimi == "") return;
 
 		const kutsumat = kutsunnat[kunta.value];
+
+		console.log(kutsumat[0]);
 	};
 
 	return (

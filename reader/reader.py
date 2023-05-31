@@ -16,7 +16,6 @@ def reader(file):
                 data = f[i].split(" ")
                 paikka = data[0].replace("\n", "")
                 paikka = paikka.lower()
-                paikka = paikka.capitalize()
                 aakkoset = "AAA-ÖÖÖ"
                 if len(data) > 1:
                     aakkoset = ''.join(data[1:]).replace("\n", "")
@@ -45,7 +44,6 @@ def reader(file):
                 data = line.split(" ")
                 paikka = data[0]
                 paikka = paikka.lower()
-                paikka = paikka.capitalize()
 
                 aakkoset = "AAA-ÖÖÖ"
                 i = 1
