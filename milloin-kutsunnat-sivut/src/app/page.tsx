@@ -1,5 +1,7 @@
-import Form from "../components/form";
 import Link from "next/link";
+import Form from "@/components/form";
+import Contact from "@/components/contact";
+
 export default function Home() {
 	return (
 		<main className="mx-auto py-10 max-w-4xl ">
@@ -29,11 +31,7 @@ export default function Home() {
 					</li>
 				</ul>
 				<Form />
-				<div className="flex justify-center mt-3">
-					<Link href="mailto:ender.spam.guru@gmail.com">
-						Ota yhteyttä
-					</Link>
-				</div>
+				<Contact />
 			</div>
 		</main>
 	);
