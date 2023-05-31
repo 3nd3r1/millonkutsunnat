@@ -69,7 +69,7 @@ def reader(file):
                 if "ruotsin" in paikka:
                     kieli = "ruotsi"
 
-                paikka = re.sub(r"[- ](ruotsin|suomen)kieliset", "", paikka)
+                paikka = re.sub(r"[- ,](ruotsin|suomen)kieliset", "", paikka)
 
                 if ans.get(paikka) is None:
                     ans[paikka] = []
