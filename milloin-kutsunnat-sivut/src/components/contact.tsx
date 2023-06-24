@@ -9,7 +9,7 @@ const Contact = () => {
 			<button
 				className="text-green-600 hover:text-green-500"
 				onClick={(e) => {
-					navigator.clipboard.writeText("ender.spam.guru@gmail.com");
+					navigator.clipboard.writeText("info@millonkutsunnat.fi");
 					setIsCopied(true);
 					setTimeout(() => setIsCopied(false), 2000);
 				}}
