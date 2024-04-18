@@ -1,0 +1,25 @@
+Savukoski ja Pelkosenniemi Aaa - Ööö MA 19. Elokuu 11.00 Kunnanvirasto, Kauppakuja 2 A 1, Savukoski
+Utsjoki Aaa - Ööö TI 20. Elokuu 12.00 Kunnanvirasto, Luossatie 1, Utsjoki
+Inari Aaa - Ööö KE 21. Elokuu 10.00 Kunnanvirasto, Piiskuntie 2, Ivalo
+Sodankylä Aaa - Ööö TO 22. Elokuu 10.00 Kunnanvirasto, Jäämerentie 1, Sodankylä
+Kemijärvi Aaa - Ööö PE 23. Elokuu 10.00 Kulttuurikeskus, Hietaniemenkatu 5, Kemijärvi
+Posio Aaa - Ööö TI 27. Elokuu 11.00 Seurakuntatalo, Sysitie 7, Posio
+Salla Aaa - Ööö KE 28. Elokuu 10.00 Seurakuntatalo, Tennontie 7, Salla
+Ranua Aaa - Ööö TO 29. Elokuu 10.00 Seurakuntatalo, Pappilantie 11, Ranua
+Pello Aaa - Ööö MA 9. Syyskuu 10.00 Kunnanvirasto, Kunnantie 4, Pello
+Enontekiö Aaa - Ööö TI 10. Syyskuu 12.00 Kunnanvirasto, Ounastie 165, Enontekiö
+Muonio Aaa - Ööö KE 11. Syyskuu 10.00 Ammattiopisto Lappia, Koulutie 8, Muonio
+Kittilä Aaa - Ööö TO 12. Syyskuu 10.00 Kunnanvirasto, Valtatie 15, Kittilä
+Kolari Aaa - Ööö PE 13. Syyskuu 10.00 Kunnanvirasto, Isopalontie 2, Kolari
+Ylitornio Aaa - Ööö TI 22. Lokakuu 11.00 Kunnanvirasto, Alkkulanraitti 55, Ylitornio
+Tornio Aaa - Nel KE 23. Lokakuu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Tornio Nem - Ööö TO 24. Lokakuu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Tervola Aaa - Ööö PE 25. Lokakuu 10.00 Kunnanvirasto, Keskustie 81, Tervola
+Rovaniemi Aaa – Kan MA 4. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Kao – Mic TI 5. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Mid – Rin KE 6. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Rio – Ööö TO 7. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Keminmaa Aaa - Ööö TI 12. Marraskuu 11.00 Keminmaan kirjastonuorisotalo, Väylätie 6, Keminmaa
+Kemi Aaa – Lin KE 13. Marraskuu 09.00 Kemin seurakuntakeskus, Kirkkopuistokatu 11, Kemi
+Kemi Lio – Ööö TO 14. Marraskuu 09.00 Kemin seurakuntakeskus, Kirkkopuistokatu 11, Kemi
+Simo Aaa - Ööö PE 15. Marraskuu 09.00 Kunnanvirasto, Ratatie 6, Simo

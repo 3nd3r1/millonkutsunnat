@@ -1,0 +1,24 @@
+Kangasniemi Aaa - Oöö TO 15. Elokuu 09.00 | Kunnantalo, Otto Mannisen tie 2, Kangasniemi
+Juva Aaa - 066 PE 16. Elokuu 09.00 | Kunnanvirasto, Juvantie 13, Juva
+Mäntyharju Aaa - Ööö TI 20. Elokuu 09.00 | Seurakuntakeskus, Kompantie 6, Mäntyharju
+Hirvensalmi Aaa - 066 KE 21. Elokuu 09.00 | Kunnanvirasto, Keskustie 2, Hirvensalmi
+Pertunmaa Aaa - Ööö KE 21. Elokuu 09.00 | Kunnanvirasto, Keskustie 2, Hirvensalmi
+Sulkava Aaa - Oöö TI 27. Elokuu 09.00 | Seurakuntatalo, Vilkaharjuntie 1, Sulkava
+Puumala Aaa - 066 TI 27. Elokuu 09.00 | Seurakuntatalo, Vilkaharjuntie 1, Sulkava
+Rantasalmi Aaa - Ööö KE 28. Elokuu 09.00 | Kunnanvirasto, Eliel Saarisen tie 2, Rantasalmi
+Savonlinna Aaa - Jar MA T, Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Jas - Laa TI 8. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Lab - Oin KE 9. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Oio - Suu TO 10. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Suv - Ööö PE 11. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Enonkoski Aaa - Ööö PE 11. Lokakuu 09.00 | Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Pieksämäki Aaa - Kor TI 15. Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Pieksämäki Kos - Ron KE 16. Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Pieksämäki Roo - Ööö TO 17. Lokakuu 09.00 | Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Mikkeli Aaa - Huj KE 30. Lokakuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Huk - Kok TO 31. Lokakuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Kol - Lav PE 1. Marraskuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Law - Olk MA 4. Marraskuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli OII - Sai TI 5. Marraskuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Saj - Vaa KE 6. Marraskuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Vab - Ööö TO 7. Marraskuu 09.00 | Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli

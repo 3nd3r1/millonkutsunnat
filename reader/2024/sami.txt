@@ -1,0 +1,26 @@
+Pelkosenniemi Aaa - Ööö MÁ 19. Borge-mánnu 11.00 Gielddadállu, Kauppakuja 2 A 1, Suovvaguoika
+Suovvaguoika Aaa - Ööö MÁ 19. Borge-mánnu 11.00 Gielddadállu, Kauppakuja 2 A 1, Suovvaguoika
+Ohcejohka Aaa - Ööö DI 20. Borge-mánnu 12.00 Gielddadállu, Luossatie 1, Ohcejohka
+Anár Aaa - Ööö GA 21. Borge-mánnu 10.00 Gielddadállu, Piiskuntie 2, Avvil
+Soađegilli Aaa - Ööö DU 22. Borge-mánnu 10.00 Gielddadállu, Jäämerentie 1, Soađegilli
+Giemajávri Aaa - Ööö BE 23. Borge-mánnu 10.00 Kulturguovddáš, Hietaniemenkatu 5, Giemajávri
+Posio Aaa - Ööö DI 27. Borge-mánnu 11.00 Searvegoddedállu, Sysitie 7, Posio
+Salla Aaa - Ööö GA 28. Borge-mánnu 10.00 Searvegoddedállu, Tennontie 7, Salla
+Ranua Aaa - Ööö DU 29. Borge-mánnu 10.00 Searvegoddedállu, Pappilantie 11, Ranua
+Pello Aaa - Ööö MÁ 9. Čakča-mánnu 10.00 Searvegoddedállu, Lapintie 3, Pello
+Eanodat Aaa - Ööö DI 10. Čakča-mánnu 12.00 Gielddadállu, Ounastie 165, Eanodat
+Muonio Aaa - Ööö GA 11. Čakča-mánnu 10.00 Ammattiopisto Lappia, Koulutie 8, Muonio
+Gihttel Aaa - Ööö DU 12. Čakča-mánnu 10.00 Gielddadállu, Valtatie 15, Gihttel
+Kolari Aaa - Ööö BE 13. Čakča-mánnu 10.00 Gielddadállu, Isopalontie 2, Kolari
+Ylitornio Aaa - Ööö DI 22. Golggot-mánnu 11.00 Gielddadállu, Alkkulanraitti 55, Ylitornio
+Duortnus Aaa – Nel GA 23. Golggot-mánnu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Duortnus Nem – Ööö DU 24. Golggot-mánnu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Tervola Aaa - Ööö DI 25. Golggot-mánnu 10.00 Gielddadállu, Keskustie 81, Tervola
+Roavvenjárga Aaa – Kan GA 4. Skábma-mánnu 09.00 Roavvenjárgga garnisovdna, Someroharju
+Roavvenjárga Kao – Mic DU 5. Skábma-mánnu 09.00 Roavvenjárgga garnisovdna, Someroharju
+Roavvenjárga Mid – Rin BE 6. Skábma-mánnu 09.00 Roavvenjárgga garnisovdna, Someroharju
+Roavvenjárga Rio - Ööö MÁ 7. Skábma-mánnu 09.00 Roavvenjárgga garnisovdna, Someroharju
+Keminmaa Aaa - Ööö DI 12. Skábma-mánnu 11.00 Keminmaa girjerádjonuoraiddállu, Väylätie 6, Keminmaa
+Giepma Aaa – Lin GA 13. Skábma-mánnu 09.00 Giema searvegoddeguovddáš, Kirkkopuistokatu 11, Giepma
+Giepma Lio – Ööö DU 14. Skábma-mánnu 09.00 Giema searvegoddeguovddáš, Kirkkopuistokatu 11, Giepma
+Simo Aaa - Ööö BE 15. Skábma-mánnu 09.00 Gielddadállu, Ratatie 6, Simo

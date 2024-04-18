@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 body {
-  @apply bg-neutral-900 text-gray-100;
+    @apply bg-neutral-900 text-gray-100;
 }
 
 a {
-  @apply text-green-600 hover:text-green-500;
+    @apply text-green-600 hover:text-green-500;
 }

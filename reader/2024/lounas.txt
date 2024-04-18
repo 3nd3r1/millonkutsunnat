@@ -1,0 +1,109 @@
+Naantali A-Kar TO 15. Elokuu 09.00 Seurakuntakeskus, Piispantie 2, Naantali 
+Naantali Kas-Mik TO 15. Elokuu 12.00 Seurakuntakeskus, Piispantie 2, Naantali 
+Naantali Mil-Räi PE 16. Elokuu 09.00 Seurakuntakeskus, Piispantie 2, Naantali 
+Naantali Räj-Ö PE 16. Elokuu 12.00 Seurakuntakeskus, Piispantie 2, Naantali 
+Parainen, suomenkieliset A-Mal TI 20. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen, suomenkieliset Mam-Ö TI 20. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen, ruotsinkieliset A-Jär KE 21. Elokuu 09.00 Kaupungintalo, Rantatie 28, Parainen
+Parainen, ruotsinkieliset Jäs-Ö KE 21. Elokuu 12.00 Kaupungintalo, Rantatie 28, Parainen
+Ahvenanmaa A-Ö PE 23. Elokuu 10.00 Valtion virastotalo, Torggatan 16, Maarianhamina 
+Merikarvia A-Ö TI 27. Elokuu 09.00 Kunnanvirasto, Kauppatie 40, Merikarvia
+Siikainen A-Ö TI 27. Elokuu 09.00 Kunnanvirasto, Kauppatie 40, Merikarvia
+Kankaanpää A-Man KE 28. Elokuu 09.00 Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää
+Kankaanpää Mao-Ö KE 28. Elokuu 12.00 Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää
+Jämijärvi A-Ö TO 29. Elokuu 09.00 Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää
+Karvia A-Ö TO 20. Elokuu 09.00 Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää
+Pomarkku A-Ö TO 29. Elokuu 09.00 Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää
+Eurajoki A-Paa PE 30. Elokuu 09.00 Kunnanvirasto, Kalliotie 5, Eurajoki
+Eurajoki Pab-Ö PE 30. Elokuu 12.00 Kunnanvirasto, Kalliotie 5, Eurajoki
+Kaarina A-Har TI 3. Syyskuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Has-Kan TI 3. Syyskuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Kao-Lau KE 4. Syyskuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Lav-Meo KE 4. Syyskuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Mep-Pyö TO 6. Syyskuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Pza-Suk TO 5. Syyskuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Sul-Van PE 6. Syyskuu 09.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Kaarina Vao-Ö PE 6. Syyskuu 12.00 Kaarina-talo, Lautakunnankatu 1, Kaarina
+Pöytyä A-Lui TI 10. Syyskuu 09.00 Elisenvaaran oppimiskeskus, Kyröntie 16, Pöytyä
+Pöytyä Luj-Ö TI 10. Syyskuu 12.00 Elisenvaaran oppimiskeskus, Kyröntie 16, Pöytyä
+Raisio A-Häm KE 11. Syyskuu 09.00 Seurakuntatalo, Kirkkoherrankuja 2, Raisio
+Raisio Hän-Man KE 11. Syyskuu 12.00 Seurakuntatalo, Kirkkoherrankuja 2, Raisio
+Raisio Mao-Sah TO 12. Syyskuu 09.00 Seurakuntatalo, Kirkkoherrankuja 2, Raisio
+Raisio Sai-Ö TO 12. Syyskuu 12.00 Seurakuntatalo, Kirkkoherrankuja 2, Raisio
+Aura A-Ö PE 13. Syyskuu 09.00 Kunnantalo, Tuulentie 1, Aura 
+Pori A-Hav TI 17. Syyskuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Haw-Kai TI 17. Syyskuu 12.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Kaj-Kun KE 18. Syyskuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Kuo-Löt KE 18. Syyskuu 12.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Löu-Pen TO 19. Syyskuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Peo-Sai TO 19. Syyskuu 12.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Saj-Tur PE 20. Syyskuu 09.00 Nuorisotalo, Isolinnankatu 12, Pori
+Pori Tus-Ö PE 20. Syyskuu 12.00 Nuorisotalo, Isolinnankatu 12, Pori
+salo A-Hen KE 25. Syyskuu 09.00 Astrumkeskus, Salorankatu 5-7, Salo
+Salo Heo-Koi KE 25. Syyskuu 12.00 Astrumkeskus, Salorankatu 5-7, Salo
+salo Koj-Mal TO 26. Syyskuu 09.00 Astrumkeskus, Salorankatu 5-7, Salo
+Salo Mam-Pri TO 26. Syyskuu 12.00 Astrumkeskus, Salorankatu 5-7, Salo
+salo Prj-Säi PE 27. Syyskuu 09.00 Astrumkeskus, Salorankatu 5-7, Salo
+Salo Säj-Ö PE 27. Syyskuu 12.00 Astrumkeskus, Salorankatu 5-7, Salo
+Mynämäki A-Ö TI 1. Lokakuu 09.00 Seurakuntakoti, Keskuskatu 17, Mynämäki
+Nousiainen A-Ö KE 2. Lokakuu 09.00 Seurakuntakoti, Maskuntie 1, Nousiainen
+Rusko A-Ö TO 3. Lokakuu 09.00 Ruskotalo, Talkootie 3, Rusko
+Kokemäki A-Ö TI 8. Lokakuu 09.00 Koulukeskus, Tulkkilantie 9B, Kokemäki
+Ulvila A-Lai KE 9. Lokakuu 09.00 Kaupungintalo, Loukkurantie 1, Ulvila
+Ulvila Laj-Ö KE 9. Lokakuu 12.00 Kaupungintalo, Loukkurantie 1, Ulvila
+Nakkila A-Ö TO 10. Lokakuu 09.00 Kaupungintalo, Loukkurantie 1, Ulvila
+Harjavalta A-Ö TO 10. Lokakuu 12.00 Kaupungintalo, Loukkurantie 1, Ulvila
+Laitila A-Lai PE 11. Lokakuu 09.00 Kaupungintalo, Keskuskatu 30, Laitila
+Laitila Laj-ö PE 11. Lokakuu 12.00 Kaupungintalo, Keskuskatu 30, Laitila
+Pyhäranta A-Ö PE 11. Lokakuu 09.00 Kaupungintalo, Keskuskatu 30, Laitila
+Somero A-Löf TI 15. Lokakuu 09.00 Seurakuntakeskus, Härkäläntie 1, Somero
+Somero Lög-Ö TI 15. Lokakuu 12.00 Seurakuntakeskus, Härkäläntie 1, Somero
+Masku A-Mat KE 16. Lokakuu 09.00 Seurakuntatalo, Maskuntie 71, Masku
+Masku Mau-Ö KE 16. Lokakuu 12.00 Seurakuntatalo, Maskuntie 71, Masku
+Loimaa A-Juh TO 17. Lokakuu 09.00 Evankelinen Kansanopisto, Opistontie 4, Loimaa
+Loimaa Jui-Pit TO 17. Lokakuu 12.00 Evankelinen Kansanopisto, Opistontie 4, Loimaa
+Oripää A-ö TO 17. Lokakuu 09.00 Evankelinen Kansanopisto, Opistontie 4, Loimaa
+Loimaa Piu-Ö PE 18. Lokakuu 09.00 Evankelinen Kansanopisto, Opistontie 4, Loimaa
+Uusikaupunki A-Lun TI 29. Lokakuu 09.00 Kulttuurikeskus Cruselli, Kullervontie 11 A, Uusikaupunki
+Uusikaupunki Luo-Ö TI 29. Lokakuu 12.00 Kulttuurikeskus Cruselli, Kullervontie 11 A, Uusikaupunki
+Rauma A-Ism KE 30. Lokakuu 09.00 Kaupungintalo, Kanalinranta 3, Rauma
+Rauma Isn-Lah KE 30. Lokakuu 12.00 Kaupungintalo, Kanalinranta 3, Rauma
+Rauma Lai-Nev TO 31. Lokakuu 09.00 Kaupungintalo, Kanalinranta 3, Rauma
+Rauma New-Roa TO 31. Lokakuu 12.00 Kaupungintalo, Kanalinranta 3, Rauma
+Rauma Rob-Tor PE 1. Marraskuu 09.00 Kaupungintalo, Kanalinranta 3, Rauma
+Rauma Tos-Ö PE 1. Marraskuu 12.00 Kaupungintalo, Kanalinranta 3, Rauma
+Huittinen A-Leh TI 5. Marraskuu 10.00 Kaupungintalo, Risto Rytin katu 36, Huittinen
+Huittinen Lei-Ö TI 5. Marraskuu 12.00 Kaupungintalo, Risto Rytin katu 36, Huittinen
+Eura A-Myl KE 6. Marraskuu 09.00 Upseerikerho, Huovintie 5, Säkylä
+Eura Mym-Ö KE 6. Marraskuu 12.00 Upseerikerho, Huovintie 5, Säkylä
+Säkylä A-ö TO 7. Marraskuu 09.00 Upseerikerho, Huovintie 5, Säkylä
+Taivassalo A-Ö PE 8. Marraskuu 09.00 Seurakuntakeskus, Keskustie 4, Taivassalo
+Vehmaa A-Ö PE 8. Marraskuu 09.00 Seurakuntakeskus, Keskustie 4, Taivassalo
+Kustavi A-Ö PE 8. Marraskuu 09.00 Seurakuntakeskus, Keskustie 4, Taivassalo
+Kemiönsaari A-Ö TI 19. Marraskuu 09.00 Villa Lande, Engelsbyntie 8, Kemiö 
+Paimio A-Lah KE 20. Marraskuu 09.00 Mikaelintalo, Pyölintie 3, Paimio
+Paimio Lai-Ö KE 20. Marraskuu 12.00 Mikaelintalo, Pyölintie 3, Paimio
+Sauvo A-Ö KE 20. Marraskuu 09.00 Mikaelintalo, Pyölintie 3, Paimio
+Lieto A-Kes TI 26. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
+Lieto Ket-Lun TI 26. Marraskuu 12.00 Kaupungintalo, Kirkkotie 13, Lieto
+Lieto Luo-sal KE 27. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
+Lieto Sam-Ö KE 27. Marraskuu 12.00 Kaupungintalo, Kirkkotie 13, Lieto
+KoskiTL A-Ö TO 28. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto 
+Marttila A-Ö TO 28. Marraskuu 09.00 Kaupungintalo, Kirkkotie 13, Lieto
+Turku, ruotsinkieliset A-Ö PE 29. Marraskuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset A-Arj MA 2. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Ark-Elm MA 2. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Eln-Has Ti 3. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Hat-llo TI 3. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset lip-Kan KE 4. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Kao-Kor KE 4. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Kos-Lau TO 5. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Lav-Mai TO 5. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Maj-Mäe MA 9. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Mät-Ogb MA 9. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Ogc-Pyy TI 10. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Pyz-Sak TI 10. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Sal-Suv KE 11. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Suw-Val KE 11. Joulukuu 12.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+Turku, suomenkieliset Vam-Ö TO 12. Joulukuu 09.00 Turun Messukeskus, Messukentänkatu 9-13, Turku
+
