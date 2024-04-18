@@ -1,0 +1,76 @@
+Vihti AAA–LYY 15.08.2024 to 08.45 Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti
+Vihti LYZ-ÖÖÖ 16.08.2024 pe 08.45 Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti
+Karkkila Kaikki (AAA–ÖÖÖ) 19.08.2024 ma 08.45 Karkkilan työväentalo, Vihdintie 2, Karkkila
+Hanko Kaikki (AAA–ÖÖÖ) 20.08.2024 ti 08.45 Hangon kaupungintalo, Bulevardi 6, Hanko
+Raasepori AAA–MAR 21.08.2024 ke 08.45 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Raasepori MAS–ÖÖÖ 22.08.2024 to 08.45 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Inkoo Kaikki (AAA–ÖÖÖ) 23.08.2024 pe 08.45 Kyrkfjärdens skola, Museotie 7, Inkoo
+Siuntio Kaikki (AAA–ÖÖÖ) 23.08.2024 pe 08.45 Kyrkfjärdens skola, Museotie 7, Inkoo
+Sipoo AAA–MIE 26.08.2024 ma 08.45 Kirkonkylän seurakuntatalo, Iso Kylätie 1, Sipoo
+Sipoo MIF–ÖÖÖ 27.08.2024 ti 08.45 Kirkonkylän seurakuntatalo, Iso Kylätie 1, Sipoo
+Porvoo AAA–KHA 28.08.2024 ke 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo KHB–PIN 29.08.2024 to 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo PIO–ÖÖÖ 30.08.2024 pe 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Lapinjärvi Kaikki (AAA–ÖÖÖ) 02.09.2024 ma 08.45 Lapinjärven seurakuntakoti, Lapinjärventie 24, Lapinjärvi
+Loviisa Kaikki (AAA–ÖÖÖ) 03.09.2024 ti 08.45 Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa
+Myrskylä Kaikki (AAA–ÖÖÖ) 04.09.2024 ke 08.45 Myrskylän seurakuntakoti, Keskustie 2, Myrskylä
+Pukkila Kaikki (AAA–ÖÖÖ) 04.09.2024 ke 08.45 Myrskylän seurakuntakoti, Keskustie 2, Myrskylä
+Pornainen Kaikki (AAA–ÖÖÖ) 05.09.2024 to 08.45 Pornaisten seurakuntakeskus, Kirkkopolku 4, Pornainen
+Askola Kaikki (AAA–ÖÖÖ) 05.09.2024 to 08.45 Pornaisten seurakuntakeskus, Kirkkopolku 4, Pornainen
+Tuusula AAA–KOT 09.09.2024 ma 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Tuusula KOU–PÖR 10.09.2024 ti 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Tuusula PÖS–ÖÖÖ 11.09.2024 ke 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Järvenpää AAA–MYL 12.09.2024 to 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Järvenpää MYM–ÖÖÖ 13.09.2024 pe 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Kerava AAA–MAT 17.09.2024 ti 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Kerava MAU–ÖÖÖ 19.09.2024 to 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Mäntsälä AAA–MOB 30.09.2024 ma 08.45 Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä
+Mäntsälä MOC–ÖÖÖ 01.10.2024 ti 08.45 Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä
+Hyvinkää AAA–KOM 02.10.2024 ke 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää KON–RAJ 03.10.2024 to 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää RAK–ÖÖÖ 04.10.2024 pe 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Nurmijärvi AAA–KOP 07.10.2024 ma 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Nurmijärvi KOQ–POR 08.10.2024 ti 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Nurmijärvi POS–ÖÖÖ 09.10.2024 ke 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Kirkkonummi AAA–KÄH 10.10.2024 to 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi KÄI–ÖÖÖ 11.10.2024 pe 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi, ruotsinkieliset Kaikki (AAA–ÖÖÖ) 14.10.2024 ma 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Lohja AAA–KUU 15.10.2024 ti 08.45 Lohjan Yhteislyseon lukio, Karstuntie 6, Lohja
+Lohja KUV–RYY 16.10.2024 ke 08.45 Lohjan Yhteislyseon lukio, Karstuntie 6, Lohja
+Lohja RYZ–ÖÖÖ 17.10.2024 to 08.45 Lohjan Yhteislyseon lukio, Karstuntie 6, Lohja
+Kauniainen Kaikki (AAA–ÖÖÖ) 18.10.2024 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo, ruotsinkieliset Kaikki (AAA–ÖÖÖ) 21.10.2024 ma 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo AAA–ERÄ 22.10.2024 ti 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo ERÅ–HUT 23.10.2024 ke 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo HUU–KIL 24.10.2024 to 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo KIM–LEH 25.10.2024 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo LEI–MÄE 28.10.2024 ma 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo MÄF–PES 29.10.2024 ti 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo PET–SAM 30.10.2024 ke 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo SAN–TRA 31.10.2024 to 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo TRB–ÖÖÖ 01.11.2024 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Vantaa AAA–GRU 04.11.2024 ma 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa GRV–IKÄ 05.11.2024 ti 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa IKÅ–KOK 06.11.2024 ke 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa KOL–LIL 07.11.2024 to 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa 
+Vantaa LIM–NOK 08.11.2024 pe 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa NOL–PYK 11.11.2024 ma 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa PYL–SEJ 12.11.2024 ti 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa SEK–TUI 13.11.2024 ke 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa TUJ–ÖÖÖ 14.11.2024 to 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Helsinki, ruotsinkieliset AAA–LEH 18.11.2024 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki, ruotsinkieliset LEI–ÖÖÖ 19.11.2024 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki AAA–BEL 20.11.2024 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki BEM–GUS 21.11.2024 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki GUT–HUR 22.11.2024 pe 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki HUS–KAA 25.11.2024 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki KAB–KOL 26.11.2024 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki KOM–LAL 27.11.2024 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki LAM–MAH 28.11.2024 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki MAI–MÖT 29.11.2024 pe 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki MÖU–PAN 02.12.2024 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki PAO–RAS 03.12.2024 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki RAT–SAU 04.12.2024 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki SAV–TAL 05.12.2024 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki TAM–VAK 09.12.2024 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki VAL–ÖÖÖ 10.12.2024 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki

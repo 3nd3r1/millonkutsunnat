@@ -7,66 +7,66 @@ import { Metadata } from "next";
 const font = Oswald({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Milloin Kutsunnat?",
-	description:
-		"Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
-	keywords: [
-		"armeija",
-		"kutsunnat",
-		"intti",
-		"palvelus",
-		"aamuja",
-		"kutsuntapäivä",
-	],
-	category: "army",
-	creator: "Vebbi",
-	colorScheme: "light",
-	metadataBase: new URL("https://millonkutsunnat.fi/"),
-	alternates: {
-		canonical: "/",
-	},
-	openGraph: {
-		title: "Milloin Kutsunnat?",
-		description:
-			"Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
-		url: "https://millonkutsunnat.fi/",
-		siteName: "Milloin Kutsunnat?",
-		images: ["/images/kutsunnat-banner.jpg"],
-		locale: "fi_FI",
-		type: "website",
-	},
-	twitter: {
-		card: "summary_large_image",
-		title: "Milloin Kutsunnat?",
-		description:
-			"Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
-		creator: "@vebbifi",
-		creatorId: "1671053312160923651",
-		siteId: "1671053312160923651",
-		images: ["/images/kutsunnat-banner.jpg"],
-	},
-	icons: {
-		icon: [{ url: "/favicon.ico" }],
-		shortcut: "/favicon.ico",
-	},
+    title: "Milloin Kutsunnat?",
+    description:
+        "Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
+    keywords: [
+        "armeija",
+        "kutsunnat",
+        "intti",
+        "palvelus",
+        "aamuja",
+        "kutsuntapäivä",
+    ],
+    category: "army",
+    creator: "Vebbi",
+    colorScheme: "light",
+    metadataBase: new URL("https://millonkutsunnat.fi/"),
+    alternates: {
+        canonical: "/",
+    },
+    openGraph: {
+        title: "Milloin Kutsunnat?",
+        description:
+            "Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
+        url: "https://millonkutsunnat.fi/",
+        siteName: "Milloin Kutsunnat?",
+        images: ["/images/kutsunnat-banner.jpg"],
+        locale: "fi_FI",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Milloin Kutsunnat?",
+        description:
+            "Selvitä milloin intti kutsuntasi ovat, ja valmistaudu armeijan palvelukseen.",
+        creator: "@vebbifi",
+        creatorId: "1671053312160923651",
+        siteId: "1671053312160923651",
+        images: ["/images/kutsunnat-banner.jpg"],
+    },
+    icons: {
+        icon: [{ url: "/favicon.ico" }],
+        shortcut: "/favicon.ico",
+    },
 };
 
 export default function RootLayout({
-	children,
+    children,
 }: {
-	children: React.ReactNode;
+    children: React.ReactNode;
 }) {
-	return (
-		<html lang="fi">
-			<Script
-				id="Adsense-id"
-				data-ad-client="ca-pub-8759085629417280"
-				async
-				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8759085629417280"
-				crossOrigin="anonymous"
-			></Script>
-			<Script type="application/ld+json" id="schema-org">
-				{`{
+    return (
+        <html lang="fi">
+            <Script
+                id="Adsense-id"
+                data-ad-client="ca-pub-8759085629417280"
+                async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8759085629417280"
+                crossOrigin="anonymous"
+            ></Script>
+            <Script type="application/ld+json" id="schema-org">
+                {`{
 					"@context": "http://schema.org",
 					"@graph": [
 						{
@@ -88,23 +88,23 @@ export default function RootLayout({
 						}
 					]
 				}`}
-			</Script>
-			<body className={font.className}>
-				{children}
+            </Script>
+            <body className={font.className}>
+                {children}
 
-				<footer className="w-full absolute bottom-0">
-					<p className="absolute right-4 sm:bottom-2">
-						Powered by{" "}
-						<Link
-							className="font-bold text-green-500"
-							href="https://vebbi.fi"
-							target="_blank"
-						>
-							Vebbi
-						</Link>
-					</p>
-				</footer>
-			</body>
-		</html>
-	);
+                <footer className="w-full flex flex-row justify-end pr-2 md:pr-8">
+                    <p className="">
+                        Powered by{" "}
+                        <Link
+                            className="font-bold text-green-500"
+                            href="https://vebbi.fi"
+                            target="_blank"
+                        >
+                            Vebbi
+                        </Link>
+                    </p>
+                </footer>
+            </body>
+        </html>
+    );
 }

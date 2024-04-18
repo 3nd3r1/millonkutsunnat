@@ -1,0 +1,23 @@
+KAAVI Aaa- 066 TO 15. | Elokuu 9.00 Nuorisotalo Kamari, Kunnantie 4, Kaavi
+TUUSNIEMI Aaa- 066 TO 15. | Elokuu 9.00 Nuorisotalo Kamari. Kunnantie 4, Kaavi
+KUOPIO Aaa- Huo MA 19. Elokuu 9.00 Alavan srk-talo, Keihdskatu 5 B
+KUOPIO Hva- Kos Tl 20. | Elokuu 9.00 Alavan srk-talo, Keihéskatu 5 B
+KUOPIO Kot- Nöö KE 21. | Elokuu 9.00 Alavan srk-talo, Keihaskatu 5 B
+KUOPIO Oaa- Sav TO |22 | Elokuu 9.00 Alavan srk-talo, Keihaskatu 5 B
+KUOPIO Saw- ööö PE 23. | Elokuu 9.00 Alavan srk-talo, Keih&skatu 5 B
+RAUTALAMPI Aaa- 066 TO 29. | Elokuu 9.00 Seurakuntatalo, Kirkkotie 3, Rautalampi
+VESANTO Aaa- 066 TO 29. | Elokuu 9.00 Seurakuntatalo, Kirkkotie 3, Rautalampi
+KEITELE Aaa- 086 TO 5. Syyskuu 9.00 Wanha meijeri, Wanha Meijerintie 6, Keitele
+TERVO Aaa- 066 TO 5. Syyskuu 9.00 Wanha meijeri, Wanha Meijerintie 6, Keitele
+VARKAUS Aaa- 066 TO 12. | Syyskuu 9.00 Warkaus-sali, Kauppatori 4
+KIURUVESI Aaa- 066 TO 3. Lokakuu 9.00 Kulttuuritalo, Lahteentie 10 A
+SONKAJARVI Aaa- 066 Tl 8. Lokakuu 9.00 Liikuntahalli, Kuntotie 4, Sonkajarvi
+RAUTAVAARA | Aaa- 066 Ti 8 Lokakuu 9.00 Liikuntahalli, Kuntotie 4, Sonkajarvi
+SIILINJARVI Aaa- 086 KE 9. Lokakuu 9.00 Kunnonpaikka, Jokiharjuntie 3, Vuorela
+VIEREMA Aaa-066 | TI 22. | Lokakuu 9.00 Kunnantalo, Myllyjarventie 1
+LEPPAVIRTA Aaa- 066 TI 29. | Lokakuu 9.00 Kunnantalo, Savonkatu 39
+PIELAVESI Aaa- 066 TO 31. | Lokakuu 9.00 Suojala, Puistotie 8
+IISALMI Aaa- 066 TO Ti Marraskuu | 9.00 Kulttuurikeskus, Kirkkopuistonkatu 9
+LAPINLAHTI Aaa- 066 Ti 12. | Marraskuu | 9.00 Seurakuntatalo, Mykkéléntie 6
+SUONENJOKI Aaa- 066 TO 21. | Marraskuu | 9.00 Yrityspuisto Futuria, Jalkalantie 6
+JOROINEN Aaa- 066 TI 26. | Marraskuu | 9.00 Joroisten yhtenaiskoulu, Koulutie 1

@@ -1,0 +1,32 @@
+Kärkölä Aaa — Oöö TO 15. elokuuta klo 09.00 Kunnantalo, Virkatie 1, Järvelä
+Padasjoki Aaa — 080 PE 16. elokuuta klo 10.00 Kuntala, Kellosalmentie 20, Padasjoki
+Asikkala Aaa — 000 TI 20. elokuuta klo 09.00 Asikkalan nuorisotilat, Asikkalantie 12, Vääksy
+Hartola Aaa — 066 KE 21. elokuuta klo 09.00 Kunnantalo, Kuninkaantie 16, Hartola
+Sysmä Aaa - 066 KE 21. elokuuta klo 09.00 Kunnantalo, Kuninkaantie 16, Hartola 
+Hattula Aaa - 006 TO 22. elokuuta klo 09.00 Juteinitalo, Kauppatie 3, Parola
+Ypäjä Aaa - 060 T1 27. elokuuta klo 10.00 Kunnanvirasto, Perttulantie 20, Ypäjä
+Forssa Aaa-Lin KE 28. elokuuta klo 09.00 Kaupungintalo, Turuntie 18, Forssa
+Forssa Lio- 066 TO 29. elokuuta klo 09.00 Kaupungintalo, Turuntie 18, Forssa
+Riihimäki Aaa — Mui TI 24. syyskuuta klo 09.00 Urheilutalo, Pohjolankatu 6, Riihimäki
+Riihimäki Muj — 066 KE 25. syyskuuta klo 09.00 Urheilutalo, Pohjolankatu 6, Riihimäki
+Humppila Aaa — 066 TI 1. lokakuuta klo 10.00 Kunnantalo, Kisakuja 2, Humppila 
+Tammela Aaa — Oöö KE 2. lokakuuta klo 09.00 Kunnantalo, Hakkapeliitantie 2, Tammela
+Jokioinen Aaa — Oöö TO 3. lokakuuta klo 09.00 Kunnantalo, Keskuskatu 29, Jokioinen
+Heinola Aaa - Oja TI 8. lokakuuta klo 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Heinola Ojb — Ööö KE 9. lokakuuta klo 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Hollola Aaa - Mön TI 15. lokakuuta klo 09.00 Heinsuon koulu, Terveystie 10, Hollola 
+Hollola Möo- Ööö KE 16. lokakuuta klo 09.00 Heinsuon koulu, Terveystie 10, Hollola
+Loppi Aaa — Oöö TI 22. lokakuuta klo 09.00 Kunnantalo, Yhdystie 5, Loppi
+Hausjärvi Aaa — 066 KE 23. lokakuuta klo 09.00 Kunnanvirasto, Keskustie 2-4, Oitti
+Hämeenlinna Aaa — Kop TI 29. lokakuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hämeenlinna
+Hämeenlinna Kog — Pie KE 30. lokakuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hämeenlinna
+Hämeenlinna Pif — Ööö TO 31. lokakuuta klo 09.00 Hämeen linna, Kustaa III:n katu 6, Hameenlinna
+Janakkala Aaa — Ööö TI 5. marraskuuta klo 09.00 Turengin liikuntahalli, Koulutie 2 A, Turenki
+Lahti Aaa — Jaa MA 11. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Jab- Lan TI 12. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Lao — Pan KE 13. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Pao — Sow TO 14. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Sox — 066 PE 15. marraskuuta klo 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Orimattila Aaa — Nuk TI 19 marraskuuta klo 09.00 Jymylinna, Urheilutie 9, Orimattila
+Orimattila Lul - 086 KE 20. marraskuuta klo 09.00 Jymylinna, Urheilutie 9, Orimattila
+litti Aaa — 066 TO 21. marraskuuta klo 09.00 Ravilinna, Veteraanitie 2, Kausala
