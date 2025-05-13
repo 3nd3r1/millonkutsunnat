@@ -1,0 +1,517 @@
+{
+  "karkkila": [
+    [
+      "aaa-ööö",
+      "15.8.2025 pe 08.45",
+      "Karkkilan kaupungin palvelukeskus, Nyhkäläntie 39, Karkkila",
+      "suomi"
+    ]
+  ],
+  "siuntio": [
+    [
+      "aaa-ööö",
+      "18.8.2025 ma 08.45",
+      "Arena Siuntio, Aleksis Kiven tie 7, Siuntio",
+      "suomi"
+    ]
+  ],
+  "inkoo": [
+    [
+      "aaa-ööö",
+      "18.8.2025 ma 08.45",
+      "Arena Siuntio, Aleksis Kiven tie 7, Siuntio",
+      "suomi"
+    ]
+  ],
+  "raasepori": [
+    [
+      "aaa-nyh",
+      "19.8.2025 ti 08.45",
+      "Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori",
+      "suomi"
+    ],
+    [
+      "nyi-ööö",
+      "20.8.2025 ke 08.45",
+      "Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori",
+      "suomi"
+    ]
+  ],
+  "hanko": [
+    [
+      "aaa-ööö",
+      "21.8.2025 to 08.45",
+      "Hangon kaupungintalo, Bulevardi 6, Hanko",
+      "suomi"
+    ]
+  ],
+  "pukkila": [
+    [
+      "aaa-ööö",
+      "22.8.2025 pe 08.45",
+      "Pukkilan nuorisoseurantalo, Veteraanitie 9, Pukkila",
+      "suomi"
+    ]
+  ],
+  "myrskylä": [
+    [
+      "aaa-ööö",
+      "22.8.2025 pe 08.45",
+      "Pukkilan nuorisoseurantalo, Veteraanitie 9, Pukkila",
+      "suomi"
+    ]
+  ],
+  "sipoo": [
+    [
+      "aaa-mie",
+      "25.8.2025 ma 08.45",
+      "Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo",
+      "suomi"
+    ],
+    [
+      "mif-ööö",
+      "26.8.2025 ti 08.45",
+      "Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo",
+      "suomi"
+    ]
+  ],
+  "porvoo": [
+    [
+      "aaa-pat",
+      "27.8.2025 ke 08.45",
+      "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo",
+      "suomi"
+    ],
+    [
+      "pau-ööö",
+      "28.8.2025 to 08.45",
+      "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo",
+      "suomi"
+    ],
+    [
+      "aaa-ööö",
+      "29.8.2025 pe 08.45",
+      "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo",
+      "ruotsi"
+    ]
+  ],
+  "hyvinkää": [
+    [
+      "aaa-kor",
+      "1.9. 2025 ma 08.45",
+      "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää",
+      "suomi"
+    ],
+    [
+      "kos-pen",
+      "2.9. 2025 ti 08.45",
+      "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää",
+      "suomi"
+    ],
+    [
+      "peo-ööö",
+      "3.9.2025 ke 08.45",
+      "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää",
+      "suomi"
+    ]
+  ],
+  "mäntsälä": [
+    [
+      "aaa-nie",
+      "4.9. 2025 to 08.45",
+      "Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä",
+      "suomi"
+    ],
+    [
+      "nif-ööö",
+      "5.9. 2025 pe 08.45",
+      "Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä",
+      "suomi"
+    ]
+  ],
+  "tuusula": [
+    [
+      "aaa-lai",
+      "8.9.2025 ma 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ],
+    [
+      "laj-sim",
+      "9.9.2025 ti 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ],
+    [
+      "sin-ööö",
+      "10.9.2025 ke 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ]
+  ],
+  "järvenpää": [
+    [
+      "aaa-nur",
+      "11.9.2025 to 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ],
+    [
+      "nus-ööö",
+      "12.9.2025 pe 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ]
+  ],
+  "kerava": [
+    [
+      "aaa-nys",
+      "16.9.2025 ti 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ],
+    [
+      "nyt-ööö",
+      "18.9.2025 to 08.45",
+      "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula",
+      "suomi"
+    ]
+  ],
+  "lohja": [
+    [
+      "aaa-kov",
+      "30.9.2025 ti 08.45",
+      "Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja",
+      "suomi"
+    ],
+    [
+      "kow-sar",
+      "1.10.2025 ke 08.45",
+      "Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja",
+      "suomi"
+    ],
+    [
+      "sas-ööö",
+      "2.10.2025 to 08.45",
+      "Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja",
+      "suomi"
+    ]
+  ],
+  "askola": [
+    [
+      "aaa-ööö",
+      "3.10.2025 pe 08.45",
+      "Askola Areena, Linnankoskentie 61, Askola",
+      "suomi"
+    ]
+  ],
+  "pornainen": [
+    [
+      "aaa-ööö",
+      "3.10.2025 pe 08.45",
+      "Askola Areena, Linnankoskentie 61, Askola",
+      "suomi"
+    ]
+  ],
+  "loviisa": [
+    [
+      "aaa-ööö",
+      "6.10.2025 ma 08.45",
+      "Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa",
+      "suomi"
+    ]
+  ],
+  "lapinjärvi": [
+    [
+      "aaa-ööö",
+      "6.10.2025 ma 08.45",
+      "Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa",
+      "suomi"
+    ]
+  ],
+  "nurmijärvi": [
+    [
+      "aaa-kyl",
+      "7.10.2025 ti 08.45",
+      "Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi",
+      "suomi"
+    ],
+    [
+      "kym-pol",
+      "8.10.2025 ke 08.45",
+      "Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi",
+      "suomi"
+    ],
+    [
+      "pom-ööö",
+      "9.10.2025 to 08.45",
+      "Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi",
+      "suomi"
+    ]
+  ],
+  "kirkkonummi": [
+    [
+      "aaa-man",
+      "10.10.2025 pe 08.45",
+      "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi",
+      "suomi"
+    ],
+    [
+      "mao-ööö",
+      "13.10.2025 ma 08.45",
+      "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi",
+      "suomi"
+    ],
+    [
+      "aaa-ööö",
+      "14.10.2025 ti 08.45",
+      "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi",
+      "ruotsi"
+    ]
+  ],
+  "kauniainen": [
+    [
+      "aaa-ööö",
+      "16.10.2025 to 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ]
+  ],
+  "espoo": [
+    [
+      "aaa-dim",
+      "17.10.2025 pe 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "din-hii",
+      "20.10.2025 ma 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "hij-kap",
+      "21.10.2025 ti 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "kaq-kuv",
+      "22.10.2025 ke 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "kuw-mal",
+      "23.10.2025 to 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "mam-oit",
+      "24.10.2025 pe 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "oiu-ram",
+      "27.10.2025 ma 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "ran-sih",
+      "28.10.2025 ti 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "sii-tuo",
+      "29.10.2025 ke 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "tup-ööö",
+      "30.10.2025 to 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "suomi"
+    ],
+    [
+      "aaa-ööö",
+      "31.10.2025 pe 08.45",
+      "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo",
+      "ruotsi"
+    ]
+  ],
+  "vihti": [
+    [
+      "aaa-mut",
+      "3.11.2025 ma 08.45",
+      "Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti",
+      "suomi"
+    ],
+    [
+      "muu-ööö",
+      "4.11.2025 ti 08.45",
+      "Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti",
+      "suomi"
+    ]
+  ],
+  "vantaa": [
+    [
+      "aaa-foo",
+      "5.11.2025 ke 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "fop-häm",
+      "6.11.2025 to 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "hän-kna",
+      "7.11.2025 pe 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "knb-lei",
+      "10.11.2025 ma 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "lej-nii",
+      "11.11.2025 ti 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "nij-ros",
+      "12.11.2025 ke 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "rot-tau",
+      "13.11.2025 to 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ],
+    [
+      "tav-ööö",
+      "14.11.2025 pe 08.45",
+      "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa",
+      "suomi"
+    ]
+  ],
+  "helsinki": [
+    [
+      "aaa-ans",
+      "17.11.2025 ma 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "ant-dou",
+      "18.11.2025 ti 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "dov-hak",
+      "19.11.2025 ke 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "hal-hyt",
+      "20.11.2025 to 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "hyu-kak",
+      "21.11.2025 pe 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "kal-kom",
+      "24.11.2025 ma 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "kon-lal",
+      "25.11.2025 ti 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "lam-mal",
+      "26.11.2025 ke 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "mam-mäh",
+      "27.11.2025 to 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "mäi-pah",
+      "28.11.2025 pe 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "pai-rie",
+      "1.12.2025 ma 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "rif-sei",
+      "2.12.2025 ti 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "sej-tai",
+      "3.12.2025 ke 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "taj-vei",
+      "4.12.2025 to 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "vej-ööö",
+      "5.12.2025 pe 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "suomi"
+    ],
+    [
+      "aaa-lia",
+      "8.12.2025 ma 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "ruotsi"
+    ],
+    [
+      "lib-ööö",
+      "9.12.2025 ti 08.45",
+      "Karjalatalo, Käpylänkuja 1, Helsinki",
+      "ruotsi"
+    ]
+  ]
+}
+

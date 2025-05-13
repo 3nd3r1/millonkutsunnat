@@ -1,0 +1,78 @@
+Karkkila Kaikki (AAA-ÖÖÖ) 15.8.2025 pe 08.45 Karkkilan kaupungin palvelukeskus, Nyhkäläntie 39, Karkkila
+Siuntio Kaikki (AAA-ÖÖÖ) 18.8.2025 ma 08.45 Arena Siuntio, Aleksis Kiven tie 7, Siuntio
+Inkoo Kaikki (AAA-ÖÖÖ) 18.8.2025 ma 08.45 Arena Siuntio, Aleksis Kiven tie 7, Siuntio
+Raasepori AAA-NYH 19.8.2025 ti 08.45 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Raasepori NYI-ÖÖÖ 20.8.2025 ke 08.45 Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori
+Hanko Kaikki (AAA-ÖÖÖ) 21.8.2025 to 08.45 Hangon kaupungintalo, Bulevardi 6, Hanko
+Pukkila Kaikki (AAA-ÖÖÖ) 22.8.2025 pe 08.45 Pukkilan nuorisoseurantalo, Veteraanitie 9, Pukkila
+Myrskylä Kaikki (AAA-ÖÖÖ) 22.8.2025 pe 08.45 Pukkilan nuorisoseurantalo, Veteraanitie 9, Pukkila
+Sipoo AAA-MIE 25.8.2025 ma 08.45 Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo
+Sipoo MIF-ÖÖÖ 26.8.2025 ti 08.45 Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo
+Porvoo AAA-PAT 27.8.2025 ke 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo PAU-ÖÖÖ 28.8.2025 to 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Porvoo, ruotsinkieliset Kaikki (AAA-ÖÖÖ) 29.8.2025 pe 08.45 Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo
+Hyvinkää AAA-KOR 1.9. 2025 ma 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää KOS-PEN 2.9. 2025 ti 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Hyvinkää PEO-ÖÖÖ 3.9.2025 ke 08.45 Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää
+Mäntsälä AAA-NIE 4.9. 2025 to 08.45 Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä
+Mäntsälä NIF-ÖÖÖ 5.9. 2025 pe 08.45 Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä
+Tuusula AAA-LAI 8.9.2025 ma 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Tuusula LAJ-SIM 9.9.2025 ti 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Tuusula SIN-ÖÖÖ 10.9.2025 ke 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Järvenpää AAA-NUR 11.9.2025 to 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Järvenpää NUS-ÖÖÖ 12.9.2025 pe 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Kerava AAA-NYS 16.9.2025 ti 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Kerava NYT-ÖÖÖ 18.9.2025 to 08.45 Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula
+Lohja AAA-KOV 30.9.2025 ti 08.45 Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja
+Lohja KOW-SAR 1.10.2025 ke 08.45 Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja
+Lohja SAS-ÖÖÖ 2.10.2025 to 08.45 Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja
+Askola Kaikki (AAA-ÖÖÖ) 3.10.2025 pe 08.45 Askola Areena, Linnankoskentie 61, Askola
+Pornainen Kaikki (AAA-ÖÖÖ) 3.10.2025 pe 08.45 Askola Areena, Linnankoskentie 61, Askola
+Loviisa Kaikki (AAA-ÖÖÖ) 6.10.2025 ma 08.45 Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa
+Lapinjärvi Kaikki (AAA-ÖÖÖ) 6.10.2025 ma 08.45 Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa
+Nurmijärvi AAA-KYL 7.10.2025 ti 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Nurmijärvi KYM-POL 8.10.2025 ke 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Nurmijärvi POM-ÖÖÖ 9.10.2025 to 08.45 Nurmijärven seurakuntakeskus, Kirstaantie 5–7, Nurmijärvi
+Kirkkonummi AAA-MAN 10.10.2025 pe 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi MAO-ÖÖÖ 13.10.2025 ma 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Kirkkonummi, ruotsinkieliset Kaikki (AAA-ÖÖÖ) 14.10.2025 ti 08.45 Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi
+Kauniainen Kaikki (AAA-ÖÖÖ) 16.10.2025 to 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo AAA-DIM 17.10.2025 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo DIN-HII 20.10.2025 ma 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo HIJ-KAP 21.10.2025 ti 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo KAQ-KUV 22.10.2025 ke 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo KUW-MAL 23.10.2025 to 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo MAM-OIT 24.10.2025 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo OIU-RAM 27.10.2025 ma 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo RAN-SIH 28.10.2025 ti 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo SII-TUO 29.10.2025 ke 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo TUP-ÖÖÖ 30.10.2025 to 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Espoo, ruotsinkieliset Kaikki (AAA-ÖÖÖ) 31.10.2025 pe 08.45 Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo
+Vihti AAA-MUT 3.11.2025 ma 08.45 Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti
+Vihti MUU-ÖÖÖ 4.11.2025 ti 08.45 Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti
+Vantaa AAA-FOO 5.11.2025 ke 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa FOP-HÄM 6.11.2025 to 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa HÄN-KNA 7.11.2025 pe 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa KNB-LEI 10.11.2025 ma 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa LEJ-NII 11.11.2025 ti 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa NIJ-ROS 12.11.2025 ke 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa ROT-TAU 13.11.2025 to 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Vantaa TAV-ÖÖÖ 14.11.2025 pe 08.45 Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa
+Helsinki AAA-ANS 17.11.2025 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki ANT-DOU 18.11.2025 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki DOV-HAK 19.11.2025 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki HAL-HYT 20.11.2025 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki HYU-KAK 21.11.2025 pe 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki KAL-KOM 24.11.2025 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki KON-LAL 25.11.2025 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki LAM-MAL 26.11.2025 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki MAM-MÄH 27.11.2025 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki MÄI-PAH 28.11.2025 pe 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki PAI-RIE 1.12.2025 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki RIF-SEI 2.12.2025 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki SEJ-TAI 3.12.2025 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki TAJ-VEI 4.12.2025 to 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki VEJ-ÖÖÖ 5.12.2025 pe 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki, ruotsinkieliset AAA-LIA 8.12.2025 ma 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+Helsinki, ruotsinkieliset LIB-ÖÖÖ 9.12.2025 ti 08.45 Karjalatalo, Käpylänkuja 1, Helsinki
+UUSIMAA ERIKSEEN MÄÄRÄTYT 10.12.2025 ke 08.45 Karjalatalo, Käpylänkuja 1, Helsinki

@@ -1,0 +1,21 @@
+Kangasniemi Aaa - Ööö TI 19. Elokuu 09.00 Kunnantalo, Otto Mannisen tie 2, Kangasniemi
+Juva Aaa - Ööö TO 21. Elokuu 09.00 Kunnanvirasto, Juvantie 13, Juva
+Mäntyharju Aaa - Ööö KE 27. Elokuu 09.00 Seurakuntakeskus, Kompantie 6, Mäntyharju
+Hirvensalmi Aaa - Ööö KE 27. Elokuu 09.00 Seurakuntakeskus, Kompantie 6, Mäntyharju
+Puumala Aaa - Ööö TI 2. Syyskuu 09.00 Kunnan virastotalo, Keskustie 14, Puumala
+Sulkava Aaa - Ööö TI 2. Syyskuu 09.00 Kunnan virastotalo, Keskustie 14, Puumala
+Rantasalmi Aaa - Ööö TO 4. Syyskuu 09.00 Kunnanvirasto, Eliel Saarisen tie 2, Rantasalmi
+Savonlinna Aaa - Kii TI 7. Lokakuu 09.00 Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Kij - Moi KE 8. Lokakuu 09.00 Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Moj - Sah TO 9. Lokakuu 09.00 Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Savonlinna Sai - Ööö PE 10. Lokakuu 09.00 Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Enonkoski Aaa - Ööö PE 10. Lokakuu 09.00 Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna
+Pieksämäki Aaa - Lam TI 14. Lokakuu 09.00 Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Pieksämäki Lan - Pär KE 15. Lokakuu 09.00 Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Pieksämäki Päs - Ööö TO 16. Lokakuu 09.00 Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki
+Mikkeli Aaa - Juv MA 27. Lokakuu 09.00 Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Juw - Les TI 28. Lokakuu 09.00 Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Let - Pur KE 29. Lokakuu 09.00 Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Pus - Tiu TO 30. Lokakuu 09.00 Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Tiv - Ööö PE 31. Lokakuu 09.00 Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli
+Mikkeli Erikseen määrätyt MA 15. Joulukuu 09.00 Ravintola Pitopadan alakerta, Rak. 2, Marssitie 16, Mikkeli
