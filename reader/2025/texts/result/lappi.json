@@ -1,0 +1,200 @@
+{
+  "pelkosenniemi": [
+    [
+      "aaa-ööö",
+      "MA 18. Elokuu 11.00",
+      "Seurakuntatalo, Kirkkotie 10, Pelkosenniemi",
+      "suomi"
+    ]
+  ],
+  "savukoski": [
+    [
+      "aaa-ööö",
+      "MA 18. Elokuu 11.00",
+      "Seurakuntatalo, Kirkkotie 10, Pelkosenniemi",
+      "suomi"
+    ]
+  ],
+  "utsjoki": [
+    [
+      "aaa-ööö",
+      "TI 19. Elokuu 11.00",
+      "Kunnanvirasto, Luossatie 1, Utsjoki",
+      "suomi"
+    ]
+  ],
+  "inari": [
+    [
+      "aaa-ööö",
+      "KE 20. Elokuu 10.00",
+      "Kunnanvirasto, Piiskuntie 2, Ivalo",
+      "suomi"
+    ]
+  ],
+  "sodankylä": [
+    [
+      "aaa-ööö",
+      "TO 21. Elokuu 10.00",
+      "Kunnanvirasto, Jäämerentie 1, Sodankylä",
+      "suomi"
+    ]
+  ],
+  "kemijärvi": [
+    [
+      "aaa-ööö",
+      "PE 22. Elokuu 10.00",
+      "Kulttuurikeskus, Hietaniemenkatu 5, Kemijärvi",
+      "suomi"
+    ]
+  ],
+  "ranua": [
+    [
+      "aaa-ööö",
+      "TI 26. Elokuu 10.00",
+      "Seurakuntatalo, Sysitie 7, Posio",
+      "suomi"
+    ]
+  ],
+  "salla": [
+    [
+      "aaa-ööö",
+      "KE 27. Elokuu 10.00",
+      "Seurakuntatalo, Tennontie 7, Salla",
+      "suomi"
+    ]
+  ],
+  "posio": [
+    [
+      "aaa-ööö",
+      "TO 28. Elokuu 11.00",
+      "Seurakuntatalo, Pappilantie 11, Ranua",
+      "suomi"
+    ]
+  ],
+  "pello": [
+    [
+      "aaa-ööö",
+      "MA 8. Syyskuu 10.00",
+      "Kunnanvirasto, Kunnantie 4, Pello",
+      "suomi"
+    ]
+  ],
+  "enontekiö": [
+    [
+      "aaa-ööö",
+      "TI 9. Syyskuu 12.00",
+      "Kunnanvirasto, Ounastie 165, Enontekiö",
+      "suomi"
+    ]
+  ],
+  "muonio": [
+    [
+      "aaa-ööö",
+      "KE 10. Syyskuu 10.00",
+      "Ammattiopisto Lappia, Koulutie 8, Muonio",
+      "suomi"
+    ]
+  ],
+  "kittilä": [
+    [
+      "aaa-ööö",
+      "TO 11. Syyskuu 10.00",
+      "Kunnanvirasto, Valtatie 15, Kittilä",
+      "suomi"
+    ]
+  ],
+  "kolari": [
+    [
+      "aaa-ööö",
+      "PE 12. Syyskuu 10.00",
+      "Kunnanvirasto, Isopalontie 2, Kolari",
+      "suomi"
+    ]
+  ],
+  "ylitornio": [
+    [
+      "aaa-ööö",
+      "TI 21. Lokakuu 11.00",
+      "Kunnanvirasto, Alkkulanraitti 55, Ylitornio",
+      "suomi"
+    ]
+  ],
+  "tornio": [
+    [
+      "aaa-luo",
+      "KE 22. Lokakuu 09.00",
+      "Peräpohjolan opisto, Joentalo, Kivirannantie 13-15",
+      "suomi"
+    ],
+    [
+      "lup-ööö",
+      "TO 23. Lokakuu 09.00",
+      "Peräpohjolan opisto, Joentalo, Kivirannantie 13-15",
+      "suomi"
+    ]
+  ],
+  "tervola": [
+    [
+      "aaa-ööö",
+      "PE 24. Lokakuu 10.00",
+      "Kunnanvirasto, Keskustie 81, Tervola",
+      "suomi"
+    ]
+  ],
+  "rovaniemi": [
+    [
+      "aaa-kan",
+      "MA 3. Marraskuu 09.00",
+      "Rovaniemen varuskunta, Someroharju",
+      "suomi"
+    ],
+    [
+      "kao-mak",
+      "TI 4. Marraskuu 09.00",
+      "Rovaniemen varuskunta, Someroharju",
+      "suomi"
+    ],
+    [
+      "mal-ruo",
+      "KE 5. Marraskuu 09.00",
+      "Rovaniemen varuskunta, Someroharju",
+      "suomi"
+    ],
+    [
+      "rup-ööö",
+      "TO 6. Marraskuu 09.00",
+      "Rovaniemen varuskunta, Someroharju",
+      "suomi"
+    ]
+  ],
+  "keminmaa": [
+    [
+      "aaa-ööö",
+      "TI 11. Marraskuu 11.00",
+      "Keminmaan kirjastonuorisotalo, Väylätie 6, Keminmaa",
+      "suomi"
+    ]
+  ],
+  "kemi": [
+    [
+      "aaa-man",
+      "KE 12. Marraskuu 09.00",
+      "Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi",
+      "suomi"
+    ],
+    [
+      "mao-ööö",
+      "TO 13. Marraskuu 09.00",
+      "Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi",
+      "suomi"
+    ]
+  ],
+  "simo": [
+    [
+      "aaa-ööö",
+      "PE 14. Marraskuu 10.00",
+      "Kunnanvirasto, Ratatie 6, Simo",
+      "suomi"
+    ]
+  ]
+}

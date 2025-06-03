@@ -1,0 +1,77 @@
+{
+  "kärkölä": [
+    ["aaa-ööö", "PE 15. Elokuu 09.00", "Kunnantalo, Virkatie 1, Järvelä", "suomi"]
+  ],
+  "iitti": [
+    ["aaa-ööö", "MA 18. Elokuu 09.00", "Ravilinna, Veteraanitie 2, Kausala", "suomi"]
+  ],
+  "asikkala": [
+    ["aaa-ööö", "Tl 19. Elokuu 09.00", "Asikkalan nuorisotilat, Asikkalantie 12, Vääksy", "suomi"]
+  ],
+  "padasjoki": [
+    ["aaa-ööö", "Tl 19. Elokuu 09.00", "Asikkalan nuorisotilat, Asikkalantie 12, Vääksy", "suomi"]
+  ],
+  "sysmä": [
+    ["aaa-ööö", "KE 20. Elokuu 09.00", "Teatteritalo, Väihkyläntie 1, Sysmä", "suomi"]
+  ],
+  "hartola": [
+    ["aaa-ööö", "KE 20. Elokuu 09.00", "Teatteritalo, Väihkyläntie 1, Sysmä", "suomi"]
+  ],
+  "jokioinen": [
+    ["aaa-ööö", "MA 25. Elokuu 10:00", "Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila", "suomi"]
+  ],
+  "humppila": [
+    ["aaa-ööö", "MA 25. Elokuu 10:00", "Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila", "suomi"]
+  ],
+  "ypäjä": [
+    ["aaa-ööö", "MA 25. Elokuu 10:00", "Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila", "suomi"]
+  ],
+  "forssa": [
+    ["aaa-ööö", "Tl 26. Elokuu 09.00", "Kaupungintalo, Turuntie 18, Forssa", "suomi"]
+  ],
+  "tammela": [
+    ["aaa-ööö", "KE 27. Elokuu 09.00", "Kunnantalo, Hakkapeliitantie 2, Tammela", "suomi"]
+  ],
+  "riihimäki": [
+    ["aaa-löö", "KE 10. Syyskuu 09.00", "Urheilutalo, Pohjolankatu 6, Riihimäki", "suomi"],
+    ["maa-ööö", "TO 11. Syyskuu 09.00", "Urheilutalo, Pohjolankatu 6, Riihimäki", "suomi"]
+  ],
+  "heinola": [
+    ["aaa-möö", "Tl 30. Syyskuu 09.00", "Valtion Virastotalo, Rauhankatu 3 A, Heinola", "suomi"],
+    ["naa-ööö", "KE 1. Lokakuu 09.00", "Valtion Virastotalo, Rauhankatu 3 A, Heinola", "suomi"]
+  ],
+  "janakkala": [
+    ["aaa-pöö", "Tl 7. Lokakuu 09.00", "Turengin liikuntahalli, Koulutie 2 A, Turenki", "suomi"],
+    ["qaa-ööö", "KE 8. Lokakuu 09.00", "Turengin liikuntahalli, Koulutie 2 A, Turenki", "suomi"]
+  ],
+  "loppi": [
+    ["aaa-ööö", "KE 15. Lokakuu 09.00", "Kunnantalo, Yhdystie 5, Loppi", "suomi"]
+  ],
+  "hausjärvi": [
+    ["aaa-ööö", "TO 16. Lokakuu 09.00", "Kunnanvirasto, Keskustie 2-5, Oitti", "suomi"]
+  ],
+  "hollola": [
+    ["aaa-pöö", "Ti 21. Lokakuu 09.00", "Heinsuonkoulu, Terveystie 10, Hollola", "suomi"],
+    ["qaa-ööö", "KE 22. Lokakuu 09.00", "Heinsuonkoulu, Terveystie 10, Hollola", "suomi"]
+  ],
+  "lahti": [
+    ["aaa-hei", "MA 27. Lokakuu 09.00", "FellmanniCampus, Kirkkokatu 27, Lahti", "suomi"],
+    ["hej-koö", "Tl 28. Lokakuu 09.00", "FellmanniCampus, Kirkkokatu 27, Lahti", "suomi"],
+    ["kpa-nöö", "KE 29. Lokakuu 09.00", "FellmanniCampus, Kirkkokatu 27, Lahti", "suomi"],
+    ["oaa-söö", "TO 30. Lokakuu 09.00", "FellmanniCampus, Kirkkokatu 27, Lahti", "suomi"],
+    ["taa-ööö", "PE 31. Lokakuu 09.00", "FellmanniCampus, Kirkkokatu 27, Lahti", "suomi"]
+  ],
+  "hattula": [
+    ["aaa-ööö", "KE 12. Marraskuu 09.00", "Juteinitalo, Kauppatie 3, Parola", "suomi"]
+  ],
+  "hämeenlinna": [
+    ["aaa-jöö", "MA 17. Marraskuu 09.00", "Loimua Areena, Härkätie 17 B, Hämeenlinna", "suomi"],
+    ["kaa-liö", "Tl 18. Marraskuu 09.00", "Loimua Areena, Härkätie 17 B, Hämeenlinna", "suomi"],
+    ["lja-reö", "KE 19. Marraskuu 09.00", "Loimua Areena, Härkätie 17 B, Hämeenlinna", "suomi"],
+    ["rfa-ööö", "TO 20. Marraskuu 09.00", "Loimua Areena, Härkätie 17 B, Hämeenlinna", "suomi"]
+  ],
+  "orimattila": [
+    ["aaa-möö", "Tl 25. Marraskuu 09.00", "Jymylinna, Urheilutie 9, Orimattila", "suomi"],
+    ["naa-ööö", "KE 26. Marraskuu 09.00", "Jymylinna, Urheilutie 9, Orimattila", "suomi"]
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "pelkosenniemi": [
+    [
+      "aaa-ööö",
+      "MÁ 18. Borge-mánnu 11.00",
+      "Gielddadállu, Kauppakuja 2 A 1, Pelkosenniemi",
+      "suomi"
+    ]
+  ],
+  "savukoski": [
+    [
+      "aaa-ööö",
+      "MÁ 18. Borge-mánnu 11.00",
+      "Gielddadállu, Kauppakuja 2 A 1, Pelkosenniemi",
+      "suomi"
+    ]
+  ],
+  "utsjoki": [
+    [
+      "aaa-ööö",
+      "DI 19. Borge-mánnu 12.00",
+      "Gielddadállu, Luossatie 1, Ohcejohka",
+      "suomi"
+    ]
+  ],
+  "inari": [
+    [
+      "aaa-ööö",
+      "GA 20. Borge-mánnu 10.00",
+      "Gielddadállu, Piiskuntie 2, Avvil",
+      "suomi"
+    ]
+  ],
+  "sodankylä": [
+    [
+      "aaa-ööö",
+      "DU 21. Borge-mánnu 10.00",
+      "Gielddadállu, Jäämerentie 1, Soađegilli",
+      "suomi"
+    ]
+  ],
+  "kemijärvi": [
+    [
+      "aaa-ööö",
+      "BE 22. Borge-mánnu 10.00",
+      "Kulturguovddáš, Hietaniemenkatu 5, Giemajávri",
+      "suomi"
+    ]
+  ],
+  "ranua": [
+    [
+      "aaa-ööö",
+      "DI 26. Borge-mánnu 10.00",
+      "Searvegoddedállu, Pappilantie 11, Ranua",
+      "suomi"
+    ]
+  ],
+  "salla": [
+    [
+      "aaa-ööö",
+      "GA 27. Borge-mánnu 10.00",
+      "Searvegoddedállu, Tennontie 7, Salla",
+      "suomi"
+    ]
+  ],
+  "posio": [
+    [
+      "aaa-ööö",
+      "DU 28. Borge-mánnu 11.00",
+      "Searvegoddedállu, Sysitie 7, Posio",
+      "suomi"
+    ]
+  ],
+  "pello": [
+    [
+      "aaa-ööö",
+      "MÁ 8. Čakča-mánnu 10.00",
+      "Searvegoddedállu, Lapintie 3, Pello",
+      "suomi"
+    ]
+  ],
+  "enontekiö": [
+    [
+      "aaa-ööö",
+      "DI 9. Čakča-mánnu 12.00",
+      "Gielddadállu, Ounastie 165, Eanodat",
+      "suomi"
+    ]
+  ],
+  "muonio": [
+    [
+      "aaa-ööö",
+      "GA 10. Čakča-mánnu 10.00",
+      "Ammattiopisto Lappia, Koulutie 8, Muonio",
+      "suomi"
+    ]
+  ],
+  "kittilä": [
+    [
+      "aaa-ööö",
+      "DU 11. Čakča-mánnu 10.00",
+      "Gielddadállu, Valtatie 15, Gihttel",
+      "suomi"
+    ]
+  ],
+  "kolari": [
+    [
+      "aaa-ööö",
+      "BE 12. Čakča-mánnu 10.00",
+      "Gielddadállu, Isopalontie 2, Kolari",
+      "suomi"
+    ]
+  ],
+  "ylitornio": [
+    [
+      "aaa-ööö",
+      "DI 21. Golggot-mánnu 11.00",
+      "Gielddadállu, Alkkulanraitti 55, Ylitornio",
+      "suomi"
+    ]
+  ],
+  "tornio": [
+    [
+      "aaa-nel",
+      "GA 22. Golggot-mánnu 09.00",
+      "Peräpohjolan opisto, Joentalo, Kivirannantie 13-15",
+      "suomi"
+    ],
+    [
+      "nem-ööö",
+      "DU 23. Golggot-mánnu 09.00",
+      "Peräpohjolan opisto, Joentalo, Kivirannantie 13-15",
+      "suomi"
+    ]
+  ],
+  "tervola": [
+    [
+      "aaa-ööö",
+      "DI 24. Golggot-mánnu 10.00",
+      "Gielddadállu, Keskustie 81, Tervola",
+      "suomi"
+    ]
+  ],
+  "rovaniemi": [
+    [
+      "aaa-kan",
+      "GA 3. Skábma-mánnu 09.00",
+      "Roavvenjárgga garnisovdna, Someroharju",
+      "suomi"
+    ],
+    [
+      "kao-mic",
+      "DU 4. Skábma-mánnu 09.00",
+      "Roavvenjárgga garnisovdna, Someroharju",
+      "suomi"
+    ],
+    [
+      "mid-rin",
+      "BE 5. Skábma-mánnu 09.00",
+      "Roavvenjárgga garnisovdna, Someroharju",
+      "suomi"
+    ],
+    [
+      "rio-ööö",
+      "MÁ 6. Skábma-mánnu 09.00",
+      "Roavvenjárgga garnisovdna, Someroharju",
+      "suomi"
+    ]
+  ],
+  "keminmaa": [
+    [
+      "aaa-ööö",
+      "DI 11. Skábma-mánnu 11.00",
+      "Keminmaa girjerádjonuoraiddállu, Väylätie 6, Keminmaa",
+      "suomi"
+    ]
+  ],
+  "kemi": [
+    [
+      "aaa-lin",
+      "GA 12. Skábma-mánnu 09.00",
+      "Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi",
+      "suomi"
+    ],
+    [
+      "lio-ööö",
+      "DU 13. Skábma-mánnu 09.00",
+      "Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi",
+      "suomi"
+    ]
+  ],
+  "simo": [
+    [
+      "aaa-ööö",
+      "BE 14. Skábma-mánnu 09.00",
+      "Gielddadállu, Ratatie 6, Simo",
+      "suomi"
+    ]
+  ]
+}

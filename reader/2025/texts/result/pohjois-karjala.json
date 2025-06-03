@@ -1,0 +1,136 @@
+{
+  "kitee": [
+    [
+      "aaa-ööö",
+      "TI 19. elokuuta klo 09:00",
+      "Kulttuurikeskus Ilmarinen, Koulutie 3 E, Kitee",
+      "suomi"
+    ]
+  ],
+  "tohmajärvi": [
+    [
+      "aaa-ööö",
+      "KE 20. elokuuta klo 09:00",
+      "Sivistyskeskus Ahjo, Kirkkotie 10 A",
+      "suomi"
+    ]
+  ],
+  "ilomantsi": [
+    [
+      "aaa-ööö",
+      "TO 21. elokuuta klo 09:00",
+      "Kunnantalo, Soihtulantie 7",
+      "suomi"
+    ]
+  ],
+  "heinävesi": [
+    [
+      "aaa-ööö",
+      "TI 26. elokuuta klo 09:00",
+      "Kunnantalo, Kermanrannantie 7",
+      "suomi"
+    ]
+  ],
+  "rääkkylä": [
+    [
+      "aaa-ööö",
+      "TI 19. elokuuta klo 09:00",
+      "Kulttuurikeskus Ilmarinen, Koulutie 3 E, Kitee",
+      "suomi"
+    ]
+  ],
+  "lieksa": [
+    [
+      "aaa-ööö",
+      "TI 2. syyskuuta klo 09:00",
+      "Brahea Kampus, Kuhmоnkatu 30",
+      "suomi"
+    ]
+  ],
+  "nurmes": [
+    [
+      "aaa-ööö",
+      "KE 3. syyskuuta klo 09:00",
+      "Nurmes-talo, Kötsintie 2",
+      "suomi"
+    ]
+  ],
+  "juuka": [
+    [
+      "aaa-ööö",
+      "TO 4. syyskuuta klo 09:00",
+      "Kunnantalo, Poikolantie 1",
+      "suomi"
+    ]
+  ],
+  "polvijärvi": [
+    [
+      "aaa-ööö",
+      "TI 7. lokakuuta klo 09:00",
+      "Polvijärven yläkoulu, Polvijärventie 6",
+      "suomi"
+    ]
+  ],
+  "outokumpu": [
+    [
+      "aaa-ööö",
+      "KE 8. lokakuuta klo 09:00",
+      "Outokummun urheilukeskus, Outolamminkatu 1",
+      "suomi"
+    ]
+  ],
+  "joensuu": [
+    [
+      "aaa-ila",
+      "MA 27. lokakuuta klo 09:00",
+      "Nepenmäen koulu, Kärpänkatu 7",
+      "suomi"
+    ],
+    [
+      "ilb-kui",
+      "TI 28. lokakuuta klo 09:00",
+      "Nepenmäen koulu, Kärpänkatu 7",
+      "suomi"
+    ],
+    [
+      "kuj-nuo",
+      "KE 29. lokakuuta klo 09:00",
+      "Nepenmäen koulu, Kärpänkatu 7",
+      "suomi"
+    ],
+    [
+      "nup-sip",
+      "TO 30. lokakuuta klo 09:00",
+      "Nepenmäen koulu, Kärpänkatu 7",
+      "suomi"
+    ],
+    [
+      "siq-ööö",
+      "PE 31. lokakuuta klo 09:00",
+      "Nepenmäen koulu, Kärpänkatu 7",
+      "suomi"
+    ]
+  ],
+  "liperi": [
+    [
+      "aaa-ööö",
+      "TI 25. marraskuuta klo 09:00",
+      "Liperin koulu, Koulutie 1",
+      "suomi"
+    ]
+  ],
+  "kontiolahti": [
+    [
+      "aaa-nuu",
+      "KE 26. marraskuuta klo 09:00",
+      "Kontiolahden koulu, Keskuskatu 11",
+      "suomi"
+    ],
+    [
+      "nuv-ööö",
+      "TO 27. marraskuuta klo 09:00",
+      "Kontiolahden koulu, Keskuskatu 11",
+      "suomi"
+    ]
+  ]
+}

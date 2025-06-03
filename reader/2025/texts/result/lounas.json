@@ -1,0 +1,732 @@
+{
+  "kemiönsaari": [
+    [
+      "aaa-ööö",
+      "PE 15. Elokuu 09.00",
+      "Villa Lande, Engelsbyntie 8, Kemiö",
+      "suomi"
+    ]
+  ],
+  "parainen": [
+    [
+      "aaa-nyr",
+      "TI 19. Elokuu 09.00",
+      "Kaupungintalo, Rantatie 28, Parainen",
+      "suomi"
+    ],
+    [
+      "nys-ööö",
+      "TI 19. Elokuu 12.00",
+      "Kaupungintalo, Rantatie 28, Parainen",
+      "suomi"
+    ],
+    [
+      "aaa-lep",
+      "KE 20. Elokuu 09.00",
+      "Kaupungintalo, Rantatie 28, Parainen",
+      "ruotsi"
+    ],
+    [
+      "leq-ööö",
+      "KE 20. Elokuu 12.00",
+      "Kaupungintalo, Rantatie 28, Parainen",
+      "ruotsi"
+    ]
+  ],
+  "ahvenanmaa": [
+    [
+      "aaa-ööö",
+      "PE 22. Elokuu 10.00",
+      "Valtion virastotalo, Torggatan 16, Maarianhamina",
+      "suomi"
+    ]
+  ],
+  "merikarvia": [
+    [
+      "aaa-ööö",
+      "TI 26. Elokuu 09.00",
+      "Kunnanvirasto, Kauppatie 40, Merikarvia",
+      "suomi"
+    ]
+  ],
+  "siikainen": [
+    [
+      "aaa-ööö",
+      "TI 26. Elokuu 09.00",
+      "Kunnanvirasto, Kauppatie 40, Merikarvia",
+      "suomi"
+    ]
+  ],
+  "ulvila": [
+    [
+      "aaa-luo",
+      "KE 27. Elokuu 09.00",
+      "Kaupungintalo, Loukkurantie 1, Ulvila",
+      "suomi"
+    ],
+    [
+      "lup-ööö",
+      "KE 27. Elokuu 12.00",
+      "Kaupungintalo, Loukkurantie 1, Ulvila",
+      "suomi"
+    ]
+  ],
+  "nakkila": [
+    [
+      "aaa-ööö",
+      "TO 28. Elokuu 09.00",
+      "Kaupungintalo, Loukkurantie 1, Ulvila",
+      "suomi"
+    ]
+  ],
+  "harjavalta": [
+    [
+      "aaa-ööö",
+      "TO 28. Elokuu 12.00",
+      "Kaupungintalo, Loukkurantie 1, Ulvila",
+      "suomi"
+    ]
+  ],
+  "eurajoki": [
+    [
+      "aaa-nie",
+      "PE 29. Elokuu 09.00",
+      "Kunnanvirasto, Kalliotie 5, Eurajoki",
+      "suomi"
+    ],
+    [
+      "nif-ööö",
+      "PE 29. Elokuu 12.00",
+      "Kunnanvirasto, Kalliotie 5, Eurajoki",
+      "suomi"
+    ]
+  ],
+  "kaarina": [
+    [
+      "aaa-hei",
+      "TI 2. Syyskuu 09.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "hej-kap",
+      "TI 2. Syyskuu 12.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "kaq-kön",
+      "KE 3. Syyskuu 09.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "köo-lun",
+      "KE 3. Syyskuu 12.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "luo-pel",
+      "TO 4. Syyskuu 09.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "pem-sah",
+      "TO 4. Syyskuu 12.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "sai-toi",
+      "PE 5. Syyskuu 09.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ],
+    [
+      "toj-ööö",
+      "PE 5. Syyskuu 12.00",
+      "Kaarina-talo, Lautakunnankatu 1, Kaarina",
+      "suomi"
+    ]
+  ],
+  "eura": [
+    [
+      "aaa-mäe",
+      "TI 9. Syyskuu 09.00",
+      "Upseerikerhо, Huovintie 5, Säkylä",
+      "suomi"
+    ],
+    [
+      "mäf-ööö",
+      "TI 9. Syyskuu 12.00",
+      "Upseerikerhо, Huovintie 5, Säkylä",
+      "suomi"
+    ]
+  ],
+  "säkylä": [
+    [
+      "aaa-ööö",
+      "KE 10. Syyskuu 09.00",
+      "Upseerikerhо, Huovintie 5, Säkylä",
+      "suomi"
+    ]
+  ],
+  "mynämäki": [
+    [
+      "aaa-ööö",
+      "TI 16. Syyskuu 09.00",
+      "Seurakuntakoti, Keskuskatu 17, Mynämäki",
+      "suomi"
+    ]
+  ],
+  "salo": [
+    [
+      "aaa-jaa",
+      "KE 17. Syyskuu 09.00",
+      "Astrumkeskus, Salorankatu 5-7, Salo",
+      "suomi"
+    ],
+    [
+      "jab-lam",
+      "KE 17. Syyskuu 12.00",
+      "Astrumkeskus, Salorankatu 5-7, Salo",
+      "suomi"
+    ],
+    [
+      "lan-pan",
+      "TO 18. Syyskuu 09.00",
+      "Astrumkeskus, Salorankatu 5-7, Salo",
+      "suomi"
+    ],
+    [
+      "pao-sjö",
+      "TO 18. Syyskuu 12.00",
+      "Astrumkeskus, Salorankatu 5-7, Salo",
+      "suomi"
+    ],
+    [
+      "ska-ööö",
+      "PE 19. Syyskuu 09.00",
+      "Astrumkeskus, Salorankatu 5-7, Salo",
+      "suomi"
+    ]
+  ],
+  "pori": [
+    [
+      "aaa-hed",
+      "TI 23. Syyskuu 09.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "hee-kes",
+      "TI 23. Syyskuu 12.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "ket-lem",
+      "KE 24. Syyskuu 09.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "len-nis",
+      "KE 24. Syyskuu 12.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "nit-reh",
+      "TO 25. Syyskuu 09.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "rei-tii",
+      "TO 25. Syyskuu 12.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ],
+    [
+      "tij-ööö",
+      "PE 26. Syyskuu 09.00",
+      "Nuorisotalo, Isolinnankatu 12, Pori",
+      "suomi"
+    ]
+  ],
+  "rusko": [
+    [
+      "aaa-lei",
+      "TI 30. Syyskuu 09.00",
+      "Ruskotalo, Talkoоtie 3, Rusko",
+      "suomi"
+    ],
+    [
+      "lej-ööö",
+      "TI 30. Syyskuu 12.00",
+      "Ruskotalo, Talkoоtie 3, Rusko",
+      "suomi"
+    ]
+  ],
+  "nousiainen": [
+    [
+      "aaa-ööö",
+      "KE 1. Lokakuu 09.00",
+      "Seurakuntakoti, Maskuntie 1, Nousiainen",
+      "suomi"
+    ]
+  ],
+  "loimaa": [
+    [
+      "aaa-kor",
+      "TO 2. Lokakuu 09.00",
+      "Evankelinen Kansanopisto, Opistontie 4, Loimaa",
+      "suomi"
+    ],
+    [
+      "kos-paa",
+      "TO 2. Lokakuu 12.00",
+      "Evankelinen Kansanopisto, Opistontie 4, Loimaa",
+      "suomi"
+    ],
+    [
+      "pab-ööö",
+      "PE 3. Lokakuu 09.00",
+      "Evankelinen Kansanopisto, Opistontie 4, Loimaa",
+      "suomi"
+    ]
+  ],
+  "oripää": [
+    [
+      "aaa-ööö",
+      "TO 2. Lokakuu 09.00",
+      "Evankelinen Kansanopisto, Opistontie 4, Loimaa",
+      "suomi"
+    ]
+  ],
+  "kokemäki": [
+    [
+      "aaa-lah",
+      "TI 14. Lokakuu 09.00",
+      "Koulukeskus, Tulkkilantie 9B, Kokemäki",
+      "suomi"
+    ],
+    [
+      "lai-ööö",
+      "TI 14. Lokakuu 12.00",
+      "Koulukeskus, Tulkkilantie 9B, Kokemäki",
+      "suomi"
+    ]
+  ],
+  "kankaanpää": [
+    [
+      "aaa-luo",
+      "KE 15.Lokakuu 09.00",
+      "Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää",
+      "suomi"
+    ],
+    [
+      "lup-ööö",
+      "KE 15. Lokakuu 12.00",
+      "Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää",
+      "suomi"
+    ]
+  ],
+  "jämijärvi": [
+    [
+      "aaa-ööö",
+      "TO 16. Lokakuu 09.00",
+      "Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää",
+      "suomi"
+    ]
+  ],
+  "karvia": [
+    [
+      "aaa-ööö",
+      "TO 16. Lokakuu 09.00",
+      "Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää",
+      "suomi"
+    ]
+  ],
+  "pomarkku": [
+    [
+      "aaa-ööö",
+      "TO 16. Lokakuu 09.00",
+      "Kankaanpääsali, Kangasmoisionkatu 1, Kankaanpää",
+      "suomi"
+    ]
+  ],
+  "laitila": [
+    [
+      "aaa-ööö",
+      "PE 17. Lokakuu 09.00",
+      "Kaupungintalo, Keskuskatu 30, Laitila",
+      "suomi"
+    ]
+  ],
+  "pyhäranta": [
+    [
+      "aaa-ööö",
+      "PE 17. Lokakuu 09.00",
+      "Kaupungintalo, Keskuskatu 30, Laitila",
+      "suomi"
+    ]
+  ],
+  "somero": [
+    [
+      "aaa-mai",
+      "TI 21. Lokakuu 09.00",
+      "Seurakuntakeskus, Härkäläntie 1, Somero",
+      "suomi"
+    ],
+    [
+      "maj-ööö",
+      "TI 21. Lokakuu 12.00",
+      "Seurakuntakeskus, Härkäläntie 1, Somero",
+      "suomi"
+    ]
+  ],
+  "masku": [
+    [
+      "aaa-lie",
+      "KE 22. Lokakuu 09.00",
+      "Seurakuntаtalo, Maskuntie 71, Masku",
+      "suomi"
+    ],
+    [
+      "lif-ööö",
+      "KE 22. Lokakuu 12.00",
+      "Seurakuntаtalo, Maskuntie 71, Masku",
+      "suomi"
+    ]
+  ],
+  "uusikaupunki": [
+    [
+      "aaa-lev",
+      "MA 27. Lokakuu 09.00",
+      "Kulttuurikeskus Cruselli, Kullervontie 11 A, Uusikaupunki",
+      "suomi"
+    ],
+    [
+      "lew-ööö",
+      "MA 27. Lokakuu 12.00",
+      "Kulttuurikeskus Cruselli, Kullervontie 11 A, Uusikaupunki",
+      "suomi"
+    ]
+  ],
+  "rauma": [
+    [
+      "aaa-hak",
+      "TI 28. Lokakuu 09.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "hal-kai",
+      "TI 28. Lokakuu 12.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "kaj-laa",
+      "KE 29. Lokakuu 09.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "lab-mai",
+      "KE 29. Lokakuu 12.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "maj-pup",
+      "TO 30. Lokakuu 09.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "puq-sam",
+      "TO 30. Lokakuu 12.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "san-val",
+      "PE 31. Lokakuu 09.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ],
+    [
+      "vam-ööö",
+      "PE 31. Lokakuu 12.00",
+      "Kaupungintalo, Kanalinranta 3, Rauma",
+      "suomi"
+    ]
+  ],
+  "naantali": [
+    [
+      "aaa-jau",
+      "TI 4. Marraskuu 09.00",
+      "Seurakuntakeskus, Piispantie 2, Naantali",
+      "suomi"
+    ],
+    [
+      "jav-maj",
+      "TI 4. Marraskuu 12.00",
+      "Seurakuntakeskus, Piispantie 2, Naantali",
+      "suomi"
+    ],
+    [
+      "mak-sel",
+      "KE 5. Marraskuu 09.00",
+      "Seurakuntakeskus, Piispantie 2, Naantali",
+      "suomi"
+    ],
+    [
+      "sem-ööö",
+      "KE 5. Marraskuu 12.00",
+      "Seurakuntakeskus, Piispantie 2, Naantali",
+      "suomi"
+    ]
+  ],
+  "paimio": [
+    [
+      "aaa-löy",
+      "TO 6. Marraskuu 09.00",
+      "Mikaelintalo, Pyölintie 3, Paimio",
+      "suomi"
+    ],
+    [
+      "löz-ööö",
+      "TO 6. Marraskuu 12.00",
+      "Mikaelintalo, Pyölintie 3, Paimio",
+      "suomi"
+    ]
+  ],
+  "sauvo": [
+    [
+      "aaa-ööö",
+      "PE 7. Marraskuu 09.00",
+      "Mikaelintalo, Pyölintie 3, Paimio",
+      "suomi"
+    ]
+  ],
+  "huittinen": [
+    [
+      "aaa-ööö",
+      "TI 11. Marraskuu 10.00",
+      "Kaupungintalo, Risto Rytin katu 36, Huittinen",
+      "suomi"
+    ]
+  ],
+  "raisio": [
+    [
+      "aaa-jär",
+      "KE 12. Marraskuu 09.00",
+      "Seurakuntаtalo, Kirkkoherrankuja 2, Raisio",
+      "suomi"
+    ],
+    [
+      "jäs-mer",
+      "KE 12. Marraskuu 12.00",
+      "Seurakuntаtalo, Kirkkoherrankuja 2, Raisio",
+      "suomi"
+    ],
+    [
+      "mes-sai",
+      "TO 13. Marraskuu 09.00",
+      "Seurakuntаtalo, Kirkkoherrankuja 2, Raisio",
+      "suomi"
+    ],
+    [
+      "saj-ööö",
+      "TO 13. Marraskuu 12.00",
+      "Seurakuntаtalo, Kirkkoherrankuja 2, Raisio",
+      "suomi"
+    ]
+  ],
+  "aura": [
+    [
+      "aaa-ööö",
+      "PE 14. Marraskuu 09.00",
+      "Kunnantalo, Tuulentie 1, Aura",
+      "suomi"
+    ]
+  ],
+  "pöytyä": [
+    [
+      "aaa-oja",
+      "TO 20. Marraskuu 09.00",
+      "Elisenvaaran oppimiskeskus, Kyröntie 16, Pöytyä",
+      "suomi"
+    ],
+    [
+      "ojb-ööö",
+      "TO 20. Marraskuu 12.00",
+      "Elisenvaaran oppimiskeskus, Kyröntie 16, Pöytyä",
+      "suomi"
+    ]
+  ],
+  "taivassalo": [
+    [
+      "aaa-ööö",
+      "PE 21. Marraskuu 09.00",
+      "Seurakuntakeskus, Keskustie 4, Taivassalo",
+      "suomi"
+    ]
+  ],
+  "vehmaa": [
+    [
+      "aaa-ööö",
+      "PE 21. Marraskuu 09.00",
+      "Seurakuntakeskus, Keskustie 4, Taivassalo",
+      "suomi"
+    ]
+  ],
+  "kustavi": [
+    [
+      "aaa-ööö",
+      "PE 21. Marraskuu 09.00",
+      "Seurakuntakeskus, Keskustie 4, Taivassalo",
+      "suomi"
+    ]
+  ],
+  "lieto": [
+    [
+      "aaa-kan",
+      "KE 26. Marraskuu 09.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ],
+    [
+      "kao-nie",
+      "KE 26. Marraskuu 12.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ],
+    [
+      "nif-siv",
+      "TO 27. Marraskuu 09.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ],
+    [
+      "siw-ööö",
+      "TO 27. Marraskuu 12.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ]
+  ],
+  "koski tl": [
+    [
+      "aaa-ööö",
+      "PE 28. Marraskuu 09.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ]
+  ],
+  "marttila": [
+    [
+      "aaa-ööö",
+      "PE 28. Marraskuu 09.00",
+      "Kaupungintalo, Kirkkotie 13, Lieto",
+      "suomi"
+    ]
+  ],
+  "turku": [
+    [
+      "aaa-ööö",
+      "TI 2. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "ruotsi"
+    ],
+    [
+      "aaa-asi",
+      "KE 3. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "asj-fou",
+      "KE 3. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "fov-hii",
+      "TO 4. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "hij-kaj",
+      "TO 4. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "kak-koh",
+      "PE 5. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "koi-lah",
+      "PE 5. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "lai-luu",
+      "MA 8. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "luv-män",
+      "MA 8. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "mäo-pah",
+      "TI 9. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "pai-reg",
+      "TI 9. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "reh-shk",
+      "KE 10. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "shi-tin",
+      "KE 10. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "tio-vil",
+      "TO 11. Joulukuu 09.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ],
+    [
+      "vim-ööö",
+      "TO 11. Joulukuu 12.00",
+      "Turun ammatti-instituutti, Lemminkäisenkatu 14-18 B, Turku",
+      "suomi"
+    ]
+  ]
+}

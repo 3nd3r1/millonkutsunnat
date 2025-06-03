@@ -1,0 +1,353 @@
+{
+  "vaala": [
+    [
+      "aaa-ööö",
+      "MA 18 ELOKUU 09.00",
+      "Kunnan Virastotalo, Vaalantie 14",
+      "suomi"
+    ]
+  ],
+  "utajärvi": [
+    ["aaa-ööö", "MA 18 ELOKUU 09.00", "Seurakuntаtalo, Pappilantie 2", "suomi"]
+  ],
+  "kuhmo": [
+    ["aaa-ööö", "TI 19 ELOKUU 09.00", "Kuhmo-Talo, Koulukatu 1", "suomi"]
+  ],
+  "suomussalmi": [
+    [
+      "aaa-ööö",
+      "TI 19 ELOKUU 09.00",
+      "Ämmänsaaren seurakuntаtalo, Kirkkokuja 1",
+      "suomi"
+    ]
+  ],
+  "puolanka": [
+    ["aaa-ööö", "KE 20 ELOKUU 09.00", "Monitoimitalo, Ouluntie 16", "suomi"]
+  ],
+  "sotkamo": [
+    [
+      "aaa-mai",
+      "KE 20 ELOKUU 09.00",
+      "Sokos Hotelli Vuokatti, Kidekuja 2",
+      "suomi"
+    ],
+    [
+      "mam-ööö",
+      "TO 21 ELOKUU 09.00",
+      "Sokos Hotelli Vuokatti, Kidekuja 2",
+      "suomi"
+    ]
+  ],
+  "ristijärvi": [
+    [
+      "aaa-ööö",
+      "TO 21 ELOKUU 09.00",
+      "Monitoimikeskus Virtaala, Koulutie 4",
+      "suomi"
+    ]
+  ],
+  "hyrynsalmi": [
+    [
+      "aaa-ööö",
+      "TO 21 ELOKUU 09.00",
+      "Monitoimikeskus Virtaala, Koulutie 4, Ristijärvi",
+      "suomi"
+    ]
+  ],
+  "paltamo": [
+    [
+      "aaa-ööö",
+      "PE 22 ELOKUU 09.00",
+      "Seurakuntakeskus, Puolangantie 14",
+      "suomi"
+    ]
+  ],
+  "muhos": [
+    [
+      "aaa-ööö",
+      "MA 25 ELOKUU 09.00",
+      "Koivu ja Tähti Kulttuurikeskus, Muhostie 2",
+      "suomi"
+    ]
+  ],
+  "kajaani": [
+    [
+      "aaa-ket",
+      "TI 26 ELOKUU 09.00",
+      "Linnantauksen seurakuntakeskus, Kaplastie 2",
+      "suomi"
+    ],
+    [
+      "keu-pas",
+      "KE 27 ELOKUU 09.00",
+      "Linnantauksen seurakuntakeskus, Kaplastie 2",
+      "suomi"
+    ],
+    [
+      "pat-ööö",
+      "TO 28 ELOKUU 09.00",
+      "Linnantauksen seurakuntakeskus, Kaplastie 2",
+      "suomi"
+    ]
+  ],
+  "pudasjärvi": [
+    ["aaa-ööö", "MA 1 SYYSKUU 09.00", "Seurakuntakeskus, Varsitie 12", "suomi"]
+  ],
+  "kuusamo": [
+    ["aaa-kärn", "TI 2 SYYSKUU 09.00", "Seurakuntаtalo, Kirkkotie 1", "suomi"],
+    ["kärn-pij", "KE 3 SYYSKUU 09.00", "Seurakuntаtalo, Kirkkotie 1", "suomi"],
+    ["pij-ööö", "TO 4 SYYSKUU 09.00", "Seurakuntаtalo, Kirkkotie 1", "suomi"]
+  ],
+  "taivalkoski": [
+    ["aaa-ööö", "PE 5 SYYSKUU 09.00", "Seurakuntаtalo, Kirkkotie 7", "suomi"]
+  ],
+  "kalajoki": [
+    [
+      "aaa-oik",
+      "TI 9 SYYSKUU 09.00",
+      "Seurakuntаkoti, Seurakuntatie 1",
+      "suomi"
+    ],
+    [
+      "oik-ööö",
+      "KE 10 SYYSKUU 09.00",
+      "Seurakuntаkoti, Seurakuntatie 1",
+      "suomi"
+    ]
+  ],
+  "pyhäjoki": [
+    ["aaa-ööö", "TO 11 SYYSKUU 09.00", "Seurakuntаtalo, Vanhatie 27", "suomi"]
+  ],
+  "haapavesi": [
+    [
+      "aaa-ööö",
+      "MA 15 SYYSKUU 09.00",
+      "Seurakuntаtalo, Tähtelänkuja 5",
+      "suomi"
+    ]
+  ],
+  "haapajärvi": [
+    [
+      "aaa-ööö",
+      "TI 16 SYYSKUU 09.00",
+      "Seurakuntаtalo, Ronkaalankuja 3",
+      "suomi"
+    ]
+  ],
+  "nivala": [
+    [
+      "aaa-mäk",
+      "KE 17 SYYSKUU 09.00",
+      "Seurakuntаtalo, Vapaudentie 3",
+      "suomi"
+    ],
+    ["mäl-ööö", "TO 18 SYYSKUU 09.00", "Seurakuntаtalo, Vapaudentie 3", "suomi"]
+  ],
+  "siikalatva": [
+    [
+      "aaa-ööö",
+      "MA 22 SYYSKUU 09.00",
+      "Seurakuntаtalo, Pulkkilantie 11",
+      "suomi"
+    ]
+  ],
+  "pyhäjärvi": [
+    ["aaa-ööö", "TI 23 SYYSKUU 09.00", "Seurakuntakeskus, Oikotie 6", "suomi"]
+  ],
+  "reisjärvi": [
+    ["aaa-ööö", "KE 24 SYYSKUU 09.00", "Seurakuntаtalo, Rantatie 13", "suomi"]
+  ],
+  "pyhäntä": [
+    ["aaa-ööö", "TO 25 SYYSKUU 09.00", "Seurakuntаtalo, Kirkkotie 4", "suomi"]
+  ],
+  "kärsämäki": [
+    [
+      "aaa-ööö",
+      "TO 25 SYYSKUU 09.00",
+      "Seurakuntаtalo, Kirkkotie 4, Pyhäntä",
+      "suomi"
+    ]
+  ],
+  "siikajoki": [
+    ["aaa-ööö", "TI 7 LOKAKUU 09.00", "Komppalinna, Jaakontie 1", "suomi"]
+  ],
+  "raahe": [
+    [
+      "aaa-län",
+      "KE 8 LOKAKUU 09.00",
+      "Tapahtumatalo Raahe, Kirkkokatu 28",
+      "suomi"
+    ],
+    [
+      "län-ööö",
+      "TO 9 LOKAKUU 09.00",
+      "Tapahtumatalo Raahe, Kirkkokatu 28",
+      "suomi"
+    ]
+  ],
+  "ylivieska": [
+    [
+      "aaa-lat",
+      "MA 13 LOKAKUU 09.00",
+      "Kulttuurikeskus Akustiikka, Koulukatu 2",
+      "suomi"
+    ],
+    [
+      "lau-ööö",
+      "TI 14 LOKAKUU 09.00",
+      "Kulttuurikeskus Akustiikka, Koulukatu 2",
+      "suomi"
+    ]
+  ],
+  "sievi": [
+    [
+      "aaa-ööö",
+      "KE 15 LOKAKUU 09.00",
+      "Seurakuntаkoti, Haikolantie 44",
+      "suomi"
+    ]
+  ],
+  "oulainen": [
+    [
+      "aaa-mot",
+      "KE 15 LOKAKUU 09.00",
+      "Seurakuntаtalo, Oulaistenkatu 59",
+      "suomi"
+    ],
+    [
+      "mou-ööö",
+      "TO 16 LOKAKUU 09.00",
+      "Seurakuntаtalo, Oulaistenkatu 59",
+      "suomi"
+    ]
+  ],
+  "alavieska": [
+    ["aaa-ööö", "TO 16 LOKAKUU 09.00", "Seurakuntаtalo, Papinpolku 1", "suomi"]
+  ],
+  "merijärvi": [
+    [
+      "aaa-ööö",
+      "TO 16 LOKAKUU 09.00",
+      "Seurakuntаtalo, Papinpolku 1, Alavieska",
+      "suomi"
+    ]
+  ],
+  "tyrnävä": [
+    ["aaa-ööö", "MA 27 LOKAKUU 09.00", "Seurakuntаtalo, Mankilantie 1", "suomi"]
+  ],
+  "kempele": [
+    [
+      "aaa-lau",
+      "TI 28 LOKAKUU 09.00",
+      "Kokkokankaan seurakuntakeskus, Kissaojantle 12",
+      "suomi"
+    ],
+    [
+      "lav-ööö",
+      "KE 29 LOKAKUU 09.00",
+      "Kokkokankaan seurakuntakeskus, Kissaojantle 12",
+      "suomi"
+    ]
+  ],
+  "ii": [
+    ["aaa-ööö", "TO 30 LOKAKUU 09.00", "Seurakuntаtalo, Puistotie 3", "suomi"]
+  ],
+  "lumijoki": [
+    [
+      "aaa-ööö",
+      "TI 4 MARRASKUU 09.00",
+      "Seurakuntаtalo, Pappilantie 6, Liminka",
+      "suomi"
+    ]
+  ],
+  "liminka": [
+    [
+      "aaa-kem",
+      "TI 4 MARRASKUU 09.00",
+      "Seurakuntаtalo, Pappilantie 6",
+      "suomi"
+    ],
+    [
+      "ken-pen",
+      "KE 5 MARRASKUU 09.00",
+      "Seurakuntаtalo, Pappilantie 6",
+      "suomi"
+    ],
+    [
+      "peo-ööö",
+      "TO 6 MARRASKUU 09.00",
+      "Seurakuntаtalo, Pappilantie 6",
+      "suomi"
+    ]
+  ],
+  "hailuoto": [
+    [
+      "aaa-ööö",
+      "MA 10 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7, Oulu",
+      "suomi"
+    ]
+  ],
+  "oulu": [
+    [
+      "aaa-fyr",
+      "MA 10 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "fys-hån",
+      "TI 11 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "hän-kau",
+      "KE 12 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "kav-kul",
+      "TO 13 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "kum-lum",
+      "PE 14 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "lun-nuu",
+      "MA 17 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "nuv-pyr",
+      "TI 18 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "pys-sar",
+      "KE 19 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "sas-tol",
+      "TO 20 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ],
+    [
+      "tom-ööö",
+      "PE 21 MARRASKUU 09.00",
+      "Oulun Rauhanуhdistys, Professorintie 7",
+      "suomi"
+    ]
+  ]
+}
