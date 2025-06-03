@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import kutsunnatData from "../data/kutsunnat.json";
+import kutsunnatData from "../data/kutsunnat_2025.json";
 import Select from "react-select";
 import clsx from "clsx";
 
