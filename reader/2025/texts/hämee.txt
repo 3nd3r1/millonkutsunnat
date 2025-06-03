@@ -1,0 +1,34 @@
+Kärkölä Aaa-Ööö PE 15. Elokuu 09.00 Kunnantalo, Virkatie 1, Järvelä
+Iitti Aaa-Ööö MA 18. Elokuu 09.00 Ravilinna, Veteraanitie 2, Kausala
+Asikkala Aaa-Ööö Tl 19. Elokuu 09.00 Asikkalan nuorisotilat, Asikkalanne 12, Vääksy 
+Padasjoki Aaa-Ööö Tl 19. Elokuu 09.00 Asikkalan nuorisotilat, Asikkalantie 12, Vääksy
+Sysmä Aaa-Ööö KE 20. Elokuu 09.00 Teatteritalo, Väihkyläntie 1, Sysmä
+Hartola Aaa-Ööö KE 20. Elokuu 09.00 Teatteritalo, Väihkyläntie 1, Sysmä
+Jokioinen Aaa-Ööö MA 25. Elokuu 10:00 Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila
+Humppila Aaa-Ööö MA 25. Elokuu 10:00 Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila
+Ypäjä Aaa-Ööö MA 25. Elokuu 10:00 Kirkonkulman yhtenäiskoulu, Koivistontie 22, Humppila
+Forssa Aaa-Ööö Tl 26. Elokuu 09.00 Kaupungintalo, Turuntie 18, Forssa
+Tammela Aaa-Ööö KE 27. Elokuu 09.00 Kunnantalo, Hakkapeliitantie 2, Tammela
+Riihimäki Aaa-Löö KE 10. Syyskuu 09.00 Urheilutalo, Pohjolankatu 6, Riihimäki
+Riihimäki Maa-Ööö TO 11. Syyskuu 09.00 Urheilutalo, Pohjolankatu 6, Riihimäki
+Heinola Aaa-Möö Tl 30. Syyskuu 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Heinola Naa-Ööö KE 1. Lokakuu 09.00 Valtion Virastotalo, Rauhankatu 3 A, Heinola
+Janakkala Aaa-Pöö Tl 7. Lokakuu 09.00 Turengin liikuntahalli, Koulutie 2 A, Turenki
+Janakkala Qaa-Ööö KE 8. Lokakuu 09.00 Turengin liikuntahalli, Koulutie 2 A, Turenki
+Loppi Aaa-Ööö KE 15. Lokakuu 09.00 Kunnantalo, Yhdystie 5, Loppi
+Hausjärvi Aaa-Ööö TO 16. Lokakuu 09.00 Kunnanvirasto, Keskustie 2-5, Oitti
+Hollola Aaa-Pöö Ti 21. Lokakuu 09.00 Heinsuonkoulu, Terveystie 10, Hollola
+Hollola Qaa-Ööö KE 22. Lokakuu 09.00 Heinsuonkoulu, Terveystie 10, Hollola
+Lahti Aaa-Hei MA 27. Lokakuu 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Hej-Koö Tl 28. Lokakuu 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Kpa-Nöö KE 29. Lokakuu 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Oaa-Söö TO 30. Lokakuu 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Lahti Taa-Ööö PE 31. Lokakuu 09.00 FellmanniCampus, Kirkkokatu 27, Lahti
+Hattula Aaa-Ööö KE 12. Marraskuu 09.00 Juteinitalo, Kauppatie 3, Parola
+Hämeenlinna Aaa-Jöö MA 17. Marraskuu 09.00 Loimua Areena, Härkätie 17 B, Hämeenlinna
+Hämeenlinna Kaa-Liö Tl 18. Marraskuu 09.00 Loimua Areena, Härkätie 17 B, Hämeenlinna
+Hämeenlinna Lja-Reö KE 19. Marraskuu 09.00 Loimua Areena, Härkätie 17 B, Hämeenlinna
+Hämeenlinna Rfa-Ööö TO 20. Marraskuu 09.00 Loimua Areena, Härkätie 17 B, Hämeenlinna
+Orimattila Aaa-Möö Tl 25. Marraskuu 09.00 Jymylinna, Urheilutie 9, Orimattila
+Orimattila Naa-Ööö KE 26. Marraskuu 09.00 Jymylinna, Urheilutie 9, Orimattila
+Lahti Erikseen määrätyt MA 15. Joulukuu 09.00 Hämeen aluetoimisto, Kirkkokatu 12, Lahti

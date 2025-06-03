@@ -1,0 +1,228 @@
+{
+  "konnevesi": [
+    [
+      "aaa-ooo",
+      "PE 17 Elokuu 09.00",
+      "Kunnantalo, Kauppatie 25, Konnevesi",
+      "suomi"
+    ]
+  ],
+  "jyväskylä": [
+    [
+      "aaa-her",
+      "MA 18 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "hes-kaj",
+      "TI 19 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "kak-kää",
+      "KE 20 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "kää-mes",
+      "TO 21 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "met-pas",
+      "PE 22 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "pat-saj",
+      "MA 25 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "sak-tou",
+      "TI 26 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "tov-ööö",
+      "KE 27 Elokuu 09.00",
+      "Sepänkeskus, Kyllikinkatu 1, Jyväskylä",
+      "suomi"
+    ]
+  ],
+  "joutsa": [
+    ["aaa-ooo", "TI 9 Syyskuu 09.00", "Kunnantalo, Länsitie 5, Joutsa", "suomi"]
+  ],
+  "luhanka": [
+    ["aaa-ooo", "TI 9 Syyskuu 09.00", "Kunnantalo, Länsitie 5, Joutsa", "suomi"]
+  ],
+  "toivakka": [
+    [
+      "aaa-ooo",
+      "KE 10 Syyskuu 09.00",
+      "Kunnantalo, Iltaruskontie 2, Toivakka",
+      "suomi"
+    ]
+  ],
+  "hankasalmi": [
+    [
+      "aaa-ooo",
+      "TO 11 Syyskuu 09.00",
+      "Seurakuntalo, Pappilantie 4, Hankasalmi",
+      "suomi"
+    ]
+  ],
+  "laukaa": [
+    [
+      "aaa-mmm",
+      "TI 30 Syyskuu 09.00",
+      "Hirviareena, Lintumäenkatu 3, Leppävesi",
+      "suomi"
+    ],
+    [
+      "nnn-ooo",
+      "KE 1 Lokakuu 09.00",
+      "Hirviareena, Lintumäenkatu 3, Leppävesi",
+      "suomi"
+    ]
+  ],
+  "muurame": [
+    [
+      "aaa-ooo",
+      "TO 2 Lokakuu 09.00",
+      "Kulttuurikeskus, Nisulantie 1, Muurame",
+      "suomi"
+    ]
+  ],
+  "äänekoski": [
+    [
+      "aaa-mmm",
+      "TI 7 Lokakuu 09.00",
+      "Kaupungintalo, Hallintokatu 4, Äänekoski",
+      "suomi"
+    ],
+    [
+      "nnn-ooo",
+      "KE 8 Lokakuu 09.00",
+      "Kaupungintalo, Hallintokatu 4, Äänekoski",
+      "suomi"
+    ]
+  ],
+  "uurainen": [
+    [
+      "aaa-ooo",
+      "TO 9 Lokakuu 09.00",
+      "Kunnantalo, Virastotie 4, Uurainen",
+      "suomi"
+    ]
+  ],
+  "jämsä": [
+    [
+      "aaa-mmm",
+      "TI 21 Lokakuu 09.00",
+      "Jokivarren Puukoulu, Kelhänkatu 8B, Jämsä",
+      "suomi"
+    ],
+    [
+      "nnn-ooo",
+      "KE 22 Lokakuu 09.00",
+      "Jokivarren Puukoulu, Kelhänkatu 8B, Jämsä",
+      "suomi"
+    ]
+  ],
+  "saarijärvi": [
+    [
+      "aaa-ooo",
+      "TI 28 Lokakuu 09.00",
+      "Monitoimihalli, Sivulantie 6, Saarijärvi",
+      "suomi"
+    ]
+  ],
+  "kannonkoski": [
+    [
+      "aaa-ooo",
+      "TI 28 Lokakuu 09.00",
+      "Monitoimihalli, Sivulantie 6, Saarijärvi",
+      "suomi"
+    ]
+  ],
+  "karstula": [
+    [
+      "aaa-ooo",
+      "KE 29 Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "kyyjärvi": [
+    [
+      "aaa-ooo",
+      "KE 29 Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "kivijärvi": [
+    [
+      "aaa-ooo",
+      "KE 29 Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "pihtipudas": [
+    [
+      "aaa-ooo",
+      "TO 30 Lokakuu 09.00",
+      "Kunnantalo, Keskustie 9, Pihtipudas",
+      "suomi"
+    ]
+  ],
+  "kinnula": [
+    [
+      "aaa-ooo",
+      "TO 30 Lokakuu 09.00",
+      "Kunnantalo, Keskustie 9, Pihtipudas",
+      "suomi"
+    ]
+  ],
+  "viitasaari": [
+    [
+      "aaa-ooo",
+      "PE 31 Lokakuu 09.00",
+      "Nuorisotalo, Koulukuja 8, Viitasaari",
+      "suomi"
+    ]
+  ],
+  "keuruu": [
+    [
+      "aaa-ooo",
+      "TI 4 Marraskuu 09.00",
+      "Yhteiskoulu, Jussi Rainion tie 5A, Keuruu",
+      "suomi"
+    ]
+  ],
+  "petäjävesi": [
+    [
+      "aaa-ooo",
+      "KE 5 Marraskuu 09.00",
+      "Kulttuurikeskus, Miilutie 4, Petäjävesi",
+      "suomi"
+    ]
+  ],
+  "multia": [
+    [
+      "aaa-ooo",
+      "KE 5 Marraskuu 09.00",
+      "Kulttuurikeskus, Miilutie 4, Petäjävesi",
+      "suomi"
+    ]
+  ]
+}

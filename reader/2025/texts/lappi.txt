@@ -1,0 +1,27 @@
+Pelkosenniemi
+ja Savukoski Aaa - Ööö MA 18. Elokuu 11.00 Seurakuntatalo, Kirkkotie 10, Pelkosenniemi
+Utsjoki Aaa - Ööö TI 19. Elokuu 11.00 Kunnanvirasto, Luossatie 1, Utsjoki
+Inari Aaa - Ööö KE 20. Elokuu 10.00 Kunnanvirasto, Piiskuntie 2, Ivalo
+Sodankylä Aaa - Ööö TO 21. Elokuu 10.00 Kunnanvirasto, Jäämerentie 1, Sodankylä
+Kemijärvi Aaa - Ööö PE 22. Elokuu 10.00 Kulttuurikeskus, Hietaniemenkatu 5, Kemijärvi
+Ranua Aaa - Ööö TI 26. Elokuu 10.00 Seurakuntatalo, Sysitie 7, Posio
+Salla Aaa - Ööö KE 27. Elokuu 10.00 Seurakuntatalo, Tennontie 7, Salla
+Posio Aaa - Ööö TO 28. Elokuu 11.00 Seurakuntatalo, Pappilantie 11, Ranua
+Pello Aaa - Ööö MA 8. Syyskuu 10.00 Kunnanvirasto, Kunnantie 4, Pello
+Enontekiö Aaa - Ööö TI 9. Syyskuu 12.00 Kunnanvirasto, Ounastie 165, Enontekiö
+Muonio Aaa - Ööö KE 10. Syyskuu 10.00 Ammattiopisto Lappia, Koulutie 8, Muonio
+Kittilä Aaa - Ööö TO 11. Syyskuu 10.00 Kunnanvirasto, Valtatie 15, Kittilä
+Kolari Aaa - Ööö PE 12. Syyskuu 10.00 Kunnanvirasto, Isopalontie 2, Kolari
+Ylitornio Aaa - Ööö TI 21. Lokakuu 11.00 Kunnanvirasto, Alkkulanraitti 55, Ylitornio
+Tornio Aaa – Luo KE 22. Lokakuu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Tornio Lup - Ööö TO 23. Lokakuu 09.00 Peräpohjolan opisto, Joentalo, Kivirannantie 13-15
+Tervola Aaa - Ööö PE 24. Lokakuu 10.00 Kunnanvirasto, Keskustie 81, Tervola
+Rovaniemi Aaa – Kan MA 3. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Kao – Mak TI 4. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Mal – Ruo KE 5. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Rovaniemi Rup – Ööö TO 6. Marraskuu 09.00 Rovaniemen varuskunta, Someroharju
+Keminmaa Aaa - Ööö TI 11. Marraskuu 11.00 Keminmaan kirjastonuorisotalo, Väylätie 6, Keminmaa
+Kemi Aaa – Man KE 12. Marraskuu 09.00 Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi
+Kemi Mao – Ööö TO 13. Marraskuu 09.00 Kemin kulttuurikeskus, Marina Takalon katu 3, Kemi
+Simo Aaa - Ööö PE 14. Marraskuu 10.00 Kunnanvirasto, Ratatie 6, Simo
+Rovaniemi Erikseen määrätyt MA 15. Joulukuu 09.00 Rovaniemen varuskunta, Someroharju

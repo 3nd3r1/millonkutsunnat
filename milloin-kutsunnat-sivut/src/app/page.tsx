@@ -18,7 +18,7 @@ export default function Home() {
                 </p>
                 <h2 className="text-2xl my-2">Huomioita:</h2>
                 <ul className="list-disc list-inside">
-                    <li>Kutsuntatiedot koskevat 2024 syksyn kutsuntoja.</li>
+                    <li>Kutsuntatiedot koskevat <strong>2025</strong> syksyn kutsuntoja.</li>
                     <li>
                         <strong>millonkutsunnat.fi</strong> ei ole virallinen
                         puolustusvoimien sivusto.

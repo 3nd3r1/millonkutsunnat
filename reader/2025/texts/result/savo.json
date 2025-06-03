@@ -1,0 +1,144 @@
+{
+  "kangasniemi": [
+    [
+      "aaa-ööö",
+      "TI 19. Elokuu 09.00",
+      "Kunnantalo, Otto Mannisen tie 2, Kangasniemi",
+      "suomi"
+    ]
+  ],
+  "juva": [
+    [
+      "aaa-ööö",
+      "TO 21. Elokuu 09.00",
+      "Kunnanvirasto, Juvantie 13, Juva",
+      "suomi"
+    ]
+  ],
+  "mäntyharju": [
+    [
+      "aaa-ööö",
+      "KE 27. Elokuu 09.00",
+      "Seurakuntakeskus, Kompantie 6, Mäntyharju",
+      "suomi"
+    ]
+  ],
+  "hirvensalmi": [
+    [
+      "aaa-ööö",
+      "KE 27. Elokuu 09.00",
+      "Seurakuntakeskus, Kompantie 6, Mäntyharju",
+      "suomi"
+    ]
+  ],
+  "puumala": [
+    [
+      "aaa-ööö",
+      "TI 2. Syyskuu 09.00",
+      "Kunnan virastotalo, Keskustie 14, Puumala",
+      "suomi"
+    ]
+  ],
+  "sulkava": [
+    [
+      "aaa-ööö",
+      "TI 2. Syyskuu 09.00",
+      "Kunnan virastotalo, Keskustie 14, Puumala",
+      "suomi"
+    ]
+  ],
+  "rantasalmi": [
+    [
+      "aaa-ööö",
+      "TO 4. Syyskuu 09.00",
+      "Kunnanvirasto, Eliel Saarisen tie 2, Rantasalmi",
+      "suomi"
+    ]
+  ],
+  "savonlinna": [
+    [
+      "aaa-kii",
+      "TI 7. Lokakuu 09.00",
+      "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna",
+      "suomi"
+    ],
+    [
+      "kij-moi",
+      "KE 8. Lokakuu 09.00",
+      "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna",
+      "suomi"
+    ],
+    [
+      "moj-sah",
+      "TO 9. Lokakuu 09.00",
+      "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna",
+      "suomi"
+    ],
+    [
+      "sai-ööö",
+      "PE 10. Lokakuu 09.00",
+      "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna",
+      "suomi"
+    ]
+  ],
+  "enonkoski": [
+    [
+      "aaa-ööö",
+      "PE 10. Lokakuu 09.00",
+      "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna",
+      "suomi"
+    ]
+  ],
+  "pieksämäki": [
+    [
+      "aaa-lam",
+      "TI 14. Lokakuu 09.00",
+      "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki",
+      "suomi"
+    ],
+    [
+      "lan-pär",
+      "KE 15. Lokakuu 09.00",
+      "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki",
+      "suomi"
+    ],
+    [
+      "päs-ööö",
+      "TO 16. Lokakuu 09.00",
+      "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki",
+      "suomi"
+    ]
+  ],
+  "mikkeli": [
+    [
+      "aaa-juv",
+      "MA 27. Lokakuu 09.00",
+      "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli",
+      "suomi"
+    ],
+    [
+      "juw-les",
+      "TI 28. Lokakuu 09.00",
+      "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli",
+      "suomi"
+    ],
+    [
+      "let-pur",
+      "KE 29. Lokakuu 09.00",
+      "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli",
+      "suomi"
+    ],
+    [
+      "pus-tiu",
+      "TO 30. Lokakuu 09.00",
+      "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli",
+      "suomi"
+    ],
+    [
+      "tiv-ööö",
+      "PE 31. Lokakuu 09.00",
+      "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli",
+      "suomi"
+    ]
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "kuopio": [
+    [
+      "aaa-huo",
+      "MA 18. Elokuu 9.00",
+      "Alavan srk-talo, Keihäskatu 5 B",
+      "suomi"
+    ],
+    [
+      "hva-kos",
+      "TI 19. Elokuu 9.00",
+      "Alavan srk-talo, Keihäskatu 5 B",
+      "suomi"
+    ],
+    [
+      "kot-nöö",
+      "KE 20. Elokuu 9.00",
+      "Alavan srk-talo, Keihäskatu 5 B",
+      "suomi"
+    ],
+    [
+      "oaa-sjö",
+      "TO 21. Elokuu 9.00",
+      "Alavan srk-talo, Keihäskatu 5 B",
+      "suomi"
+    ],
+    [
+      "sja-ööö",
+      "PE 22. Elokuu 9.00",
+      "Alavan srk-talo, Keihäskatu 5 B",
+      "suomi"
+    ]
+  ],
+  "joroinen": [
+    [
+      "aaa-ööö",
+      "TO 4. Syyskuu 9.00",
+      "Joroisten yhtenäiskoulu, Koulutie 1",
+      "suomi"
+    ]
+  ],
+  "vesanto": [
+    [
+      "aaa-ööö",
+      "TI 9. Syyskuu 9.00",
+      "Vesannon seurakuntаkoti, Terveystie 5",
+      "suomi"
+    ]
+  ],
+  "rautalampi": [
+    [
+      "aaa-ööö",
+      "TI 9. Syyskuu 9.00",
+      "Vesannon seurakuntаkoti, Terveystie 5",
+      "suomi"
+    ]
+  ],
+  "siilinjärvi": [
+    [
+      "aaa-ööö",
+      "TO 11. Syyskuu 9.00",
+      "Kunnonpaikka, Jokiharjuntie 3, Vuorela",
+      "suomi"
+    ]
+  ],
+  "tuusniemi": [
+    [
+      "aaa-ööö",
+      "TI 16. Syyskuu 9.00",
+      "Tuusniemen seurakuntаtalo, Koivukuja 2",
+      "suomi"
+    ]
+  ],
+  "kaavi": [
+    [
+      "aaa-ööö",
+      "TI 16. Syyskuu 9.00",
+      "Tuusniemen seurakuntаtalo, Koivukuja 2",
+      "suomi"
+    ]
+  ],
+  "tervo": [
+    [
+      "aaa-ööö",
+      "TO 18. Syyskuu 9.00",
+      "Tervon seurakuntаtalo, Pappilantie 3",
+      "suomi"
+    ]
+  ],
+  "keitele": [
+    [
+      "aaa-ööö",
+      "TO 18. Syyskuu 9.00",
+      "Tervon seurakuntаtalo, Pappilantie 3",
+      "suomi"
+    ]
+  ],
+  "varkaus": [
+    ["aaa-ööö", "TO 25. Syyskuu 9.00", "Warkaus-sali, Kauppatori 4", "suomi"]
+  ],
+  "kiuruvesi": [
+    ["aaa-ööö", "TO 9. Lokakuu 9.00", "Kulttuuritalo, Lähteentie 10 A", "suomi"]
+  ],
+  "vieremä": [
+    ["aaa-ööö", "TI 21. Lokakuu 9.00", "Kunnantalo, Myllyjärventie 1", "suomi"]
+  ],
+  "leppävirta": [
+    ["aaa-ööö", "TO 23. Lokakuu 9.00", "Kunnantalo, Savonkatu 39", "suomi"]
+  ],
+  "pielavesi": [
+    ["aaa-ööö", "TI 28. Lokakuu 9.00", "Suojala, Puistotie 8", "suomi"]
+  ],
+  "iisalmi": [
+    [
+      "aaa-ööö",
+      "TO 6. Marraskuu 9.00",
+      "Iisalmen liikuntahalli, Välikatu 3",
+      "suomi"
+    ]
+  ],
+  "rautavaara": [
+    [
+      "aaa-ööö",
+      "TO 13. Marraskuu 9.00",
+      "Rautavaaran monitoimiitalo, Urheilutie 1",
+      "suomi"
+    ]
+  ],
+  "sonkajärvi": [
+    [
+      "aaa-ööö",
+      "TO 13. Marraskuu 9.00",
+      "Rautavaaran monitoimiitalo, Urheilutie 1",
+      "suomi"
+    ]
+  ],
+  "lapinlahti": [
+    [
+      "aaa-ööö",
+      "TO 20. Marraskuu 9.00",
+      "Seurakuntаtalo, Mykkäläntle 6",
+      "suomi"
+    ]
+  ],
+  "suonenjoki": [
+    [
+      "aaa-ööö",
+      "TO 27. Marraskuu 9.00",
+      "Yrityspuisto Futuriа, Jalkalantie 6",
+      "suomi"
+    ]
+  ]
+}
