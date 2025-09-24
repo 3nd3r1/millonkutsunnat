@@ -1,7 +1,7 @@
 {
   "konnevesi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "PE 17 Elokuu 09.00",
       "Kunnantalo, Kauppatie 25, Konnevesi",
       "suomi"
@@ -59,7 +59,7 @@
   ],
   "joutsa": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TI 9 Syyskuu 09.00",
       "Kunnantalo, Länsitie 5, Joutsa",
       "suomi"
@@ -67,7 +67,7 @@
   ],
   "luhanka": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TI 9 Syyskuu 09.00",
       "Kunnantalo, Länsitie 5, Joutsa",
       "suomi"
@@ -75,7 +75,7 @@
   ],
   "toivakka": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 10 Syyskuu 09.00",
       "Kunnantalo, Iltaruskontie 2, Toivakka",
       "suomi"
@@ -83,7 +83,7 @@
   ],
   "hankasalmi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TO 11 Syyskuu 09.00",
       "Seurakuntalo, Pappilantie 4, Hankasalmi",
       "suomi"
@@ -97,7 +97,7 @@
       "suomi"
     ],
     [
-      "nnn-ooo",
+      "nnn-ööö",
       "KE 1 Lokakuu 09.00",
       "Hirviareena, Lintumäenkatu 3, Leppävesi",
       "suomi"
@@ -105,7 +105,7 @@
   ],
   "muurame": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TO 2 Lokakuu 09.00",
       "Kulttuurikeskus, Nisulantie 1, Muurame",
       "suomi"
@@ -119,7 +119,7 @@
       "suomi"
     ],
     [
-      "nnn-ooo",
+      "nnn-ööö",
       "KE 8 Lokakuu 09.00",
       "Kaupungintalo, Hallintokatu 4, Äänekoski",
       "suomi"
@@ -127,7 +127,7 @@
   ],
   "uurainen": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TO 9 Lokakuu 09.00",
       "Kunnantalo, Virastotie 4, Uurainen",
       "suomi"
@@ -141,7 +141,7 @@
       "suomi"
     ],
     [
-      "nnn-ooo",
+      "nnn-ööö",
       "KE 22 Lokakuu 09.00",
       "Jokivarren Puukoulu, Kelhänkatu 8B, Jämsä",
       "suomi"
@@ -149,7 +149,7 @@
   ],
   "saarijärvi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TI 28 Lokakuu 09.00",
       "Monitoimihalli, Sivulantie 6, Saarijärvi",
       "suomi"
@@ -157,7 +157,7 @@
   ],
   "kannonkoski": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TI 28 Lokakuu 09.00",
       "Monitoimihalli, Sivulantie 6, Saarijärvi",
       "suomi"
@@ -165,7 +165,7 @@
   ],
   "karstula": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 29 Lokakuu 09.00",
       "Kunnantalo Himmeli, Virastotie 4, Karstula",
       "suomi"
@@ -173,7 +173,7 @@
   ],
   "kyyjärvi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 29 Lokakuu 09.00",
       "Kunnantalo Himmeli, Virastotie 4, Karstula",
       "suomi"
@@ -181,7 +181,7 @@
   ],
   "kivijärvi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 29 Lokakuu 09.00",
       "Kunnantalo Himmeli, Virastotie 4, Karstula",
       "suomi"
@@ -189,7 +189,7 @@
   ],
   "pihtipudas": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TO 30 Lokakuu 09.00",
       "Kunnantalo, Keskustie 9, Pihtipudas",
       "suomi"
@@ -197,7 +197,7 @@
   ],
   "kinnula": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TO 30 Lokakuu 09.00",
       "Kunnantalo, Keskustie 9, Pihtipudas",
       "suomi"
@@ -205,7 +205,7 @@
   ],
   "viitasaari": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "PE 31 Lokakuu 09.00",
       "Nuorisotalo, Koulukuja 8, Viitasaari",
       "suomi"
@@ -213,7 +213,7 @@
   ],
   "keuruu": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "TI 4 Marraskuu 09.00",
       "Yhteiskoulu, Jussi Rainion tie 5A, Keuruu",
       "suomi"
@@ -221,7 +221,7 @@
   ],
   "petäjävesi": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 5 Marraskuu 09.00",
       "Kulttuurikeskus, Miilutie 4, Petäjävesi",
       "suomi"
@@ -229,7 +229,7 @@
   ],
   "multia": [
     [
-      "aaa-ooo",
+      "aaa-ööö",
       "KE 5 Marraskuu 09.00",
       "Kulttuurikeskus, Miilutie 4, Petäjävesi",
       "suomi"
@@ -3465,7 +3465,7 @@
       "suomi"
     ],
     [
-      "mas-ooo",
+      "mas-ööö",
       "To 9. Lokakuuta 12.00",
       "Pitkäjärven koulu, Vatialantie 4, Kangasala",
       "suomi"
@@ -3495,7 +3495,7 @@
       "suomi"
     ],
     [
-      "moo-ooo",
+      "moo-ööö",
       "Ti 21. Lokakuuta 12.00",
       "Hakkarin koulu, Ahertajantie 2, Lempäälä",
       "suomi"
@@ -3529,7 +3529,7 @@
       "suomi"
     ],
     [
-      "rao-ooo",
+      "rao-ööö",
       "Ke 5. Marraskuuta 12.00",
       "Kerhola, Souranderintie 13, Nokia",
       "suomi"
@@ -3559,7 +3559,7 @@
       "suomi"
     ],
     [
-      "lan-ooo",
+      "lan-ööö",
       "To 18. Syyskuuta 12.00",
       "Nuolialan koulu, kouluportinkuja 3, Pirkkala",
       "suomi"
@@ -3581,7 +3581,7 @@
       "suomi"
     ],
     [
-      "mau-ooo",
+      "mau-ööö",
       "Ke 10. Syyskuuta 12.00",
       "Kunnantalo, Keskustie 1, Pälkäne",
       "suomi"
@@ -3603,7 +3603,7 @@
       "suomi"
     ],
     [
-      "mym-ooo",
+      "mym-ööö",
       "Ti 16. Syyskuuta 12.00",
       "Vammalan ammattikoulu, Ratakatu 36, Sastamala",
       "suomi"
@@ -3711,7 +3711,7 @@
       "suomi"
     ],
     [
-      "lio-ooo",
+      "lio-ööö",
       "To 21. Elokuuta 12.00",
       "Hämeen Ammattikorkеakoulu, Lotilantie 16, Valkeakoski",
       "suomi"
