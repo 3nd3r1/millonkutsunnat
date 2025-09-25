@@ -15,9 +15,11 @@ type KutsunnatType = {
 
 const Form = () => {
     const kutsunnat: KutsunnatType = kutsunnatData;
-    const kunnat: OptionType[] = Object.keys(kutsunnat).map((k: string) => ({
-        value: k,
-        label: k.charAt(0).toUpperCase() + k.slice(1).toLowerCase(),
+    const kunnat: OptionType[] = Object.keys(kutsunnat)
+        .sort((a, b) => a.localeCompare(b, "fi"))
+        .map((k: string) => ({
+            value: k,
+            label: k.charAt(0).toUpperCase() + k.slice(1).toLowerCase(),
     }));
     const kielet: OptionType[] = [
         { value: "suomi", label: "Suomen kieli" },
