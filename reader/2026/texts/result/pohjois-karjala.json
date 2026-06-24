@@ -1,0 +1,46 @@
+{
+  "kitee": [
+    ["aaa-ööö", "Ti 18. elokuuta 09.00", "Kulttuurikeskus Ilmarinen, Koulutie 3 E, Kitee", "suomi"]
+  ],
+  "rääkkylä": [
+    ["aaa-ööö", "Ti 18. elokuuta 09.00", "Kulttuurikeskus Ilmarinen, Koulutie 3 E, Kitee", "suomi"]
+  ],
+  "tohmajärvi": [
+    ["aaa-ööö", "Ke 19. elokuuta 09.00", "Sivistyskeskus Ahjo, Kirkkotie 10 A, Tohmajärvi", "suomi"]
+  ],
+  "ilomantsi": [
+    ["aaa-ööö", "To 20. elokuuta 09.00", "Kunnantalo, Soihtulantie 7, Ilomantsi", "suomi"]
+  ],
+  "liperi": [
+    ["aaa-ööö", "Ti 6. lokakuuta 09.00", "Liperin koulu, Koulutie 1, Liperi", "suomi"]
+  ],
+  "kontiolahti": [
+    ["aaa-nou", "To 8. lokakuuta 09.00", "Kontiolahden koulu, Keskuskatu 11, Kontiolahti", "suomi"],
+    ["nov-ööö", "Pe 9. lokakuuta 09.00", "Kontiolahden koulu, Keskuskatu 11, Kontiolahti", "suomi"]
+  ],
+  "joensuu": [
+    ["aaa-jun", "Ma 26. lokakuuta 09.00", "Nepenmäen koulu, Kärpänkatu 7, Joensuu", "suomi"],
+    ["juo-lil", "Ti 27. lokakuuta 09.00", "Nepenmäen koulu, Kärpänkatu 7, Joensuu", "suomi"],
+    ["lim-pie", "Ke 28. lokakuuta 09.00", "Nepenmäen koulu, Kärpänkatu 7, Joensuu", "suomi"],
+    ["pif-suv", "To 29. lokakuuta 09.00", "Nepenmäen koulu, Kärpänkatu 7, Joensuu", "suomi"],
+    ["suw-ööö", "Pe 30. lokakuuta 09.00", "Nepenmäen koulu, Kärpänkatu 7, Joensuu", "suomi"]
+  ],
+  "polvijärvi": [
+    ["aaa-ööö", "Ti 10. marraskuuta 09.00", "Polvijärven yläkoulu, Polvijärventie 6", "suomi"]
+  ],
+  "outokumpu": [
+    ["aaa-ööö", "Ke 11. marraskuuta 09.00", "Outokummun urheilukeskus, Outolamminkatu 1, Outokumpu", "suomi"]
+  ],
+  "lieksa": [
+    ["aaa-ööö", "Ti 17. marraskuuta 09.00", "Brahea Kampus, Kuhmonkatu 30, Lieksa", "suomi"]
+  ],
+  "nurmes": [
+    ["aaa-ööö", "Ke 18. marraskuuta 09.00", "Nurmes-talo, Kötsintie 2, Nurmes", "suomi"]
+  ],
+  "juuka": [
+    ["aaa-ööö", "To 19. marraskuuta 09.00", "Kunnantalo, Poikolantie 1, Juuka", "suomi"]
+  ],
+  "heinävesi": [
+    ["aaa-ööö", "Ti 24. marraskuuta 09.00", "Kunnantalo, Kermarannantie 7, Heinävesi", "suomi"]
+  ]
+}

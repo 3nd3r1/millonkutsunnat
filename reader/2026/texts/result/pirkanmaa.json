@@ -1,0 +1,98 @@
+{
+  "akaa": [
+    ["aaa-maj", "To 29. Lokakuuta 09.00", "Toijalan monitoimihalli, Köyvärintie 3, Akaa", "suomi"],
+    ["mak-ööö", "To 29. Lokakuuta 12.00", "Toijalan monitoimihalli, Köyvärintie 3, Akaa", "suomi"]
+  ],
+  "hämeenkyrö": [
+    ["aaa-myl", "To 1. Lokakuuta 09.00", "Ammatti-instituutti Iisakki, Taitokuja 3, Hämeenkyrö", "suomi"],
+    ["mym-ööö", "To 1. Lokakuuta 12.00", "Ammatti-instituutti Iisakki, Taitokuja 3, Hämeenkyrö", "suomi"]
+  ],
+  "ikaalinen": [
+    ["aaa-ööö", "Ke 30. Syyskuuta 09.00", "Käsi- ja taideteollisuusoppil., Eino Salmelaisenk. 20, Ikaalinen", "suomi"]
+  ],
+  "juupajoki": [
+    ["aaa-ööö", "Ti 27. Lokakuuta 09.00", "Juupajoen koulukeskus, Koulutie 1, Korkeakoski", "suomi"]
+  ],
+  "kangasala": [
+    ["aaa-lau", "To 8. Lokakuuta 09.00", "Pitkäjärven koulu, Vatialantie 4, Kangasala", "suomi"],
+    ["lav-ööö", "To 8. Lokakuuta 12.00", "Pitkäjärven koulu, Vatialantie 4, Kangasala", "suomi"]
+  ],
+  "kihniö": [
+    ["aaa-ööö", "Ti 29. Syyskuuta 10.00", "Puumilan Taitotalo, Kuruntie 1-3, Kihniö", "suomi"]
+  ],
+  "kuhmoinen": [
+    ["aaa-ööö", "Ti 6. Lokakuuta 10.00", "Kuhmoisten yhtenäiskoulu, Länkipohjantie 64, Kuhmoinen", "suomi"]
+  ],
+  "lempäälä": [
+    ["aaa-lin", "Ti 20. Lokakuuta 09.00", "Hakkarin koulu, Ahertajantie 2, Lempäälä", "suomi"],
+    ["lio-ööö", "Ti 20. Lokakuuta 12.00", "Hakkarin koulu, Ahertajantie 2, Lempäälä", "suomi"]
+  ],
+  "mänttä-vilppula": [
+    ["aaa-ööö", "To 27. Elokuuta 09.00", "Mäntän Klubi, Tehtaankatu 33, Mänttä-Vilppula", "suomi"]
+  ],
+  "nokia": [
+    ["aaa-jär", "Ti 3. Marraskuuta 09.00", "Kerhola, Souranderintie 13, Nokia", "suomi"],
+    ["jäs-mei", "Ti 3. Marraskuuta 12.00", "Kerhola, Souranderintie 13, Nokia", "suomi"],
+    ["mej-sax", "Ke 4. Marraskuuta 09.00", "Kerhola, Souranderintie 13, Nokia", "suomi"],
+    ["say-ööö", "Ke 4. Marraskuuta 12.00", "Kerhola, Souranderintie 13, Nokia", "suomi"]
+  ],
+  "orivesi": [
+    ["aaa-ööö", "Ke 19. Elokuuta 09.00", "Kaupungintalo, Keskustie 23, Orivesi", "suomi"]
+  ],
+  "parkano": [
+    ["aaa-ööö", "Ti 29. Syyskuuta 09.00", "Ammatti-instituutti Iisakki, Sepänkatu 4, Parkano", "suomi"]
+  ],
+  "pirkkala": [
+    ["aaa-lep", "To 17. Syyskuuta 09.00", "Vähäjärven koulu, Urheilutie 7, Pirkkala", "suomi"],
+    ["leq-ööö", "To 17. Syyskuuta 12.00", "Vähäjärven koulu, Urheilutie 7, Pirkkala", "suomi"]
+  ],
+  "punkalaidun": [
+    ["aaa-ööö", "To 10. Syyskuuta 09.00", "Kunnanvirasto, Vesilahdentie 5, Punkalaidun", "suomi"]
+  ],
+  "pälkäne": [
+    ["aaa-käm", "Ke 9. Syyskuuta 09.00", "Kunnantalo, Keskustie 1, Pälkäne", "suomi"],
+    ["kän-ööö", "Ke 9. Syyskuuta 11.00", "Kunnantalo, Keskustie 1, Pälkäne", "suomi"]
+  ],
+  "ruovesi": [
+    ["aaa-ööö", "Ti 25. Elokuuta 09.00", "Ruoveden Pirkkojen Urheilutalo, Pirkantie 4, Ruovesi", "suomi"]
+  ],
+  "sastamala": [
+    ["aaa-krö", "Ti 15. Syyskuuta 09.00", "Vammalan ammattikoulu, Ratakatu 36, Sastamala", "suomi"],
+    ["ksa-ööö", "Ti 15. Syyskuuta 12.00", "Vammalan ammattikoulu, Ratakatu 36, Sastamala", "suomi"]
+  ],
+  "tampere": [
+    ["aaa-bri", "Ti 17. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["brj-har", "Ti 17. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["has-jaf", "Ke 18. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["jag-kat", "Ke 18. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["kau-kor", "To 19. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["kos-lau", "To 19. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["lav-maj", "Pe 20. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["mak-nee", "Pe 20. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["nef-pat", "Ma 23. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["pau-ran", "Ma 23. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["rao-sam", "Ti 24. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["san-tal", "Ti 24. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["tam-vel", "Ke 25. Marraskuuta 09.00", "TREDU, Sammonkatu 45, Tampere", "suomi"],
+    ["vem-ööö", "Ke 25. Marraskuuta 12.00", "TREDU, Sammonkatu 45, Tampere", "suomi"]
+  ],
+  "urjala": [
+    ["aaa-ööö", "Ti 18. Elokuuta 09.00", "Urjalankylän Koulumaa, Kantalantie 19 a, Urjalankylä", "suomi"]
+  ],
+  "valkeakoski": [
+    ["aaa-mar", "To 20. Elokuuta 09.00", "Hämeen Ammattikorkeakoulu, Lotilantie 16, Valkeakoski", "suomi"],
+    ["mas-ööö", "To 20. Elokuuta 12.00", "Hämeen Ammattikorkeakoulu, Lotilantie 16, Valkeakoski", "suomi"]
+  ],
+  "vesilahti": [
+    ["aaa-ööö", "Ke 28. Lokakuuta 09.00", "Vesilahden yläaste, Koulutie 2, Vesilahti", "suomi"]
+  ],
+  "virrat": [
+    ["aaa-ööö", "Ke 26. Elokuuta 09.00", "Virastotalo, Virtaintie 26, Virrat", "suomi"]
+  ],
+  "ylöjärvi": [
+    ["aaa-jau", "Ke 21. Lokakuuta 09.00", "Kaupungintalo, Kuruntie 14, Ylöjärvi", "suomi"],
+    ["jav-lat", "Ke 21. Lokakuuta 12.00", "Kaupungintalo, Kuruntie 14, Ylöjärvi", "suomi"],
+    ["lau-pim", "To 22. Lokakuuta 09.00", "Kaupungintalo, Kuruntie 14, Ylöjärvi", "suomi"],
+    ["pin-ööö", "To 22. Lokakuuta 12.00", "Kaupungintalo, Kuruntie 14, Ylöjärvi", "suomi"]
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "toivakka": [
+    [
+      "aaa-ööö",
+      "Ti 18. Elokuu 09.00",
+      "Kunnantalo, Iltaruskontie 2, Toivakka",
+      "suomi"
+    ]
+  ],
+  "joutsa": [
+    [
+      "aaa-ööö",
+      "Ke 19. Elokuu 09.00",
+      "Liikuntahalli, Tapiontie, Joutsa",
+      "suomi"
+    ]
+  ],
+  "luhanka": [
+    [
+      "aaa-ööö",
+      "Ke 19. Elokuu 09.00",
+      "Liikuntahalli, Tapiontie, Joutsa",
+      "suomi"
+    ]
+  ],
+  "hankasalmi": [
+    [
+      "aaa-ööö",
+      "To 20. Elokuu 09.00",
+      "Seurakuntatalo, Pappilantie 4, Hankasalmi",
+      "suomi"
+    ]
+  ],
+  "keuruu": [
+    [
+      "aaa-ööö",
+      "Pe 28. Elokuu 09.00",
+      "Yhteiskoulu, Jussi Rainion tie 5A, Keuruu",
+      "suomi"
+    ]
+  ],
+  "uurainen": [
+    [
+      "aaa-ööö",
+      "Ti 8. Syyskuu 09.00",
+      "Koulukeskus, Kuukantie 18, Uurainen",
+      "suomi"
+    ]
+  ],
+  "petäjävesi": [
+    [
+      "aaa-ööö",
+      "To 10. Syyskuu 09.00",
+      "Kulttuurikeskus, Miilutie 4, Petäjävesi",
+      "suomi"
+    ]
+  ],
+  "multia": [
+    [
+      "aaa-ööö",
+      "To 10. Syyskuu 09.00",
+      "Kulttuurikeskus, Miilutie 4, Petäjävesi",
+      "suomi"
+    ]
+  ],
+  "jämsä": [
+    [
+      "aaa-löö",
+      "Ti 29. Syyskuu 09.00",
+      "Jokivarren Puukoulu, Kelhänkatu 8B, Jämsä",
+      "suomi"
+    ],
+    [
+      "maa-ööö",
+      "Ke 30. Syyskuu 09.00",
+      "Jokivarren Puukoulu, Kelhänkatu 8B, Jämsä",
+      "suomi"
+    ]
+  ],
+  "muurame": [
+    [
+      "aaa-ööö",
+      "To 1. Lokakuu 09.00",
+      "Kulttuurikeskus, Nisulantie 1, Muurame",
+      "suomi"
+    ]
+  ],
+  "saarijärvi": [
+    [
+      "aaa-ööö",
+      "Ti 6. Lokakuu 09.00",
+      "Kaupungintalo, Sivulantie 11, Saarijärvi",
+      "suomi"
+    ]
+  ],
+  "kannonkoski": [
+    [
+      "aaa-ööö",
+      "Ti 6. Lokakuu 09.00",
+      "Kaupungintalo, Sivulantie 11, Saarijärvi",
+      "suomi"
+    ]
+  ],
+  "karstula": [
+    [
+      "aaa-ööö",
+      "Ke 7. Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "kivijärvi": [
+    [
+      "aaa-ööö",
+      "Ke 7. Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "kyyjärvi": [
+    [
+      "aaa-ööö",
+      "Ke 7. Lokakuu 09.00",
+      "Kunnantalo Himmeli, Virastotie 4, Karstula",
+      "suomi"
+    ]
+  ],
+  "pihtipudas": [
+    [
+      "aaa-ööö",
+      "To 8. Lokakuu 09.00",
+      "Kunnantalo, Keskustie 9, Pihtipudas",
+      "suomi"
+    ]
+  ],
+  "kinnula": [
+    [
+      "aaa-ööö",
+      "To 8. Lokakuu 09.00",
+      "Kunnantalo, Keskustie 9, Pihtipudas",
+      "suomi"
+    ]
+  ],
+  "viitasaari": [
+    [
+      "aaa-ööö",
+      "Pe 9. Lokakuu 09.00",
+      "Nuorisotalo, Koulukuja 8, Viitasaari",
+      "suomi"
+    ]
+  ],
+  "äänekoski": [
+    [
+      "aaa-möö",
+      "Ti 20. Lokakuu 09.00",
+      "Kaupungintalo, Hallintokatu 4, Äänekoski",
+      "suomi"
+    ],
+    [
+      "naa-ööö",
+      "Ke 21. Lokakuu 09.00",
+      "Kaupungintalo, Hallintokatu 4, Äänekoski",
+      "suomi"
+    ]
+  ],
+  "konnevesi": [
+    [
+      "aaa-ööö",
+      "To 22. Lokakuu 09.00",
+      "Kunnantalo, Kauppatie 25, Konnevesi",
+      "suomi"
+    ]
+  ],
+  "laukaa": [
+    [
+      "aaa-löö",
+      "Ti 27. Lokakuu 09.00",
+      "Hirviareena, Lintumäenkatu 3, Leppävesi",
+      "suomi"
+    ],
+    [
+      "maa-ööö",
+      "Ke 28. Lokakuu 09.00",
+      "Hirviareena, Lintumäenkatu 3, Leppävesi",
+      "suomi"
+    ]
+  ],
+  "jyväskylä": [
+    [
+      "aaa-hak",
+      "Ma 2. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "hal-häk",
+      "Ti 3. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "häl-kan",
+      "Ke 4. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "kao-käh",
+      "To 5. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "käi-luu",
+      "Pe 6. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "luv-nuu",
+      "Ma 9. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "nuv-pyy",
+      "Ti 10. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "pyz-sau",
+      "Ke 11. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "sav-tyn",
+      "To 12. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ],
+    [
+      "tyo-ööö",
+      "Pe 13. Marraskuu 09.00",
+      "Kristillinen opisto, Sulkulantie 28, Jyväskylä",
+      "suomi"
+    ]
+  ]
+}

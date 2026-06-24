@@ -1,0 +1,44 @@
+{
+  "kangasniemi": [
+    ["aaa-ööö", "Ti 18. Elokuu 09.00", "Kunnantalo, Otto Mannisen tie 2, Kangasniemi", "suomi"]
+  ],
+  "juva": [
+    ["aaa-ööö", "To 20. Elokuu 09.00", "Kunnanvirasto, Juvantie 13, Juva", "suomi"]
+  ],
+  "mäntyharju": [
+    ["aaa-ööö", "Ke 26. Elokuu 09.00", "Monitoimihalli Kisala, Urheilutie 1, Mäntyharju", "suomi"]
+  ],
+  "hirvensalmi": [
+    ["aaa-ööö", "Ke 26. Elokuu 09.00", "Monitoimihalli Kisala, Urheilutie 1, Mäntyharju", "suomi"]
+  ],
+  "puumala": [
+    ["aaa-ööö", "Ti 15. Syyskuu 09.00", "Seurakuntatalo, Vilkaharjuntie 1, Sulkava", "suomi"]
+  ],
+  "sulkava": [
+    ["aaa-ööö", "Ti 15. Syyskuu 09.00", "Seurakuntatalo, Vilkaharjuntie 1, Sulkava", "suomi"]
+  ],
+  "rantasalmi": [
+    ["aaa-ööö", "To 17. Syyskuu 09.00", "Kunnanvirasto, Eliel Saarisen tie 2, Rantasalmi", "suomi"]
+  ],
+  "savonlinna": [
+    ["aaa-kem", "Ti 29. Syyskuu 09.00", "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna", "suomi"],
+    ["ker-mik", "Ke 30. Syyskuu 09.00", "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna", "suomi"],
+    ["mor-sik", "To 1. Lokakuu 09.00", "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna", "suomi"],
+    ["sil-ööö", "Pe 2. Lokakuu 09.00", "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna", "suomi"]
+  ],
+  "enonkoski": [
+    ["aaa-ööö", "Pe 2. Lokakuu 09.00", "Kaupungintalo, A-osa, Olavinkatu 27, Savonlinna", "suomi"]
+  ],
+  "pieksämäki": [
+    ["aaa-kin", "Ti 13. Lokakuu 09.00", "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki", "suomi"],
+    ["kor-sal", "Ke 14. Lokakuu 09.00", "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki", "suomi"],
+    ["sav-ööö", "To 15. Lokakuu 09.00", "Kulttuurikeskus Poleeni, Savontie 13, Pieksämäki", "suomi"]
+  ],
+  "mikkeli": [
+    ["aaa-kok", "Ma 2. Marraskuu 09.00", "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli", "suomi"],
+    ["kon-les", "Ti 3. Marraskuu 09.00", "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli", "suomi"],
+    ["let-oke", "Ke 4. Marraskuu 09.00", "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli", "suomi"],
+    ["olk-tar", "To 5. Marraskuu 09.00", "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli", "suomi"],
+    ["til-ööö", "Pe 6. Marraskuu 09.00", "Jalkaväkimuseo, Jääkärinkatu 6-8, Mikkeli", "suomi"]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "suonenjoki": [
+    ["aaa-ööö", "Ti 18. Elokuu 09.00", "Yrityspuisto Futuria, Jalkalantie 6", "suomi"]
+  ],
+  "lapinlahti": [
+    ["aaa-ööö", "To 20. Elokuu 09.00", "Seurakuntatalo, Mykkäläntie 6", "suomi"]
+  ],
+  "kuopio": [
+    ["aaa-huo", "Ma 24. Elokuu 09.00", "Alavan srk-talo, Keihäskatu 5 B", "suomi"],
+    ["hva-kuö", "Ti 25. Elokuu 09.00", "Alavan srk-talo, Keihäskatu 5 B", "suomi"],
+    ["kva-paj", "Ke 26. Elokuu 09.00", "Alavan srk-talo, Keihäskatu 5 B", "suomi"],
+    ["pak-stö", "To 27. Elokuu 09.00", "Alavan srk-talo, Keihäskatu 5 B", "suomi"],
+    ["sua-ööö", "Pe 28. Elokuu 09.00", "Alavan srk-talo, Keihäskatu 5 B", "suomi"]
+  ],
+  "iisalmi": [
+    ["aaa-ööö", "Ti 8. Syyskuu 09.00", "Iisalmen liikuntahalli, Välikatu 3", "suomi"]
+  ],
+  "sonkajärvi": [
+    ["aaa-ööö", "To 10. Syyskuu 09.00", "Sonkajärven liikuntahalli, Kuntotie 4", "suomi"]
+  ],
+  "rautavaara": [
+    ["aaa-ööö", "To 10. Syyskuu 09.00", "Sonkajärven liikuntahalli, Kuntotie 4", "suomi"]
+  ],
+  "leppävirta": [
+    ["aaa-ööö", "To 1. Lokakuu 09.00", "Kunnantalo, Savonkatu 39", "suomi"]
+  ],
+  "vieremä": [
+    ["aaa-ööö", "Ti 20. Lokakuu 09.00", "Kunnantalo, Myllyjärventie 1", "suomi"]
+  ],
+  "kiuruvesi": [
+    ["aaa-ööö", "To 22. Lokakuu 09.00", "Kulttuuritalo, Lähteentie 10 A", "suomi"]
+  ],
+  "varkaus": [
+    ["aaa-ööö", "Ti 27. Lokakuu 09.00", "Warkaus-sali, Kauppatori 4", "suomi"]
+  ],
+  "keitele": [
+    ["aaa-ööö", "To 29. Lokakuu 09.00", "Vanha Meijeri, Meijeritie 6, Keitele", "suomi"]
+  ],
+  "tervo": [
+    ["aaa-ööö", "To 29. Lokakuu 09.00", "Vanha Meijeri, Meijeritie 6, Keitele", "suomi"]
+  ],
+  "kaavi": [
+    ["aaa-ööö", "To 5. Marraskuu 09.00", "Nuorisotalo Kamari, Kunnantie 4, Kaavi", "suomi"]
+  ],
+  "tuusniemi": [
+    ["aaa-ööö", "To 5. Marraskuu 09.00", "Nuorisotalo Kamari, Kunnantie 4, Kaavi", "suomi"]
+  ],
+  "siilinjärvi": [
+    ["aaa-ööö", "Ti 10. Marraskuu 09.00", "Kunnonpaikka, Jokiharjuntie 3, Vuorela", "suomi"]
+  ],
+  "pielavesi": [
+    ["aaa-ööö", "To 12. Marraskuu 09.00", "Suojala, Puistotie 8", "suomi"]
+  ],
+  "rautalampi": [
+    ["aaa-ööö", "Ti 17. Marraskuu 09.00", "Rautalammin kunnanvirasto, Kuopiontie 11", "suomi"]
+  ],
+  "vesanto": [
+    ["aaa-ööö", "Ti 17. Marraskuu 09.00", "Rautalammin kunnanvirasto, Kuopiontie 11", "suomi"]
+  ],
+  "joroinen": [
+    ["aaa-ööö", "To 19. Marraskuu 09.00", "Joroisten yhtenäiskoulu, Koulutie 1", "suomi"]
+  ]
+}

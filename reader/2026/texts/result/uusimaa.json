@@ -1,0 +1,131 @@
+{
+  "karkkila": [
+    ["aaa-ööö", "Ma 17. Elokuuta 08.45", "Karkkilan kaupungin palvelukeskus, Nyhkäläntie 39, Karkkila", "suomi"]
+  ],
+  "inkoo": [
+    ["aaa-ööö", "Ti 18. Elokuuta 08.45", "Hyvinvointikeskus Huvikumpu, Museontie 9, Inkoo", "suomi"]
+  ],
+  "siuntio": [
+    ["aaa-ööö", "Ti 18. Elokuuta 08.45", "Hyvinvointikeskus Huvikumpu, Museontie 9, Inkoo", "suomi"]
+  ],
+  "hanko": [
+    ["aaa-ööö", "Ke 19. Elokuuta 08.45", "Hangon kaupungintalo, Vuorikatu 1, Hanko", "suomi"]
+  ],
+  "raasepori": [
+    ["aaa-lom", "To 20. Elokuuta 08.45", "Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori", "suomi"],
+    ["lon-ööö", "Pe 21. Elokuuta 08.45", "Tammisaaren nuorisotalo, Ystadinkatu 14, Raasepori", "suomi"]
+  ],
+  "porvoo": [
+    ["aaa-lor", "Ma 24. Elokuuta 08.45", "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo", "suomi"],
+    ["los-ööö", "Ti 25. Elokuuta 08.45", "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo", "suomi"],
+    ["aaa-ööö", "Ke 26. Elokuuta 08.45", "Gammelbackan seurakuntakeskus, Viertotie 1, Porvoo", "ruotsi"]
+  ],
+  "sipoo": [
+    ["aaa-räi", "To 27. Elokuuta 08.45", "Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo", "suomi"],
+    ["räj-ööö", "Pe 28. Elokuuta 08.45", "Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo", "suomi"],
+    ["aaa-ööö", "Pe 28. Elokuuta 08.45", "Nikkilän Juhlatalo, Vanha vesitorninmäki 1, Sipoo", "ruotsi"]
+  ],
+  "mäntsälä": [
+    ["aaa-luo", "Ti 1. Syyskuuta 08.45", "Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä", "suomi"],
+    ["lup-ööö", "Ti 1. Syyskuuta 12.00", "Mäntsälän kunnantalo, Heikinkuja 4, Mäntsälä", "suomi"]
+  ],
+  "loviisa": [
+    ["aaa-ööö", "Ke 2. Syyskuuta 08.45", "Loviisan liikuntahalli, Brandensteininkatu 29, Loviisa", "suomi"]
+  ],
+  "myrskylä": [
+    ["aaa-ööö", "To 3. Syyskuuta 08.45", "Myrskylän seurakuntakoti, Keskustie 2, Myrskylä", "suomi"]
+  ],
+  "pukkila": [
+    ["aaa-ööö", "To 3. Syyskuuta 08.45", "Myrskylän seurakuntakoti, Keskustie 2, Myrskylä", "suomi"]
+  ],
+  "lapinjärvi": [
+    ["aaa-ööö", "To 3. Syyskuuta 14.00", "Lapinjärven seurakuntakoti, Lapinjärventie 24, Lapinjärvi", "suomi"]
+  ],
+  "pornainen": [
+    ["aaa-ööö", "Pe 4. Syyskuuta 08.45", "Pornaisten seurakuntakeskus, Kirkkopolku 4, Pornainen", "suomi"]
+  ],
+  "askola": [
+    ["aaa-ööö", "Pe 4. Syyskuuta 08.45", "Pornaisten seurakuntakeskus, Kirkkopolku 4, Pornainen", "suomi"]
+  ],
+  "tuusula": [
+    ["aaa-met", "Ma 7. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"],
+    ["meu-ööö", "Ti 8. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"]
+  ],
+  "järvenpää": [
+    ["aaa-lod", "To 10. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"],
+    ["loe-ööö", "Pe 11. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"]
+  ],
+  "kerava": [
+    ["aaa-leh", "Ti 15. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"],
+    ["lei-ööö", "To 17. Syyskuuta 08.45", "Puolustusvoimien kurssikeskus, Rantatie 66, Tuusula", "suomi"]
+  ],
+  "hyvinkää": [
+    ["aaa-kok", "Ti 29. Syyskuuta 08.45", "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää", "suomi"],
+    ["kol-pov", "Ke 30. Syyskuuta 08.45", "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää", "suomi"],
+    ["pow-ööö", "To 1. Lokakuuta 08.45", "Hyvinkään seurakuntakeskus, Hämeenkatu 16, Hyvinkää", "suomi"]
+  ],
+  "nurmijärvi": [
+    ["aaa-moi", "Ma 5. Lokakuuta 08.45", "Nurmijärven seurakuntakeskus, Kirstaantie 5-7, Nurmijärvi", "suomi"],
+    ["moj-ööö", "Ti 6. Lokakuuta 08.45", "Nurmijärven seurakuntakeskus, Kirstaantie 5-7, Nurmijärvi", "suomi"]
+  ],
+  "vihti": [
+    ["aaa-mäi", "To 8. Lokakuuta 08.45", "Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti", "suomi"],
+    ["mäj-ööö", "Pe 9. Lokakuuta 08.45", "Vihdin seurakuntatalo, Niuhulanraitti 6, Vihti", "suomi"]
+  ],
+  "kirkkonummi": [
+    ["aaa-lum", "Ma 12. Lokakuuta 08.45", "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi", "suomi"],
+    ["lun-ööö", "Ti 13. Lokakuuta 08.45", "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi", "suomi"],
+    ["aaa-ööö", "Ke 14. Lokakuuta 08.45", "Kirkkonummen kunnantalo, Ervastintie 2, Kirkkonummi", "ruotsi"]
+  ],
+  "lohja": [
+    ["aaa-lån", "To 15. Lokakuuta 08.45", "Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja", "suomi"],
+    ["låo-ööö", "Pe 16. Lokakuuta 08.45", "Länsi-Uudenmaan musiikkiopisto, Kirkkokatu 6, Lohja", "suomi"]
+  ],
+  "kauniainen": [
+    ["aaa-ööö", "Ma 19. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"]
+  ],
+  "espoo": [
+    ["aaa-dor", "Ti 20. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["dos-hii", "Ke 21. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["hij-kak", "To 22. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["kal-kuk", "Pe 23. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["kul-luk", "Ma 26. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["lul-nii", "Ti 27. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["nij-raf", "Ke 28. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["rag-seu", "To 29. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["sev-tuo", "Pe 30. Lokakuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["tup-ööö", "Ma 2. Marraskuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "suomi"],
+    ["aaa-ööö", "Ti 3. Marraskuuta 08.45", "Kannusillanmäen väestönsuoja, Kannusillankatu 4, Espoo", "ruotsi"]
+  ],
+  "vantaa": [
+    ["aaa-eze", "Ke 4. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["ezf-imp", "To 5. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["imo-kop", "Pe 6. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["koo-mal", "Ma 9. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["mam-pan", "Ti 10. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["pao-sat", "Ke 11. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["sau-vaa", "To 12. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["vab-ööö", "Pe 13. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "suomi"],
+    ["aaa-ööö", "Pe 13. Marraskuuta 08.45", "Monitoimikeskus Lumo, Urpiaisentie 14, Vantaa", "ruotsi"]
+  ],
+  "helsinki": [
+    ["aaa-anu", "Ma 16. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["anv-doa", "Ti 17. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["dob-hak", "To 19. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["hal-hum", "Pe 20. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["hun-kaf", "Ma 23. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["kag-kok", "Ti 24. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["kol-lah", "Ke 25. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["lai-lun", "To 26. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["luo-mol", "Pe 27. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["mom-nyl", "Ma 30. Marraskuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["nym-pir", "Ti 1. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["pis-räm", "To 3. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["rän-sil", "Pe 4. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["sim-tia", "Ma 7. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["tib-ver", "Ti 8. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["ves-ööö", "Ke 9. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "suomi"],
+    ["aaa-lun", "To 10. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "ruotsi"],
+    ["luo-ööö", "Pe 11. Joulukuuta 08.45", "Karjalatalo, Käpylänkuja 1, Helsinki", "ruotsi"]
+  ]
+}
