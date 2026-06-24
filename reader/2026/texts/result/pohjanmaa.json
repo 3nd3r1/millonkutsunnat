@@ -1,0 +1,412 @@
+{
+  "uusikaarlepyy": [
+    [
+      "aaa-ööö",
+      "Ma 17. Elokuu 09.00",
+      "Kaupungintalo, Topeliuksenpuistikko 7, Uusikaarlepyy",
+      "suomi"
+    ]
+  ],
+  "pedersöre": [
+    [
+      "aaa-köö",
+      "Ti 18. Elokuu 09.00",
+      "Kunnantalo, Skrufvilankatu 2, Pännäinen",
+      "suomi"
+    ],
+    [
+      "laa-ööö",
+      "Ke 19. Elokuu 09.00",
+      "Kunnantalo, Skrufvilankatu 2, Pännäinen",
+      "suomi"
+    ]
+  ],
+  "kruunupyy": [
+    [
+      "aaa-ööö",
+      "To 20. Elokuu 09.00",
+      "Kunnantalo, Säbråntie 2, Kruunupyy",
+      "suomi"
+    ]
+  ],
+  "närpiö": [
+    [
+      "aaa-ööö",
+      "Ma 24. Elokuu 09.00",
+      "Mittistan-talo, Närpiöntie 16, Närpiö",
+      "suomi"
+    ]
+  ],
+  "kaskinen": [
+    [
+      "aaa-ööö",
+      "Ma 24. Elokuu 09.00",
+      "Mittistan-talo, Närpiöntie 16, Närpiö",
+      "suomi"
+    ]
+  ],
+  "maalahti": [
+    [
+      "aaa-ööö",
+      "Ti 25. Elokuu 09.00",
+      "Kunnantalo, Malminkatu 5, Maalahti",
+      "suomi"
+    ]
+  ],
+  "korsnäs": [
+    [
+      "aaa-ööö",
+      "Ti 25. Elokuu 09.00",
+      "Kunnantalo, Malminkatu 5, Maalahti",
+      "suomi"
+    ]
+  ],
+  "kristiinankaupunki": [
+    [
+      "aaa-ööö",
+      "Ke 26. Elokuu 09.00",
+      "Raatihuone, Aitakatu 1, Kristiinankaupunki",
+      "suomi"
+    ]
+  ],
+  "vöyri": [
+    [
+      "aaa-ööö",
+      "Ma 31. Elokuu 09.00",
+      "Norrvalla Folkhälsan, Vöyrintie 305 – 307, Vöyri",
+      "suomi"
+    ]
+  ],
+  "luoto": [
+    [
+      "aaa-ööö",
+      "Ti 01. Syyskuu 09.00",
+      "Kunnantalo, Pohjoinen Luodontie 30, Luoto",
+      "suomi"
+    ]
+  ],
+  "pietarsaari": [
+    [
+      "aaa-ööö",
+      "Ke 02. Syyskuu 09.00",
+      "Tupakkamakasiini, Jaakonkatu 9, Pietarsaari",
+      "ruotsi"
+    ],
+    [
+      "aaa-ööö",
+      "To 03. Syyskuu 09.00",
+      "Tupakkamakasiini, Jaakonkatu 9, Pietarsaari",
+      "suomi"
+    ]
+  ],
+  "evijärvi": [
+    [
+      "aaa-ööö",
+      "Ti 08. Syyskuu 09.00",
+      "Kunnantalo, Viskarinaukio 3, Evijärvi",
+      "suomi"
+    ]
+  ],
+  "lappajärvi": [
+    [
+      "aaa-ööö",
+      "Ti 08. Syyskuu 09.00",
+      "Kunnantalo, Viskarinaukio 3, Evijärvi",
+      "suomi"
+    ]
+  ],
+  "kauhava": [
+    [
+      "aaa-ööö",
+      "Ke 09. Syyskuu 09.00",
+      "Seurakuntakoti, Kirkkotie 3 B, Kauhava",
+      "suomi"
+    ]
+  ],
+  "isokyrö": [
+    [
+      "aaa-ööö",
+      "Pe 11. Syyskuu 09.00",
+      "Kunnanvirasto, Pohjankyröntie 136, Isokyrö",
+      "suomi"
+    ]
+  ],
+  "kaustinen": [
+    [
+      "aaa-ööö",
+      "Ti 06. Lokakuu 09.00",
+      "Kunnan virastotalo, Kappelintie 13, Kaustinen",
+      "suomi"
+    ]
+  ],
+  "veteli": [
+    [
+      "aaa-ööö",
+      "Ke 07. Lokakuu 09.00",
+      "Seurakuntatalo, Torpantie 129, Veteli",
+      "suomi"
+    ]
+  ],
+  "halsua": [
+    [
+      "aaa-ööö",
+      "Ke 07. Lokakuu 09.00",
+      "Seurakuntatalo, Torpantie 129, Veteli",
+      "suomi"
+    ]
+  ],
+  "perho": [
+    [
+      "aaa-ööö",
+      "Ke 07. Lokakuu 14.00",
+      "Seurakuntatalo, Sahintie 3, Perho",
+      "suomi"
+    ]
+  ],
+  "kannus": [
+    [
+      "aaa-ööö",
+      "To 08. Lokakuu 09.00",
+      "Kaupunginvirasto, Asematie 1, Kannus",
+      "suomi"
+    ]
+  ],
+  "toholampi": [
+    [
+      "aaa-ööö",
+      "Pe 09. Lokakuu 09.00",
+      "Toholammin kunnantalo, Lampintie 5, Toholampi",
+      "suomi"
+    ]
+  ],
+  "lestijärvi": [
+    [
+      "aaa-ööö",
+      "Pe 09. Lokakuu 09.00",
+      "Toholammin kunnantalo, Lampintie 5, Toholampi",
+      "suomi"
+    ]
+  ],
+  "vaasa": [
+    [
+      "aaa-hal",
+      "Ti 20. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "suomi"
+    ],
+    [
+      "iii-lll",
+      "Ke 21. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "suomi"
+    ],
+    [
+      "mmm-rrr",
+      "To 22. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "suomi"
+    ],
+    [
+      "sss-ööö",
+      "Pe 23. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "suomi"
+    ],
+    [
+      "aaa-lll",
+      "Ma 26. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "ruotsi"
+    ],
+    [
+      "mmm-ööö",
+      "Ti 27. Lokakuu 09.00",
+      "Valtion virastotalo, Wolffintie 35, Vaasa",
+      "ruotsi"
+    ]
+  ],
+  "mustasaari": [
+    [
+      "aaa-ööö",
+      "Ke 28. Lokakuu 09.00",
+      "Mustasaaren aikuisopisto, Koulutie 1, Mustasaari",
+      "ruotsi"
+    ],
+    [
+      "aaa-ööö",
+      "To 29. Lokakuu 09.00",
+      "Mustasaaren aikuisopisto, Koulutie 1, Mustasaari",
+      "suomi"
+    ]
+  ],
+  "kurikka": [
+    [
+      "aaa-ööö",
+      "Ti 10. Marraskuu 09.00",
+      "Seurakuntakeskus, Kurikantie 21, Kurikka",
+      "suomi"
+    ]
+  ],
+  "laihia": [
+    [
+      "aaa-ööö",
+      "Ke 11. Marraskuu 09.00",
+      "Seurakuntatalo, Kirkkotie 3, Laihia",
+      "suomi"
+    ]
+  ],
+  "kauhajoki": [
+    [
+      "aaa-ööö",
+      "To 12. Marraskuu 09.00",
+      "Seurakuntakeskus, Kyntäjäntie 3, Kauhajoki",
+      "suomi"
+    ]
+  ],
+  "seinäjoki": [
+    [
+      "aaa-jjj",
+      "Ma 16. Marraskuu 09.00",
+      "Frami B-talo, Kampusranta 9B, Seinäjoki",
+      "suomi"
+    ],
+    [
+      "kkk-kkk",
+      "Ti 17. Marraskuu 09.00",
+      "Frami B-talo, Kampusranta 9B, Seinäjoki",
+      "suomi"
+    ],
+    [
+      "lll-mmm",
+      "Ke 18. Marraskuu 09.00",
+      "Frami B-talo, Kampusranta 9B, Seinäjoki",
+      "suomi"
+    ],
+    [
+      "nnn-rrr",
+      "To 19. Marraskuu 09.00",
+      "Frami B-talo, Kampusranta 9B, Seinäjoki",
+      "suomi"
+    ],
+    [
+      "sss-ööö",
+      "Pe 20. Marraskuu 09.00",
+      "Frami B-talo, Kampusranta 9B, Seinäjoki",
+      "suomi"
+    ]
+  ],
+  "alajärvi": [
+    [
+      "aaa-ööö",
+      "Ti 24. Marraskuu 09.00",
+      "Seurakuntatalo, Alvar Aallontie 3, Alajärvi",
+      "suomi"
+    ]
+  ],
+  "vimpeli": [
+    [
+      "aaa-ööö",
+      "Ti 24. Marraskuu 09.00",
+      "Seurakuntatalo, Alvar Aallontie 3, Alajärvi",
+      "suomi"
+    ]
+  ],
+  "soini": [
+    [
+      "aaa-ööö",
+      "Ti 24. Marraskuu 09.00",
+      "Seurakuntatalo, Alvar Aallontie 3, Alajärvi",
+      "suomi"
+    ]
+  ],
+  "ähtäri": [
+    [
+      "aaa-ööö",
+      "Ke 25. Marraskuu 09.00",
+      "Pirkanlinna, Lukiontie 2, Ähtäri",
+      "suomi"
+    ]
+  ],
+  "kuortane": [
+    [
+      "aaa-ööö",
+      "Ke 25. Marraskuu 09.00",
+      "Kunnantalo, Keskustie 52, Kuortane",
+      "suomi"
+    ]
+  ],
+  "alavus": [
+    [
+      "aaa-ööö",
+      "To 26. Marraskuu 09.00",
+      "Kokoustila (Hotelli Onnentähti), Onnentie 7",
+      "suomi"
+    ]
+  ],
+  "teuva": [
+    [
+      "aaa-ööö",
+      "Ti 01. Joulukuu 09.00",
+      "Kulttuuritalo Orrela, Porvarintie 51, Teuva",
+      "suomi"
+    ]
+  ],
+  "isojoki": [
+    [
+      "aaa-ööö",
+      "Ti 01. Joulukuu 09.00",
+      "Kunnanvirasto, Teollisuustie 1, Isojoki",
+      "suomi"
+    ]
+  ],
+  "karijoki": [
+    [
+      "aaa-ööö",
+      "Ti 01. Joulukuu 09.00",
+      "Kunnanvirasto, Teollisuustie 1, Isojoki",
+      "suomi"
+    ]
+  ],
+  "ilmajoki": [
+    [
+      "aaa-ööö",
+      "Ke 02. Joulukuu 09.00",
+      "Seurakuntakeskus, Kirkkotie 35, Ilmajoki",
+      "suomi"
+    ]
+  ],
+  "lapua": [
+    [
+      "aaa-ööö",
+      "To 03. Joulukuu 09.00",
+      "Vanha Paukku, Kauppakatu 23, Lapua",
+      "suomi"
+    ]
+  ],
+  "kokkola": [
+    [
+      "aaa-jjj",
+      "Ti 08. Joulukuu 09.00",
+      "Kaupungintalo, Kauppatori 5, Kokkola",
+      "suomi"
+    ],
+    [
+      "kkk-ooo",
+      "Ke 09. Joulukuu 09.00",
+      "Kaupungintalo, Kauppatori 5, Kokkola",
+      "suomi"
+    ],
+    [
+      "ppp-ööö",
+      "To 10. Joulukuu 09.00",
+      "Kaupungintalo, Kauppatori 5, Kokkola",
+      "suomi"
+    ],
+    [
+      "aaa-ööö",
+      "Pe 11. Joulukuu 09.00",
+      "Kaupungintalo, Kauppatori 5, Kokkola",
+      "ruotsi"
+    ]
+  ]
+}

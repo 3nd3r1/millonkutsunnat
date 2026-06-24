@@ -1,0 +1,61 @@
+{
+  "taipalsaari": [
+    ["aaa-ööö", "Ti 18. Elokuu 08.45", "Taipalsaaren kunnantalo, Kellomäentie 1, 54920 Taipalsaari", "suomi"]
+  ],
+  "savitaipale": [
+    ["aaa-ööö", "Ke 19. Elokuu 08.45", "Savitaipaleen liikuntatalo, Jonni Myyrän tie 1, 54800 Savitaipale", "suomi"]
+  ],
+  "lemi": [
+    ["aaa-ööö", "To 20. Elokuu 08.45", "Lemin koulukeskus, Punaportinkatu 7, 54710 Lemi", "suomi"]
+  ],
+  "luumäki": [
+    ["aaa-ööö", "To 20. Elokuu 08.45", "Lemin koulukeskus, Punaportinkatu 7, 54710 Lemi", "suomi"]
+  ],
+  "ruokolahti": [
+    ["aaa-ööö", "Ti 25. Elokuu 08.45", "STEP-koulutus Ruokolahti, Opistontie 21, 56100 Ruokolahti", "suomi"]
+  ],
+  "parikkala": [
+    ["aaa-ööö", "Ke 26. Elokuu 08.45", "Parikkalan kunnantalo Harjulinna, Harjukuja 6, 59100 Parikkala", "suomi"]
+  ],
+  "rautjärvi": [
+    ["aaa-ööö", "To 27. Elokuu 08.45", "Rautjärven kunnantalo, Simpeleentie 12, 56800 Simpele", "suomi"]
+  ],
+  "imatra": [
+    ["aaa-mus", "Ke 9. Syyskuu 08.45", "Kulttuuritalo Virta, Virastokatu 1, 55100 Imatra", "suomi"],
+    ["mut-ööö", "To 10. Syyskuu 08.45", "Kulttuuritalo Virta, Virastokatu 1, 55100 Imatra", "suomi"]
+  ],
+  "lappeenranta": [
+    ["aaa-jou", "Ma 28. Syyskuu 08.45", "Lappeenrannan Urheilutalo, Pohjolankatu 29, 53100 LPR", "suomi"],
+    ["jov-lal", "Ti 29. Syyskuu 08.45", "Lappeenrannan Urheilutalo, Pohjolankatu 29, 53100 LPR", "suomi"],
+    ["lam-pek", "Ke 30. Syyskuu 08.45", "Lappeenrannan Urheilutalo, Pohjolankatu 29, 53100 LPR", "suomi"],
+    ["pel-soi", "To 1. Lokakuu 08.45", "Lappeenrannan Urheilutalo, Pohjolankatu 29, 53100 LPR", "suomi"],
+    ["soj-ööö", "Pe 2. Lokakuu 08.45", "Lappeenrannan Urheilutalo, Pohjolankatu 29, 53100 LPR", "suomi"]
+  ],
+  "hamina": [
+    ["aaa-jau", "Ma 12. Lokakuu 08.45", "Vehkalahti-talo, Ruissalontie 8, 49410 Hamina", "suomi"],
+    ["jav-ööö", "Ti 13. Lokakuu 08.45", "Vehkalahti-talo, Ruissalontie 8, 49410 Hamina", "suomi"]
+  ],
+  "miehikkälä": [
+    ["aaa-ööö", "Ke 14. Lokakuu 08.45", "Virojoen koulukeskus, Rantatie 5, 49900 Virolahti", "suomi"]
+  ],
+  "virolahti": [
+    ["aaa-ööö", "Ke 14. Lokakuu 08.45", "Virojoen koulukeskus, Rantatie 5, 49900 Virolahti", "suomi"]
+  ],
+  "pyhtää": [
+    ["aaa-ööö", "To 15. Lokakuu 08.45", "Huutjärven koulu, Huutjärventie 56, 49210 Huutjärvi", "suomi"]
+  ],
+  "kotka": [
+    ["aaa-kai", "Ti 27. Lokakuu 08.45", "Savotan toimintakeskus, Mussalontie 428, 48310 Kotka", "suomi"],
+    ["kaj-luo", "Ke 28. Lokakuu 08.45", "Savotan toimintakeskus, Mussalontie 428, 48310 Kotka", "suomi"],
+    ["lup-roi", "To 29. Lokakuu 08.45", "Savotan toimintakeskus, Mussalontie 428, 48310 Kotka", "suomi"],
+    ["roj-ööö", "Pe 30. Lokakuu 08.45", "Savotan toimintakeskus, Mussalontie 428, 48310 Kotka", "suomi"]
+  ],
+  "kouvola": [
+    ["aaa-hir", "Ti 10. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"],
+    ["his-kom", "Ke 11. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"],
+    ["kon-myr", "To 12. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"],
+    ["mys-pun", "Ma 16. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"],
+    ["puo-tam", "Ti 17. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"],
+    ["tan-ööö", "Ke 18. Marraskuu 08.45", "Kouvolan kaupungintalo, Torikatu 10, 45100 Kouvola", "suomi"]
+  ]
+}
